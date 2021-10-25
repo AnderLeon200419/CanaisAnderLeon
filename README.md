@@ -1,4 +1,2004 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="http://p6.vc/Ao" group-title="Filmes | Cinema",O Exterminador Do Futuro: Destino Sombrio Cinema
+http://pfsv.io:80/movie/51162306/imagination.me/4424.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/YP" group-title="Filmes | Cinema",O Preço Da Ajuda
+http://pfsv.io:80/movie/51162306/imagination.me/56224.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/8A" group-title="Filmes | Cinema",Os Croods 2 Uma Nova Era Cinema
+http://pfsv.io:80/movie/51162306/imagination.me/63312.mkv
+#EXTINF:-1 tvg-logo="http://p6.vc/HP" group-title="Filmes | Cinema",Os Órfãos Cinema
+http://pfsv.io:80/movie/51162306/imagination.me/34175.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/rK" group-title="Filmes | Cinema",Pets: A Vida Secreta Dos Bichos 2 Cinema
+http://pfsv.io:80/movie/51162306/imagination.me/4418.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/ym" group-title="Filmes | Cinema",Rambo: Até O Fimcinema
+http://pfsv.io:80/movie/51162306/imagination.me/4417.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bob" group-title="Filmes | Cinema",Rogai Por Nos [Cinema]
+http://pfsv.io:80/movie/51162306/imagination.me/69062.mkv
+#EXTINF:-1 tvg-logo="http://p6.vc/bob" group-title="Filmes | Cinema",Rogai Por Nos [Cinema][Dublagem Nao Oficial]
+http://pfsv.io:80/movie/51162306/imagination.me/69120.mkv
+#EXTINF:-1 tvg-logo="http://p6.vc/bob" group-title="Filmes | Cinema",Rogai Por Nos [Cinema][Dublagem Oficial]
+http://pfsv.io:80/movie/51162306/imagination.me/69121.mkv
+#EXTINF:-1 tvg-logo="http://p6.vc/byF" group-title="Filmes | Cinema",Shang-Chi E A Lenda Dos Dez Anéis [Cinema]
+http://pfsv.io:80/movie/51162306/imagination.me/92018.mkv
+#EXTINF:-1 tvg-logo="http://p6.vc/bwS" group-title="Filmes | Cinema",Tempo [Cinema] [L]
+http://pfsv.io:80/movie/51162306/imagination.me/90902.mkv
+#EXTINF:-1 tvg-logo="http://p6.vc/As" group-title="Filmes | Cinema",The Beach Bum - Levando A Vida Numa Boa Cinema
+http://pfsv.io:80/movie/51162306/imagination.me/4428.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/th" group-title="Filmes | Cinema",Um Maluco No Natal
+http://pfsv.io:80/movie/51162306/imagination.me/4161.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Kk" group-title="Filmes | Cinema",Um Mistério De Aurora Teagarden: Jogo De Enganação
+http://pfsv.io:80/movie/51162306/imagination.me/30161.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Km" group-title="Filmes | Cinema",Um Mistério De Aurora Teagarden: Uma Herança De Matar
+http://pfsv.io:80/movie/51162306/imagination.me/30162.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Aj" group-title="Filmes | Cinema",Zumbilândia: Atire Duas Vezes Cinema
+http://pfsv.io:80/movie/51162306/imagination.me/4422.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fpD2jkeaSZvPbgpcpqhv765R8PF.jpg" group-title="Filmes | Cinema",007: Sem Tempo Para Morrer
+http://pfsv.io:80/movie/51162306/imagination.me/94994.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kz7xJLowO4x0BpcB1IJb9uIXgrq.jpg" group-title="Filmes | Cinema",Venom: Tempo De Carnificina
+http://pfsv.io:80/movie/51162306/imagination.me/95004.mkv
+#EXTINF:-1 tvg-logo="http://p6.vc/AG" group-title="Filmes | Comedia",#NUDES
+http://pfsv.io:80/movie/51162306/imagination.me/29842.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/ye" group-title="Filmes | Comedia",#RealityHigh
+http://pfsv.io:80/movie/51162306/imagination.me/4341.mp4
+#EXTINF:-1 tvg-logo="https://uauposters.com.br/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/1/5/152120140525-uau-posters-filmes-500-dias-com-ela-500-days-of-summer-joseph-godon-levit-2.jpg" group-title="Filmes | Comedia",(500) Dias Com Ela
+http://pfsv.io:80/movie/51162306/imagination.me/1459.mp4
+#EXTINF:-1 tvg-logo="https://arquivom.files.wordpress.com/2009/03/uma-noite-no-museu-download.jpg?w=640" group-title="Filmes | Comedia",1 - Uma Noite No Museu
+http://pfsv.io:80/movie/51162306/imagination.me/1071.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/medias/nmedia/18/96/88/73/20540753.jpg" group-title="Filmes | Comedia",10 Anos De Pura Amizade
+http://pfsv.io:80/movie/51162306/imagination.me/1451.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/K6" group-title="Filmes | Comedia",10 Coisas Que Deveríamos Fazer Antes De Nos Separar
+http://pfsv.io:80/movie/51162306/imagination.me/33407.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/dz" group-title="Filmes | Comedia",10 Coisas Que Eu Odeio Em Você
+http://pfsv.io:80/movie/51162306/imagination.me/1340.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/35" group-title="Filmes | Comedia",10 Horas Para O Natal
+http://pfsv.io:80/movie/51162306/imagination.me/58657.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/vm" group-title="Filmes | Comedia",100 Coisas
+http://pfsv.io:80/movie/51162306/imagination.me/4230.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/d0" group-title="Filmes | Comedia",17 Outra Vez
+http://pfsv.io:80/movie/51162306/imagination.me/1517.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/medias/nmedia/18/87/88/78/19962570.jpg" group-title="Filmes | Comedia",2 - Uma Noite No Museu 2
+http://pfsv.io:80/movie/51162306/imagination.me/1099.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/K4" group-title="Filmes | Comedia",2 Minutos De Fama
+http://pfsv.io:80/movie/51162306/imagination.me/33406.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/c_310_420/pictures/14/04/14/16/18/133812.jpg" group-title="Filmes | Comedia",20 Anos + Jovem
+http://pfsv.io:80/movie/51162306/imagination.me/1395.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/14/12/19/22/09/360270.jpg" group-title="Filmes | Comedia",3 - Uma Noite No Museu 3: O Segredo Da Tumba
+http://pfsv.io:80/movie/51162306/imagination.me/1439.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/1i" group-title="Filmes | Comedia",3 Turcos E Um Bebê
+http://pfsv.io:80/movie/51162306/imagination.me/58312.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/sS" group-title="Filmes | Comedia",4 Latas
+http://pfsv.io:80/movie/51162306/imagination.me/4148.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Th" group-title="Filmes | Comedia",A Babá: Rainha Da Morte
+http://pfsv.io:80/movie/51162306/imagination.me/48759.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Q1" group-title="Filmes | Comedia",A Barraca Do Beijo 2
+http://pfsv.io:80/movie/51162306/imagination.me/35964.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/9m" group-title="Filmes | Comedia",A Caixa De Pandora
+http://pfsv.io:80/movie/51162306/imagination.me/61921.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/18/02/01/20/53/1126551.jpg" group-title="Filmes | Comedia",A Casa Caiu - Um Cassino Na Vizinhança
+http://pfsv.io:80/movie/51162306/imagination.me/1420.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/TK" group-title="Filmes | Comedia",A Casa De Hóspedes
+http://pfsv.io:80/movie/51162306/imagination.me/48781.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/cx" group-title="Filmes | Comedia",A Chefa
+http://pfsv.io:80/movie/51162306/imagination.me/1257.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/fz" group-title="Filmes | Comedia",A Comédia Divina
+http://pfsv.io:80/movie/51162306/imagination.me/1507.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/x7" group-title="Filmes | Comedia",A Copa Do Peru
+http://pfsv.io:80/movie/51162306/imagination.me/4338.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/cp" group-title="Filmes | Comedia",A Creche Do Papai
+http://pfsv.io:80/movie/51162306/imagination.me/1097.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/AY" group-title="Filmes | Comedia",A Creche Do Papai 3
+http://pfsv.io:80/movie/51162306/imagination.me/29851.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/jU" group-title="Filmes | Comedia",A Despedida
+http://pfsv.io:80/movie/51162306/imagination.me/68947.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/fi" group-title="Filmes | Comedia",A Escala - Amizade Em Segundo Lugar
+http://pfsv.io:80/movie/51162306/imagination.me/1485.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/uy" group-title="Filmes | Comedia",A Escola Da Vida
+http://pfsv.io:80/movie/51162306/imagination.me/4204.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/k" group-title="Filmes | Comedia",A Escolha Perfeita
+http://pfsv.io:80/movie/51162306/imagination.me/1476.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/gJV" group-title="Filmes | Comedia",A Escolha Perfeita 2
+http://pfsv.io:80/movie/51162306/imagination.me/1166.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/gKA" group-title="Filmes | Comedia",A Escolha Perfeita 3
+http://pfsv.io:80/movie/51162306/imagination.me/47348.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/A5" group-title="Filmes | Comedia",A Extraordinária Garota Chamada Estrela
+http://pfsv.io:80/movie/51162306/imagination.me/29855.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/cZ" group-title="Filmes | Comedia",A Extraordinária Jornada Do Fakir
+http://pfsv.io:80/movie/51162306/imagination.me/1247.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/RR" group-title="Filmes | Comedia",A Família Addams
+http://pfsv.io:80/movie/51162306/imagination.me/41883.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/di" group-title="Filmes | Comedia",A Família Buscapé
+http://pfsv.io:80/movie/51162306/imagination.me/1328.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/dT" group-title="Filmes | Comedia",A Família Bélier
+http://pfsv.io:80/movie/51162306/imagination.me/1367.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/brc" group-title="Filmes | Comedia",A Família Bélier
+http://pfsv.io:80/movie/51162306/imagination.me/71902.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Z0" group-title="Filmes | Comedia",A Festa De Formatura
+http://pfsv.io:80/movie/51162306/imagination.me/57694.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/cX" group-title="Filmes | Comedia",A Filha Do Presidente
+http://pfsv.io:80/movie/51162306/imagination.me/1289.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/f9I" group-title="Filmes | Comedia",A Filha Dos Trapalhões
+http://pfsv.io:80/movie/51162306/imagination.me/35974.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bjD" group-title="Filmes | Comedia",A Fogueira Das Vaidades
+http://pfsv.io:80/movie/51162306/imagination.me/66664.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/A7" group-title="Filmes | Comedia",A Fortuna
+http://pfsv.io:80/movie/51162306/imagination.me/29857.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/cV" group-title="Filmes | Comedia",A Fraternidade
+http://pfsv.io:80/movie/51162306/imagination.me/1287.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/XS" group-title="Filmes | Comedia",A Galeria Dos Corações Partidos
+http://pfsv.io:80/movie/51162306/imagination.me/56183.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/cL" group-title="Filmes | Comedia",A Grande Aposta
+http://pfsv.io:80/movie/51162306/imagination.me/1275.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bgb" group-title="Filmes | Comedia",A Grande Aposta
+http://pfsv.io:80/movie/51162306/imagination.me/63800.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bkt" group-title="Filmes | Comedia",A Guerra Dos Roses
+http://pfsv.io:80/movie/51162306/imagination.me/67398.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/baS" group-title="Filmes | Comedia",A Herança De Mr  Deeds
+http://pfsv.io:80/movie/51162306/imagination.me/62804.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/6R" group-title="Filmes | Comedia",A História Pessoal De David Copperfield
+http://pfsv.io:80/movie/51162306/imagination.me/60635.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/btI" group-title="Filmes | Comedia",A Hora Da Virada
+http://pfsv.io:80/movie/51162306/imagination.me/84410.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/dc" group-title="Filmes | Comedia",A Hora Do Rush
+http://pfsv.io:80/movie/51162306/imagination.me/1301.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/c5" group-title="Filmes | Comedia",A Hora Do Rush 2
+http://pfsv.io:80/movie/51162306/imagination.me/1455.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/dv" group-title="Filmes | Comedia",A Hora Do Rush 3
+http://pfsv.io:80/movie/51162306/imagination.me/1336.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Z4" group-title="Filmes | Comedia",A Incrível História Da Ilha Das Rosas
+http://pfsv.io:80/movie/51162306/imagination.me/57696.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/fc" group-title="Filmes | Comedia",A Inveja Mata
+http://pfsv.io:80/movie/51162306/imagination.me/1477.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Bo" group-title="Filmes | Comedia",A Lenda Da Befana
+http://pfsv.io:80/movie/51162306/imagination.me/29866.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/byi" group-title="Filmes | Comedia",A Lente Do Amor
+http://pfsv.io:80/movie/51162306/imagination.me/91988.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bkA" group-title="Filmes | Comedia",A Melhor Festa Do Ano
+http://pfsv.io:80/movie/51162306/imagination.me/67405.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/5" group-title="Filmes | Comedia",A Mentira
+http://pfsv.io:80/movie/51162306/imagination.me/1138.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/BA" group-title="Filmes | Comedia",A Missy Errada
+http://pfsv.io:80/movie/51162306/imagination.me/29872.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/fn" group-title="Filmes | Comedia",A Morte De Stalin
+http://pfsv.io:80/movie/51162306/imagination.me/1492.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bjF" group-title="Filmes | Comedia",A Morte Lhe Cai Bem
+http://pfsv.io:80/movie/51162306/imagination.me/66667.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/yX" group-title="Filmes | Comedia",A Mulher Do Meu Marido
+http://pfsv.io:80/movie/51162306/imagination.me/4366.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/BC" group-title="Filmes | Comedia",A Namorada Do Meu Irmão
+http://pfsv.io:80/movie/51162306/imagination.me/29873.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/eU" group-title="Filmes | Comedia",A Noite Do Jogo
+http://pfsv.io:80/movie/51162306/imagination.me/1452.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/f5V" group-title="Filmes | Comedia",A Noite é Delas
+http://pfsv.io:80/movie/51162306/imagination.me/34177.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/ty" group-title="Filmes | Comedia",A Nova Cinderela: Milagre De Natal
+http://pfsv.io:80/movie/51162306/imagination.me/4172.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/BM" group-title="Filmes | Comedia",A Odisseia Dos Tontos
+http://pfsv.io:80/movie/51162306/imagination.me/29878.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bs1" group-title="Filmes | Comedia",A Pata De Um Milhão De Dólares
+http://pfsv.io:80/movie/51162306/imagination.me/84244.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/tu" group-title="Filmes | Comedia",A Pequena Suíça
+http://pfsv.io:80/movie/51162306/imagination.me/4169.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/RU" group-title="Filmes | Comedia",A Prima Sofia
+http://pfsv.io:80/movie/51162306/imagination.me/41887.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/f9P" group-title="Filmes | Comedia",A Princesa Xuxa E Os Trapalhões
+http://pfsv.io:80/movie/51162306/imagination.me/35981.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/e0" group-title="Filmes | Comedia",A Proposta
+http://pfsv.io:80/movie/51162306/imagination.me/1460.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bm4" group-title="Filmes | Comedia",A Proposta
+http://pfsv.io:80/movie/51162306/imagination.me/68985.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/v6" group-title="Filmes | Comedia",A Pé Ele Não Vai Longe
+http://pfsv.io:80/movie/51162306/imagination.me/4259.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/eW" group-title="Filmes | Comedia",A Química Do Amor
+http://pfsv.io:80/movie/51162306/imagination.me/1456.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bkG" group-title="Filmes | Comedia",A Roda Da Fortuna
+http://pfsv.io:80/movie/51162306/imagination.me/67411.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/eu" group-title="Filmes | Comedia",A Senhora Da Van
+http://pfsv.io:80/movie/51162306/imagination.me/1419.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Q" group-title="Filmes | Comedia",A Sua Parte Frágil
+http://pfsv.io:80/movie/51162306/imagination.me/1122.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/dU" group-title="Filmes | Comedia",A Verdade Nua E Crua
+http://pfsv.io:80/movie/51162306/imagination.me/1368.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/iQG" group-title="Filmes | Comedia",A Vida E Dura A Historia De Dewey Cox
+http://pfsv.io:80/movie/51162306/imagination.me/53228.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/wY" group-title="Filmes | Comedia",A Vida Moderna De Rocko: Volta Ao Lar
+http://pfsv.io:80/movie/51162306/imagination.me/4297.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/fM" group-title="Filmes | Comedia",A Vida Secreta De Walter Mitty
+http://pfsv.io:80/movie/51162306/imagination.me/1527.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/n" group-title="Filmes | Comedia",A Vida É Bela?!
+http://pfsv.io:80/movie/51162306/imagination.me/1085.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bg9" group-title="Filmes | Comedia",A Volta Do Todo Poderoso
+http://pfsv.io:80/movie/51162306/imagination.me/64475.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bg8" group-title="Filmes | Comedia",A Última Ceia
+http://pfsv.io:80/movie/51162306/imagination.me/64474.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/wM" group-title="Filmes | Comedia",A Última Gargalhada
+http://pfsv.io:80/movie/51162306/imagination.me/4288.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/um" group-title="Filmes | Comedia",A Última Missão
+http://pfsv.io:80/movie/51162306/imagination.me/4198.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/f5X" group-title="Filmes | Comedia",A Última Ressaca Do Ano
+http://pfsv.io:80/movie/51162306/imagination.me/34179.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/TY" group-title="Filmes | Comedia",AA Do Amor
+http://pfsv.io:80/movie/51162306/imagination.me/49141.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/f9G" group-title="Filmes | Comedia",Abracadabra
+http://pfsv.io:80/movie/51162306/imagination.me/35972.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/df" group-title="Filmes | Comedia",Academia De Vampiros - O Beijo Das Sombras
+http://pfsv.io:80/movie/51162306/imagination.me/1318.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/cV" group-title="Filmes | Comedia",Ace Ventura 2: Um Maluco Na África
+http://pfsv.io:80/movie/51162306/imagination.me/1225.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/cV" group-title="Filmes | Comedia",Ace Ventura 2: Um Maluco Na África
+http://pfsv.io:80/movie/51162306/imagination.me/61923.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/cr" group-title="Filmes | Comedia",Ace Ventura: Um Detetive Diferente
+http://pfsv.io:80/movie/51162306/imagination.me/1112.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/cr" group-title="Filmes | Comedia",Ace Ventura: Um Detetive Diferente
+http://pfsv.io:80/movie/51162306/imagination.me/61924.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/dB" group-title="Filmes | Comedia",Acertando O Passo
+http://pfsv.io:80/movie/51162306/imagination.me/1342.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/8D" group-title="Filmes | Comedia",Adam E Seus Clones
+http://pfsv.io:80/movie/51162306/imagination.me/61149.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/f9H" group-title="Filmes | Comedia",Adorável Trapalhão
+http://pfsv.io:80/movie/51162306/imagination.me/35973.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Tl" group-title="Filmes | Comedia",Afonso Padilha: Alma De Pobre
+http://pfsv.io:80/movie/51162306/imagination.me/48761.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Y" group-title="Filmes | Comedia",Agente 86
+http://pfsv.io:80/movie/51162306/imagination.me/1131.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/1r" group-title="Filmes | Comedia",AK Vs AK
+http://pfsv.io:80/movie/51162306/imagination.me/58316.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/f9L" group-title="Filmes | Comedia",Aladim E A Lâmpada Maravilhosa
+http://pfsv.io:80/movie/51162306/imagination.me/35977.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/dZ" group-title="Filmes | Comedia",Alguém Especial
+http://pfsv.io:80/movie/51162306/imagination.me/1374.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/f9M" group-title="Filmes | Comedia",Ali Babá E Os Quarenta Ladrões
+http://pfsv.io:80/movie/51162306/imagination.me/35978.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/M" group-title="Filmes | Comedia",Alma Da Festa
+http://pfsv.io:80/movie/51162306/imagination.me/1118.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/1t" group-title="Filmes | Comedia",Altas Expectativas
+http://pfsv.io:80/movie/51162306/imagination.me/58317.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Bq" group-title="Filmes | Comedia",Altos Negócios
+http://pfsv.io:80/movie/51162306/imagination.me/29867.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/d9" group-title="Filmes | Comedia",Alvin E Os Esquilos 2
+http://pfsv.io:80/movie/51162306/imagination.me/1560.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/dx" group-title="Filmes | Comedia",Alvin E Os Esquilos 3
+http://pfsv.io:80/movie/51162306/imagination.me/1382.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/dR" group-title="Filmes | Comedia",Amante A Domicílio
+http://pfsv.io:80/movie/51162306/imagination.me/1365.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bu" group-title="Filmes | Comedia",American Pie - Caindo Em Tentação
+http://pfsv.io:80/movie/51162306/imagination.me/1173.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/g" group-title="Filmes | Comedia",American Pie - O Reencontro
+http://pfsv.io:80/movie/51162306/imagination.me/1078.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/dp" group-title="Filmes | Comedia",American Pie - O Último Stifler Virgem
+http://pfsv.io:80/movie/51162306/imagination.me/1324.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/cN" group-title="Filmes | Comedia",American Pie - Tocando A Maior Zona
+http://pfsv.io:80/movie/51162306/imagination.me/1277.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/gp" group-title="Filmes | Comedia",American Pie 2 : A Segunda Vez é Ainda Melhor
+http://pfsv.io:80/movie/51162306/imagination.me/1578.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/ek" group-title="Filmes | Comedia",American Pie: A Primeira Vez é Inesquecível
+http://pfsv.io:80/movie/51162306/imagination.me/1405.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/eP" group-title="Filmes | Comedia",American Pie: O Casamento
+http://pfsv.io:80/movie/51162306/imagination.me/1447.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/dG" group-title="Filmes | Comedia",American Pie: O Livro Do Amor
+http://pfsv.io:80/movie/51162306/imagination.me/1350.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Ww" group-title="Filmes | Comedia",Amor Com Data Marcada
+http://pfsv.io:80/movie/51162306/imagination.me/55356.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/e4" group-title="Filmes | Comedia",Amor De Aluguel
+http://pfsv.io:80/movie/51162306/imagination.me/1466.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/0H" group-title="Filmes | Comedia",Amor De Balada
+http://pfsv.io:80/movie/51162306/imagination.me/57979.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/gc" group-title="Filmes | Comedia",Amor Em Little Italy
+http://pfsv.io:80/movie/51162306/imagination.me/1563.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bs0" group-title="Filmes | Comedia",Amor à Distância
+http://pfsv.io:80/movie/51162306/imagination.me/84243.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Ly" group-title="Filmes | Comedia",Animais Corporativos
+http://pfsv.io:80/movie/51162306/imagination.me/33420.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/et" group-title="Filmes | Comedia",Anjos Da Lei
+http://pfsv.io:80/movie/51162306/imagination.me/1418.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/c0" group-title="Filmes | Comedia",Anjos Da Lei 2
+http://pfsv.io:80/movie/51162306/imagination.me/1293.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bhX" group-title="Filmes | Comedia",Ano Um
+http://pfsv.io:80/movie/51162306/imagination.me/65259.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/b2" group-title="Filmes | Comedia",Antes De Partir
+http://pfsv.io:80/movie/51162306/imagination.me/1213.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bw4" group-title="Filmes | Comedia",Ao Compasso Do Amor
+http://pfsv.io:80/movie/51162306/imagination.me/91191.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/by" group-title="Filmes | Comedia",Apenas O Começo
+http://pfsv.io:80/movie/51162306/imagination.me/1178.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/rE" group-title="Filmes | Comedia",Aqui Em Casa Tudo Bem
+http://pfsv.io:80/movie/51162306/imagination.me/4106.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/s8" group-title="Filmes | Comedia",Arizona
+http://pfsv.io:80/movie/51162306/imagination.me/4157.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Xj" group-title="Filmes | Comedia",Armas Em Jogo
+http://pfsv.io:80/movie/51162306/imagination.me/56146.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bV" group-title="Filmes | Comedia",Artista Do Desastre
+http://pfsv.io:80/movie/51162306/imagination.me/1206.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/eq" group-title="Filmes | Comedia",As Apimentadas #Desafio Mundial
+http://pfsv.io:80/movie/51162306/imagination.me/1413.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/f5" group-title="Filmes | Comedia",As Apimentadas
+http://pfsv.io:80/movie/51162306/imagination.me/1554.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/eG" group-title="Filmes | Comedia",As Apimentadas: Tudo Ou Nada
+http://pfsv.io:80/movie/51162306/imagination.me/1435.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bmD" group-title="Filmes | Comedia",As Aventuras De Agamenon, O Repórter
+http://pfsv.io:80/movie/51162306/imagination.me/68955.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/B5" group-title="Filmes | Comedia",As Aventuras De Errol Flynn
+http://pfsv.io:80/movie/51162306/imagination.me/29888.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/baV" group-title="Filmes | Comedia",As Aventuras De Huck Finn
+http://pfsv.io:80/movie/51162306/imagination.me/62807.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/cX" group-title="Filmes | Comedia",As Aventuras De Paddington
+http://pfsv.io:80/movie/51162306/imagination.me/1238.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/d8" group-title="Filmes | Comedia",As Aventuras De Paddington 2
+http://pfsv.io:80/movie/51162306/imagination.me/1551.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/dZ" group-title="Filmes | Comedia",As Aventuras De Pedro Malasartes
+http://pfsv.io:80/movie/51162306/imagination.me/1515.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/cu" group-title="Filmes | Comedia",As Branquelas
+http://pfsv.io:80/movie/51162306/imagination.me/1253.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/j" group-title="Filmes | Comedia",As Excluídas
+http://pfsv.io:80/movie/51162306/imagination.me/1081.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/tA" group-title="Filmes | Comedia",As Fantásticas Aventuras De Spirou E Fantasio
+http://pfsv.io:80/movie/51162306/imagination.me/4173.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bq" group-title="Filmes | Comedia",As Férias Da Minha Vida
+http://pfsv.io:80/movie/51162306/imagination.me/1164.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Cg" group-title="Filmes | Comedia",As Loucuras De Rose
+http://pfsv.io:80/movie/51162306/imagination.me/29894.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/ey" group-title="Filmes | Comedia",As Melhores Coisas Do Mundo
+http://pfsv.io:80/movie/51162306/imagination.me/1424.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bkI" group-title="Filmes | Comedia",As Melhores Coisas Do Mundo
+http://pfsv.io:80/movie/51162306/imagination.me/67413.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/fy" group-title="Filmes | Comedia",As Metas De Jessica Darling
+http://pfsv.io:80/movie/51162306/imagination.me/1506.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/cn" group-title="Filmes | Comedia",As Minas Do Rei Salomão
+http://pfsv.io:80/movie/51162306/imagination.me/1086.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Eu" group-title="Filmes | Comedia",As Rainhas Da Torcida
+http://pfsv.io:80/movie/51162306/imagination.me/4097.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/f5W" group-title="Filmes | Comedia",As Trapaceiras
+http://pfsv.io:80/movie/51162306/imagination.me/34178.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bh" group-title="Filmes | Comedia",As Vozes
+http://pfsv.io:80/movie/51162306/imagination.me/1151.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Ce" group-title="Filmes | Comedia",Asim, O Vigarista
+http://pfsv.io:80/movie/51162306/imagination.me/29893.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/sd" group-title="Filmes | Comedia",Astro Kid
+http://pfsv.io:80/movie/51162306/imagination.me/4126.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bG" group-title="Filmes | Comedia",Astérix E Obélix: A Serviço De Sua Majestade
+http://pfsv.io:80/movie/51162306/imagination.me/1186.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/dk" group-title="Filmes | Comedia",Até Que A Sorte Nos Separe
+http://pfsv.io:80/movie/51162306/imagination.me/1333.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bL" group-title="Filmes | Comedia",Até Que A Sorte Nos Separe 2
+http://pfsv.io:80/movie/51162306/imagination.me/1194.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/d1" group-title="Filmes | Comedia",Até Que A Sorte Nos Separe 3 - A Falência Final
+http://pfsv.io:80/movie/51162306/imagination.me/1523.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Ct" group-title="Filmes | Comedia",Aves De Rapina: Arlequina E Sua Emancipação Fantabulosa
+http://pfsv.io:80/movie/51162306/imagination.me/63169.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Cz" group-title="Filmes | Comedia",B O 
+http://pfsv.io:80/movie/51162306/imagination.me/29904.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/f5Y" group-title="Filmes | Comedia",Babe - O Porquinho Atrapalhado
+http://pfsv.io:80/movie/51162306/imagination.me/34180.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bkK" group-title="Filmes | Comedia",Babe - O Porquinho Atrapalhado
+http://pfsv.io:80/movie/51162306/imagination.me/67416.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bkL" group-title="Filmes | Comedia",Babe - O Porquinho Atrapalhado Na Cidade
+http://pfsv.io:80/movie/51162306/imagination.me/67417.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/eF" group-title="Filmes | Comedia",Babá Fora De Controle: Operação Brasil
+http://pfsv.io:80/movie/51162306/imagination.me/1434.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/0L" group-title="Filmes | Comedia",Banana Split
+http://pfsv.io:80/movie/51162306/imagination.me/57981.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/tK" group-title="Filmes | Comedia",Banana Splits - O Filme
+http://pfsv.io:80/movie/51162306/imagination.me/4178.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/dY" group-title="Filmes | Comedia",Bater Ou Correr
+http://pfsv.io:80/movie/51162306/imagination.me/1373.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/dn" group-title="Filmes | Comedia",Baywatch - S O S Malibu
+http://pfsv.io:80/movie/51162306/imagination.me/1322.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bmt" group-title="Filmes | Comedia",Be Cool: O Outro Nome Do Jogo
+http://pfsv.io:80/movie/51162306/imagination.me/68942.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/dN" group-title="Filmes | Comedia",Bem-vindos A Marwen
+http://pfsv.io:80/movie/51162306/imagination.me/1465.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bak" group-title="Filmes | Comedia",Best Player: Guerreiros Virtuais
+http://pfsv.io:80/movie/51162306/imagination.me/62340.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/cS" group-title="Filmes | Comedia",Betão Ronca Ferro
+http://pfsv.io:80/movie/51162306/imagination.me/1222.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/f5Z" group-title="Filmes | Comedia",Big Stan: Arrebentando Na Prisão
+http://pfsv.io:80/movie/51162306/imagination.me/34181.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/brx" group-title="Filmes | Comedia",Big Stan: Arrebentando Na Prisão
+http://pfsv.io:80/movie/51162306/imagination.me/72786.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Zr" group-title="Filmes | Comedia",Big Time Adolescence
+http://pfsv.io:80/movie/51162306/imagination.me/57595.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/i" group-title="Filmes | Comedia",Bingo - O Rei Das Manhãs
+http://pfsv.io:80/movie/51162306/imagination.me/1080.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/eB" group-title="Filmes | Comedia",Bitch
+http://pfsv.io:80/movie/51162306/imagination.me/1427.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bwB" group-title="Filmes | Comedia",Bonecas Russas
+http://pfsv.io:80/movie/51162306/imagination.me/90881.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/f9T" group-title="Filmes | Comedia",Bonga, O Vagabundo
+http://pfsv.io:80/movie/51162306/imagination.me/35986.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/kQ" group-title="Filmes | Comedia",Bons Meninos
+http://pfsv.io:80/movie/51162306/imagination.me/29913.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Wv" group-title="Filmes | Comedia",Borat: Fita De Cinema Seguinte
+http://pfsv.io:80/movie/51162306/imagination.me/55195.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bb9" group-title="Filmes | Comedia",Brazil: O Filme
+http://pfsv.io:80/movie/51162306/imagination.me/63179.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/cv" group-title="Filmes | Comedia",Bridget Jones: No Limite Da Razão
+http://pfsv.io:80/movie/51162306/imagination.me/1128.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/fK" group-title="Filmes | Comedia",Cada Um Tem A Gêmea Que Merece
+http://pfsv.io:80/movie/51162306/imagination.me/1524.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/eD" group-title="Filmes | Comedia",Cadê A Minha Entrega?
+http://pfsv.io:80/movie/51162306/imagination.me/1429.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/cH" group-title="Filmes | Comedia",Cadê Os Morgan?
+http://pfsv.io:80/movie/51162306/imagination.me/1270.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bna" group-title="Filmes | Comedia",Cadê Os Morgan?
+http://pfsv.io:80/movie/51162306/imagination.me/68991.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bqT" group-title="Filmes | Comedia",Caindo Na Estrada
+http://pfsv.io:80/movie/51162306/imagination.me/69785.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bd" group-title="Filmes | Comedia",Camp Rock
+http://pfsv.io:80/movie/51162306/imagination.me/1558.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/cz" group-title="Filmes | Comedia",Camp Rock 2: The Final Jam
+http://pfsv.io:80/movie/51162306/imagination.me/1147.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bw8" group-title="Filmes | Comedia",Cantando Na Chuva
+http://pfsv.io:80/movie/51162306/imagination.me/91195.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/f50" group-title="Filmes | Comedia",Capitão Fantástico
+http://pfsv.io:80/movie/51162306/imagination.me/34182.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/u" group-title="Filmes | Comedia",Cara, Cadê Meu Carro?
+http://pfsv.io:80/movie/51162306/imagination.me/1094.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Xu" group-title="Filmes | Comedia",Carlinhos E Carlão
+http://pfsv.io:80/movie/51162306/imagination.me/56152.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bvR" group-title="Filmes | Comedia",Cartas Para Julieta
+http://pfsv.io:80/movie/51162306/imagination.me/90413.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/ck" group-title="Filmes | Comedia",Casa Da Mãe Joana
+http://pfsv.io:80/movie/51162306/imagination.me/1241.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/df" group-title="Filmes | Comedia",Casa Da Mãe Joana 2
+http://pfsv.io:80/movie/51162306/imagination.me/1311.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/wt" group-title="Filmes | Comedia",Casal Improvável
+http://pfsv.io:80/movie/51162306/imagination.me/4276.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Pv" group-title="Filmes | Comedia",Casamento Grego
+http://pfsv.io:80/movie/51162306/imagination.me/34183.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/f51" group-title="Filmes | Comedia",Casamento Grego 2
+http://pfsv.io:80/movie/51162306/imagination.me/34184.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/cD" group-title="Filmes | Comedia",Casinha Pequenina
+http://pfsv.io:80/movie/51162306/imagination.me/1158.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/C9" group-title="Filmes | Comedia",Cats
+http://pfsv.io:80/movie/51162306/imagination.me/29924.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/CV" group-title="Filmes | Comedia",Caça-Fantasmas - Na Trilha Do Gelo
+http://pfsv.io:80/movie/51162306/imagination.me/29917.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/ce" group-title="Filmes | Comedia",Cegos Surdos E Loucos
+http://pfsv.io:80/movie/51162306/imagination.me/1234.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bD" group-title="Filmes | Comedia",Celeste E Jesse Para Sempre
+http://pfsv.io:80/movie/51162306/imagination.me/1183.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/e5" group-title="Filmes | Comedia",Cheque Em Branco
+http://pfsv.io:80/movie/51162306/imagination.me/1467.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bpa" group-title="Filmes | Comedia",Cherry
+http://pfsv.io:80/movie/51162306/imagination.me/69590.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bqv" group-title="Filmes | Comedia",Chicago
+http://pfsv.io:80/movie/51162306/imagination.me/69678.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/dw" group-title="Filmes | Comedia",Chico Fumaça
+http://pfsv.io:80/movie/51162306/imagination.me/1380.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/cK" group-title="Filmes | Comedia",CHiPs: O Filme
+http://pfsv.io:80/movie/51162306/imagination.me/1192.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bnd" group-title="Filmes | Comedia",Chocolate
+http://pfsv.io:80/movie/51162306/imagination.me/68994.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/cq" group-title="Filmes | Comedia",Chofer De Praça
+http://pfsv.io:80/movie/51162306/imagination.me/1101.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/d0" group-title="Filmes | Comedia",Cilada Com
+http://pfsv.io:80/movie/51162306/imagination.me/1375.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bs7" group-title="Filmes | Comedia",Cinderela Em Paris
+http://pfsv.io:80/movie/51162306/imagination.me/84250.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/f6X" group-title="Filmes | Comedia",Cinquenta Tons De Preto
+http://pfsv.io:80/movie/51162306/imagination.me/34253.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/gs" group-title="Filmes | Comedia",Click
+http://pfsv.io:80/movie/51162306/imagination.me/1582.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bs9" group-title="Filmes | Comedia",Cliente Morto Não Paga
+http://pfsv.io:80/movie/51162306/imagination.me/84252.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/f52" group-title="Filmes | Comedia",Clube Dos Cinco
+http://pfsv.io:80/movie/51162306/imagination.me/34185.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/e8" group-title="Filmes | Comedia",Clube Dos Infiéis Honestos
+http://pfsv.io:80/movie/51162306/imagination.me/1471.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Dc" group-title="Filmes | Comedia",Coffee & Kareem
+http://pfsv.io:80/movie/51162306/imagination.me/29925.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/I" group-title="Filmes | Comedia",Com Amor, Simon
+http://pfsv.io:80/movie/51162306/imagination.me/1110.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/biK" group-title="Filmes | Comedia",Com Amor, Simon
+http://pfsv.io:80/movie/51162306/imagination.me/66599.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bp2" group-title="Filmes | Comedia",Com Mérito
+http://pfsv.io:80/movie/51162306/imagination.me/69645.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/3A" group-title="Filmes | Comedia",Como Casar Com Um Milionário
+http://pfsv.io:80/movie/51162306/imagination.me/58640.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/49" group-title="Filmes | Comedia",Como Construir Uma Garota
+http://pfsv.io:80/movie/51162306/imagination.me/59562.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/hNQ" group-title="Filmes | Comedia",Como Cães E Gatos
+http://pfsv.io:80/movie/51162306/imagination.me/50893.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/UJ" group-title="Filmes | Comedia",Como Cães E Gatos
+http://pfsv.io:80/movie/51162306/imagination.me/50895.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/hNR" group-title="Filmes | Comedia",Como Cães E Gatos 2 - A Vingança De Kitty Galore
+http://pfsv.io:80/movie/51162306/imagination.me/50894.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/blS" group-title="Filmes | Comedia",Como Enlouquecer Seu Chefe
+http://pfsv.io:80/movie/51162306/imagination.me/68189.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/62" group-title="Filmes | Comedia",Como Não Perder Essa Mulher
+http://pfsv.io:80/movie/51162306/imagination.me/60699.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/cB" group-title="Filmes | Comedia",Como Perder Um Homem Em 10 Dias
+http://pfsv.io:80/movie/51162306/imagination.me/1262.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Zm" group-title="Filmes | Comedia",Como Sair De Buffalo
+http://pfsv.io:80/movie/51162306/imagination.me/57587.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Zm" group-title="Filmes | Comedia",Como Sair De Buffalo
+http://pfsv.io:80/movie/51162306/imagination.me/68190.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/c4" group-title="Filmes | Comedia",Como Se Fosse A Primeira Vez
+http://pfsv.io:80/movie/51162306/imagination.me/1299.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Df" group-title="Filmes | Comedia",Como é Cruel Viver Assim
+http://pfsv.io:80/movie/51162306/imagination.me/29926.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/cc" group-title="Filmes | Comedia",Compramos Um Zoológico
+http://pfsv.io:80/movie/51162306/imagination.me/1232.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/e2" group-title="Filmes | Comedia",Conflitos Em Família
+http://pfsv.io:80/movie/51162306/imagination.me/1462.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/WC" group-title="Filmes | Comedia",Convidado Vitalicio
+http://pfsv.io:80/movie/51162306/imagination.me/55360.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/en" group-title="Filmes | Comedia",Corra Que A Polícia Vem Aí!
+http://pfsv.io:80/movie/51162306/imagination.me/1410.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/dK" group-title="Filmes | Comedia",Corra Que A Polícia Vem Aí! 2
+http://pfsv.io:80/movie/51162306/imagination.me/1443.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/dV" group-title="Filmes | Comedia",Corra Que A Polícia Vem Aí! 3 O Insulto Final
+http://pfsv.io:80/movie/51162306/imagination.me/1503.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/fI" group-title="Filmes | Comedia",Correndo Atrás De Um Pai
+http://pfsv.io:80/movie/51162306/imagination.me/1521.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title="Filmes | Comedia",Crazy Trips - Budapeste
+http://pfsv.io:80/movie/51162306/imagination.me/1104.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Ec" group-title="Filmes | Comedia",Crush à Altura
+http://pfsv.io:80/movie/51162306/imagination.me/4074.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/cK" group-title="Filmes | Comedia",Cruzeiro Das Loucas
+http://pfsv.io:80/movie/51162306/imagination.me/1274.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bE" group-title="Filmes | Comedia",Crô Em Família
+http://pfsv.io:80/movie/51162306/imagination.me/1184.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/cY" group-title="Filmes | Comedia",Crônicas De Natal
+http://pfsv.io:80/movie/51162306/imagination.me/1291.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/eH" group-title="Filmes | Comedia",Curtindo A Vida Adoidado
+http://pfsv.io:80/movie/51162306/imagination.me/1436.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bm" group-title="Filmes | Comedia",Cães De Guerra
+http://pfsv.io:80/movie/51162306/imagination.me/1159.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/cp" group-title="Filmes | Comedia",D U F F  - Você Conhece, Tem Ou É
+http://pfsv.io:80/movie/51162306/imagination.me/1246.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/eb" group-title="Filmes | Comedia",Daddy Cool: Ex Em Domicílio
+http://pfsv.io:80/movie/51162306/imagination.me/1577.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Lz" group-title="Filmes | Comedia",Damas De Preto
+http://pfsv.io:80/movie/51162306/imagination.me/33421.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bkS" group-title="Filmes | Comedia",Dance Comigo
+http://pfsv.io:80/movie/51162306/imagination.me/67424.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bb" group-title="Filmes | Comedia",De Carona Para O Amor
+http://pfsv.io:80/movie/51162306/imagination.me/1145.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/ec" group-title="Filmes | Comedia",De Encontro Com A Vida
+http://pfsv.io:80/movie/51162306/imagination.me/1396.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bct" group-title="Filmes | Comedia",De Frente Com Meu Ex
+http://pfsv.io:80/movie/51162306/imagination.me/63205.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bxa" group-title="Filmes | Comedia",De Onde Eu Te Vejo
+http://pfsv.io:80/movie/51162306/imagination.me/91197.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/c1" group-title="Filmes | Comedia",De Pernas Pro Ar
+http://pfsv.io:80/movie/51162306/imagination.me/1294.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/dP" group-title="Filmes | Comedia",De Pernas Pro Ar 2
+http://pfsv.io:80/movie/51162306/imagination.me/1363.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Xw" group-title="Filmes | Comedia",De Perto Ela Não é Normal
+http://pfsv.io:80/movie/51162306/imagination.me/56155.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/TR" group-title="Filmes | Comedia",De Quem é O Sutiã?
+http://pfsv.io:80/movie/51162306/imagination.me/48784.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/A" group-title="Filmes | Comedia",De Repente 30
+http://pfsv.io:80/movie/51162306/imagination.me/1102.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bvE" group-title="Filmes | Comedia",De Repente Pai
+http://pfsv.io:80/movie/51162306/imagination.me/90394.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/ej" group-title="Filmes | Comedia",De Repente Uma Família
+http://pfsv.io:80/movie/51162306/imagination.me/1403.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bnj" group-title="Filmes | Comedia",Debi & Lóide - Dois Idiotas Em Apuros
+http://pfsv.io:80/movie/51162306/imagination.me/69001.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bni" group-title="Filmes | Comedia",Debi & Lóide 2
+http://pfsv.io:80/movie/51162306/imagination.me/69000.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/SZ" group-title="Filmes | Comedia",Decisão
+http://pfsv.io:80/movie/51162306/imagination.me/47384.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/67" group-title="Filmes | Comedia",Dennis, O Pimentinha
+http://pfsv.io:80/movie/51162306/imagination.me/60704.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/68" group-title="Filmes | Comedia",Dennis, O Pimentinha Ataca Novamente
+http://pfsv.io:80/movie/51162306/imagination.me/60705.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Dx" group-title="Filmes | Comedia",Descobrindo A Vida
+http://pfsv.io:80/movie/51162306/imagination.me/29937.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/fV" group-title="Filmes | Comedia",Descompensada
+http://pfsv.io:80/movie/51162306/imagination.me/1538.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/b8" group-title="Filmes | Comedia",Desculpe Te Incomodar
+http://pfsv.io:80/movie/51162306/imagination.me/1227.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/QU" group-title="Filmes | Comedia",Desperados
+http://pfsv.io:80/movie/51162306/imagination.me/35095.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Z8" group-title="Filmes | Comedia",Destemida
+http://pfsv.io:80/movie/51162306/imagination.me/57699.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/fZ" group-title="Filmes | Comedia",Deu A Louca Nos Bichos
+http://pfsv.io:80/movie/51162306/imagination.me/1545.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/4B" group-title="Filmes | Comedia",Deu A Louca Nos Bichos
+http://pfsv.io:80/movie/51162306/imagination.me/59537.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bcw" group-title="Filmes | Comedia",Deus é Brasileiro
+http://pfsv.io:80/movie/51162306/imagination.me/63208.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/eN" group-title="Filmes | Comedia",Dia De Casamento
+http://pfsv.io:80/movie/51162306/imagination.me/1445.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/btS" group-title="Filmes | Comedia",Dias Incríveis
+http://pfsv.io:80/movie/51162306/imagination.me/84421.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bpc" group-title="Filmes | Comedia",Diferenças Irreconciliáveis
+http://pfsv.io:80/movie/51162306/imagination.me/69592.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/v" group-title="Filmes | Comedia",Divórcio
+http://pfsv.io:80/movie/51162306/imagination.me/1095.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/cE" group-title="Filmes | Comedia",Diário De Um Banana
+http://pfsv.io:80/movie/51162306/imagination.me/1168.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/o" group-title="Filmes | Comedia",Diário De Um Banana 2: Rodrick é O Cara
+http://pfsv.io:80/movie/51162306/imagination.me/1088.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/fr" group-title="Filmes | Comedia",Diário De Um Banana 3: Dias De Cão
+http://pfsv.io:80/movie/51162306/imagination.me/1498.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/rp" group-title="Filmes | Comedia",Diário De Um Banana: Caindo Na Estrada
+http://pfsv.io:80/movie/51162306/imagination.me/4087.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/S" group-title="Filmes | Comedia",Do Jeito Que Elas Querem
+http://pfsv.io:80/movie/51162306/imagination.me/1124.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bcz" group-title="Filmes | Comedia",Do Outro Lado Da Linha
+http://pfsv.io:80/movie/51162306/imagination.me/63213.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/gb" group-title="Filmes | Comedia",Do Que As Mulheres Gostam
+http://pfsv.io:80/movie/51162306/imagination.me/1562.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/ds" group-title="Filmes | Comedia",Do Que Os Homens Gostam
+http://pfsv.io:80/movie/51162306/imagination.me/1331.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/gj" group-title="Filmes | Comedia",Doce Argumento
+http://pfsv.io:80/movie/51162306/imagination.me/1570.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/3C" group-title="Filmes | Comedia",Doce Trapaça
+http://pfsv.io:80/movie/51162306/imagination.me/58641.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/f" group-title="Filmes | Comedia",Dois Loucos Com Sorte
+http://pfsv.io:80/movie/51162306/imagination.me/1076.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/dJ" group-title="Filmes | Comedia",Dois Malucos Na Tv
+http://pfsv.io:80/movie/51162306/imagination.me/1438.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/f9W" group-title="Filmes | Comedia",Dois Na Lona
+http://pfsv.io:80/movie/51162306/imagination.me/35989.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Aa" group-title="Filmes | Comedia",Dois Papas
+http://pfsv.io:80/movie/51162306/imagination.me/4412.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/go" group-title="Filmes | Comedia",Dois Tiras Fora De Ordem
+http://pfsv.io:80/movie/51162306/imagination.me/1576.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bv" group-title="Filmes | Comedia",Dois Virgens Na América
+http://pfsv.io:80/movie/51162306/imagination.me/1175.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/biR" group-title="Filmes | Comedia",Dois é Bom, Três é Demais
+http://pfsv.io:80/movie/51162306/imagination.me/66607.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bbv" group-title="Filmes | Comedia",Don Oscar
+http://pfsv.io:80/movie/51162306/imagination.me/63210.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/sY" group-title="Filmes | Comedia",Dora E A Cidade Perdida
+http://pfsv.io:80/movie/51162306/imagination.me/4152.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Z" group-title="Filmes | Comedia",Duas De Mim
+http://pfsv.io:80/movie/51162306/imagination.me/1132.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/0O" group-title="Filmes | Comedia",Duas Por Uma
+http://pfsv.io:80/movie/51162306/imagination.me/57985.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/dh" group-title="Filmes | Comedia",Dude - A Vida É Assim
+http://pfsv.io:80/movie/51162306/imagination.me/1313.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/m" group-title="Filmes | Comedia",Duplex
+http://pfsv.io:80/movie/51162306/imagination.me/1084.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/DP" group-title="Filmes | Comedia",E Agora? A Mamãe Saiu De Férias!
+http://pfsv.io:80/movie/51162306/imagination.me/29947.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/c2" group-title="Filmes | Comedia",E Aí    Comeu?
+http://pfsv.io:80/movie/51162306/imagination.me/1255.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/eQ" group-title="Filmes | Comedia",E Se Fosse Verdade
+http://pfsv.io:80/movie/51162306/imagination.me/1448.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/eg" group-title="Filmes | Comedia",E Se    Você Tivesse Uma Segunda Chance?
+http://pfsv.io:80/movie/51162306/imagination.me/1400.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/DQ" group-title="Filmes | Comedia",Ela Disse, Ele Disse
+http://pfsv.io:80/movie/51162306/imagination.me/29949.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/cM" group-title="Filmes | Comedia",Ela é O Cara
+http://pfsv.io:80/movie/51162306/imagination.me/1276.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bhe" group-title="Filmes | Comedia",Ela é O Cara
+http://pfsv.io:80/movie/51162306/imagination.me/64481.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/gd" group-title="Filmes | Comedia",Ele Está De Volta
+http://pfsv.io:80/movie/51162306/imagination.me/1564.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/brE" group-title="Filmes | Comedia",Ele Não Está Tão A Fim De Você
+http://pfsv.io:80/movie/51162306/imagination.me/72793.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/sq" group-title="Filmes | Comedia",Em Cima Do Muro
+http://pfsv.io:80/movie/51162306/imagination.me/4133.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/db" group-title="Filmes | Comedia",Em Seu Lugar
+http://pfsv.io:80/movie/51162306/imagination.me/1307.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/1Q" group-title="Filmes | Comedia",Em Um Relacionamento Sério
+http://pfsv.io:80/movie/51162306/imagination.me/58329.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/DV" group-title="Filmes | Comedia",Emma
+http://pfsv.io:80/movie/51162306/imagination.me/29952.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/d3" group-title="Filmes | Comedia",Encantada
+http://pfsv.io:80/movie/51162306/imagination.me/1383.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/brF" group-title="Filmes | Comedia",Encontro Com Um Anjo
+http://pfsv.io:80/movie/51162306/imagination.me/72794.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bmv" group-title="Filmes | Comedia",Encontro De Amor
+http://pfsv.io:80/movie/51162306/imagination.me/68944.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/cZ" group-title="Filmes | Comedia",Endiabrado
+http://pfsv.io:80/movie/51162306/imagination.me/1292.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/f6" group-title="Filmes | Comedia",Enquanto Você Dormia
+http://pfsv.io:80/movie/51162306/imagination.me/1555.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bhf" group-title="Filmes | Comedia",Enquanto Você Dormia
+http://pfsv.io:80/movie/51162306/imagination.me/64482.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/d" group-title="Filmes | Comedia",Entourage: Fama E Amizade
+http://pfsv.io:80/movie/51162306/imagination.me/1073.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bc" group-title="Filmes | Comedia",Entrando Numa Fria
+http://pfsv.io:80/movie/51162306/imagination.me/1146.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/9u" group-title="Filmes | Comedia",Entrando Numa Fria Maior Ainda
+http://pfsv.io:80/movie/51162306/imagination.me/61933.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/L" group-title="Filmes | Comedia",Entrando Numa Fria Maior Ainda Com A Família
+http://pfsv.io:80/movie/51162306/imagination.me/1115.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/L" group-title="Filmes | Comedia",Entrando Numa Fria Maior Ainda Com A Família
+http://pfsv.io:80/movie/51162306/imagination.me/1415.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/9v" group-title="Filmes | Comedia",Entrando Numa Fria Maior Ainda Com A Família
+http://pfsv.io:80/movie/51162306/imagination.me/61934.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/D2" group-title="Filmes | Comedia",Entre Facas E Segredos
+http://pfsv.io:80/movie/51162306/imagination.me/29955.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bR" group-title="Filmes | Comedia",Entre Vinho E Vinagre
+http://pfsv.io:80/movie/51162306/imagination.me/1201.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bth" group-title="Filmes | Comedia",Era Uma Vez Um Colchão
+http://pfsv.io:80/movie/51162306/imagination.me/84260.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bmF" group-title="Filmes | Comedia",Ernest - O Bobo E A Fera
+http://pfsv.io:80/movie/51162306/imagination.me/68957.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bp4" group-title="Filmes | Comedia",Escola De Espiões
+http://pfsv.io:80/movie/51162306/imagination.me/69649.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bs" group-title="Filmes | Comedia",Escola De Rock
+http://pfsv.io:80/movie/51162306/imagination.me/1167.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/wa" group-title="Filmes | Comedia",Escola De Solteiras
+http://pfsv.io:80/movie/51162306/imagination.me/4262.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/R" group-title="Filmes | Comedia",Escrito Nas Estrelas
+http://pfsv.io:80/movie/51162306/imagination.me/1123.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/cm" group-title="Filmes | Comedia",Espartalhões
+http://pfsv.io:80/movie/51162306/imagination.me/1243.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Ef" group-title="Filmes | Comedia",Especial De Natal Porta Dos Fundos: A Primeira Tentação De Cristo
+http://pfsv.io:80/movie/51162306/imagination.me/4079.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/fF" group-title="Filmes | Comedia",Especialista Em Crise
+http://pfsv.io:80/movie/51162306/imagination.me/1518.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/ZJ" group-title="Filmes | Comedia",Espontânea
+http://pfsv.io:80/movie/51162306/imagination.me/57669.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/eX" group-title="Filmes | Comedia",Esposa De Mentirinha
+http://pfsv.io:80/movie/51162306/imagination.me/1457.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/ct" group-title="Filmes | Comedia",Esquadrão Classe A
+http://pfsv.io:80/movie/51162306/imagination.me/1252.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/69" group-title="Filmes | Comedia",Esqueceram De Mim
+http://pfsv.io:80/movie/51162306/imagination.me/60706.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/7a" group-title="Filmes | Comedia",Esqueceram De Mim 2: Perdido Em Nova York
+http://pfsv.io:80/movie/51162306/imagination.me/60707.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/7b" group-title="Filmes | Comedia",Esqueceram De Mim 3
+http://pfsv.io:80/movie/51162306/imagination.me/60708.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/7c" group-title="Filmes | Comedia",Esqueceram De Mim 4
+http://pfsv.io:80/movie/51162306/imagination.me/60709.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/7d" group-title="Filmes | Comedia",Esqueceram De Mim 5: Sozinho No Natal
+http://pfsv.io:80/movie/51162306/imagination.me/60710.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/iS3" group-title="Filmes | Comedia",Este é O Meu Garoto
+http://pfsv.io:80/movie/51162306/imagination.me/56158.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/MU" group-title="Filmes | Comedia",Estocolmo
+http://pfsv.io:80/movie/51162306/imagination.me/34052.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bP" group-title="Filmes | Comedia",Eu Não Sou Um Homem Fácil
+http://pfsv.io:80/movie/51162306/imagination.me/1199.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/f0" group-title="Filmes | Comedia",Eu Os Declaro Marido E    Larry
+http://pfsv.io:80/movie/51162306/imagination.me/1546.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/6z" group-title="Filmes | Comedia",Eu Te Amo, Beth Cooper
+http://pfsv.io:80/movie/51162306/imagination.me/60047.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bcG" group-title="Filmes | Comedia",Eu, Deus E Bin Laden
+http://pfsv.io:80/movie/51162306/imagination.me/63222.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bW" group-title="Filmes | Comedia",Eu, Eu Mesmo & Irene
+http://pfsv.io:80/movie/51162306/imagination.me/34186.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bcH" group-title="Filmes | Comedia",Eu, Eu Mesmo & Irene
+http://pfsv.io:80/movie/51162306/imagination.me/63223.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/fA" group-title="Filmes | Comedia",Eurotrip:.Passaporte.para.a.Confusão.()
+http://pfsv.io:80/movie/51162306/imagination.me/1510.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/ZL" group-title="Filmes | Comedia",Fada Madrinha
+http://pfsv.io:80/movie/51162306/imagination.me/57671.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/cR" group-title="Filmes | Comedia",Fala Sério, Mãe!
+http://pfsv.io:80/movie/51162306/imagination.me/1220.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/xE" group-title="Filmes | Comedia",Falcons Em Jogo
+http://pfsv.io:80/movie/51162306/imagination.me/4321.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/cJ" group-title="Filmes | Comedia",Família Do Bagulho
+http://pfsv.io:80/movie/51162306/imagination.me/1273.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/ba1" group-title="Filmes | Comedia",Febre De Juventude
+http://pfsv.io:80/movie/51162306/imagination.me/62814.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/LG" group-title="Filmes | Comedia",Feel The Beat
+http://pfsv.io:80/movie/51162306/imagination.me/33425.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bkV" group-title="Filmes | Comedia",Feito Cães E Gatos
+http://pfsv.io:80/movie/51162306/imagination.me/67429.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/D" group-title="Filmes | Comedia",Felicidade Por Um Fio
+http://pfsv.io:80/movie/51162306/imagination.me/1105.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/MA" group-title="Filmes | Comedia",Festival Eurovision Da Canção: A Saga De Sigrit E Lars
+http://pfsv.io:80/movie/51162306/imagination.me/34038.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/ZN" group-title="Filmes | Comedia",Flops: Agentes Nada Secretos
+http://pfsv.io:80/movie/51162306/imagination.me/57672.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bv8" group-title="Filmes | Comedia",Fora De Controle
+http://pfsv.io:80/movie/51162306/imagination.me/90839.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/yS" group-title="Filmes | Comedia",Fora De Série
+http://pfsv.io:80/movie/51162306/imagination.me/4364.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bcL" group-title="Filmes | Comedia",Forrest Gump - O Contador De Histórias
+http://pfsv.io:80/movie/51162306/imagination.me/63227.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/d4" group-title="Filmes | Comedia",Fuzileiro Do Amor
+http://pfsv.io:80/movie/51162306/imagination.me/1539.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bar" group-title="Filmes | Comedia",Fé Demais Não Cheira Bem
+http://pfsv.io:80/movie/51162306/imagination.me/62347.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/b5" group-title="Filmes | Comedia",Férias Do Barulho
+http://pfsv.io:80/movie/51162306/imagination.me/1218.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/cv" group-title="Filmes | Comedia",Férias Frustradas
+http://pfsv.io:80/movie/51162306/imagination.me/1254.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/b7" group-title="Filmes | Comedia",Férias Frustradas De Verão
+http://pfsv.io:80/movie/51162306/imagination.me/1226.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bxd" group-title="Filmes | Comedia",Férias Frustradas Em Las Vegas
+http://pfsv.io:80/movie/51162306/imagination.me/91201.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/cy" group-title="Filmes | Comedia",Férias No Trailer
+http://pfsv.io:80/movie/51162306/imagination.me/1259.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/do" group-title="Filmes | Comedia",Garfield - O Filme
+http://pfsv.io:80/movie/51162306/imagination.me/1347.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/ea" group-title="Filmes | Comedia",Garfield 2
+http://pfsv.io:80/movie/51162306/imagination.me/1571.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/dV" group-title="Filmes | Comedia",Garota Infernal
+http://pfsv.io:80/movie/51162306/imagination.me/1369.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/cS" group-title="Filmes | Comedia",Garota Mimada
+http://pfsv.io:80/movie/51162306/imagination.me/1284.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/fO" group-title="Filmes | Comedia",Garçonete
+http://pfsv.io:80/movie/51162306/imagination.me/1529.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/iR5" group-title="Filmes | Comedia",Gasparzinho, O Fantasminha Camarada
+http://pfsv.io:80/movie/51162306/imagination.me/53345.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bkX" group-title="Filmes | Comedia",Gasparzinho, O Fantasminha Camarada
+http://pfsv.io:80/movie/51162306/imagination.me/67431.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/En" group-title="Filmes | Comedia",Gato Sórdido
+http://pfsv.io:80/movie/51162306/imagination.me/29967.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/c5" group-title="Filmes | Comedia",Gente Grande
+http://pfsv.io:80/movie/51162306/imagination.me/1271.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/cI" group-title="Filmes | Comedia",Gente Grande 2
+http://pfsv.io:80/movie/51162306/imagination.me/1392.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bX" group-title="Filmes | Comedia",Gente Que Vai E Volta
+http://pfsv.io:80/movie/51162306/imagination.me/1208.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bie" group-title="Filmes | Comedia",George, O Rei Da Floresta
+http://pfsv.io:80/movie/51162306/imagination.me/65277.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/S8" group-title="Filmes | Comedia",Get Duked!
+http://pfsv.io:80/movie/51162306/imagination.me/47388.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bv9" group-title="Filmes | Comedia",Ghost Town - Um Espírito Atrás De Mim
+http://pfsv.io:80/movie/51162306/imagination.me/90840.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/eV" group-title="Filmes | Comedia",Golpe Baixo
+http://pfsv.io:80/movie/51162306/imagination.me/1453.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/xB" group-title="Filmes | Comedia",Grace
+http://pfsv.io:80/movie/51162306/imagination.me/4319.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bjN" group-title="Filmes | Comedia",Grande Hotel
+http://pfsv.io:80/movie/51162306/imagination.me/66681.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bkY" group-title="Filmes | Comedia",Grease: Ao Vivo
+http://pfsv.io:80/movie/51162306/imagination.me/67432.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/8N" group-title="Filmes | Comedia",Gremlins
+http://pfsv.io:80/movie/51162306/imagination.me/61161.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/w" group-title="Filmes | Comedia",Guerra Dos Monstros
+http://pfsv.io:80/movie/51162306/imagination.me/1096.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/dB" group-title="Filmes | Comedia",Guest Of Honour
+http://pfsv.io:80/movie/51162306/imagination.me/1404.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Er" group-title="Filmes | Comedia",Guy
+http://pfsv.io:80/movie/51162306/imagination.me/29969.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bjO" group-title="Filmes | Comedia",Hairspray - Em Busca Da Fama
+http://pfsv.io:80/movie/51162306/imagination.me/66682.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/t9" group-title="Filmes | Comedia",Happy Hour - Verdades E Consequências
+http://pfsv.io:80/movie/51162306/imagination.me/4190.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/9y" group-title="Filmes | Comedia",Heróis De Ressaca
+http://pfsv.io:80/movie/51162306/imagination.me/61937.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/hd4" group-title="Filmes | Comedia",Hey Arnold! Na Selva – O Filme
+http://pfsv.io:80/movie/51162306/imagination.me/47389.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/hd5" group-title="Filmes | Comedia",Hey Arnold! O Filme
+http://pfsv.io:80/movie/51162306/imagination.me/47390.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bQ" group-title="Filmes | Comedia",High School Musical
+http://pfsv.io:80/movie/51162306/imagination.me/1221.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/fx" group-title="Filmes | Comedia",High School Musical 2
+http://pfsv.io:80/movie/51162306/imagination.me/1505.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/cO" group-title="Filmes | Comedia",High School Musical 3: Ano Da Formatura
+http://pfsv.io:80/movie/51162306/imagination.me/1200.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/1W" group-title="Filmes | Comedia",High School Musical: O Musical: Especial De Festas
+http://pfsv.io:80/movie/51162306/imagination.me/58332.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bwb" group-title="Filmes | Comedia",Histórias Que Nossas Babás Não Contavam
+http://pfsv.io:80/movie/51162306/imagination.me/90842.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/b4" group-title="Filmes | Comedia",Hitch - Conselheiro Amoroso
+http://pfsv.io:80/movie/51162306/imagination.me/1215.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/be" group-title="Filmes | Comedia",Holmes E Watson
+http://pfsv.io:80/movie/51162306/imagination.me/1148.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bif" group-title="Filmes | Comedia",Homens Brancos Não Sabem Enterrar
+http://pfsv.io:80/movie/51162306/imagination.me/65278.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Ub" group-title="Filmes | Comedia",Hooking Up
+http://pfsv.io:80/movie/51162306/imagination.me/49155.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/9L" group-title="Filmes | Comedia",Hot Rod - Loucos Sobre Rodas
+http://pfsv.io:80/movie/51162306/imagination.me/61951.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/cW" group-title="Filmes | Comedia",Idas E Vindas Do Amor
+http://pfsv.io:80/movie/51162306/imagination.me/1229.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/cz" group-title="Filmes | Comedia",Idiocracia
+http://pfsv.io:80/movie/51162306/imagination.me/1260.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bpf" group-title="Filmes | Comedia",Império Dos Discos, Uma Loja Muito Louca
+http://pfsv.io:80/movie/51162306/imagination.me/69595.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/cw" group-title="Filmes | Comedia",Internet - O Filme
+http://pfsv.io:80/movie/51162306/imagination.me/1256.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bst" group-title="Filmes | Comedia",Irma La Douce
+http://pfsv.io:80/movie/51162306/imagination.me/73436.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/ED" group-title="Filmes | Comedia",Irmãs Por Acaso
+http://pfsv.io:80/movie/51162306/imagination.me/29975.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/EF" group-title="Filmes | Comedia",Isi & Ossi
+http://pfsv.io:80/movie/51162306/imagination.me/29976.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bk1" group-title="Filmes | Comedia",Isto é Spinal Tap
+http://pfsv.io:80/movie/51162306/imagination.me/67435.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bc3" group-title="Filmes | Comedia",Jackass 3 5
+http://pfsv.io:80/movie/51162306/imagination.me/63248.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bc4" group-title="Filmes | Comedia",Jackass: O Filme
+http://pfsv.io:80/movie/51162306/imagination.me/63249.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/cP" group-title="Filmes | Comedia",Jeca Contra O Capeta
+http://pfsv.io:80/movie/51162306/imagination.me/1203.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/dL" group-title="Filmes | Comedia",Jeca E Seu Filho Preto
+http://pfsv.io:80/movie/51162306/imagination.me/1444.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/dr" group-title="Filmes | Comedia",Jeca Tatu
+http://pfsv.io:80/movie/51162306/imagination.me/1362.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/dd" group-title="Filmes | Comedia",Jecão    Um Fofoqueiro No Céu
+http://pfsv.io:80/movie/51162306/imagination.me/1314.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bat" group-title="Filmes | Comedia",Jerry Maguire: A Grande Virada
+http://pfsv.io:80/movie/51162306/imagination.me/62350.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bat" group-title="Filmes | Comedia",Jerry Maguire: A Grande Virada
+http://pfsv.io:80/movie/51162306/imagination.me/84262.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/EG" group-title="Filmes | Comedia",Jexi -  Um Celular Sem Filtro
+http://pfsv.io:80/movie/51162306/imagination.me/29977.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/brJ" group-title="Filmes | Comedia",Jogando Com Prazer
+http://pfsv.io:80/movie/51162306/imagination.me/72798.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/eM" group-title="Filmes | Comedia",Jogo De Amor Em Las Vegas
+http://pfsv.io:80/movie/51162306/imagination.me/1442.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bpg" group-title="Filmes | Comedia",Jogos Do Poder
+http://pfsv.io:80/movie/51162306/imagination.me/69596.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/3M" group-title="Filmes | Comedia",Jogos Entre Amigos
+http://pfsv.io:80/movie/51162306/imagination.me/58646.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bc5" group-title="Filmes | Comedia",Jogos, Trapaças E Dois Canos Fumegantes
+http://pfsv.io:80/movie/51162306/imagination.me/63250.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bti" group-title="Filmes | Comedia",Johnny Bom De Transa
+http://pfsv.io:80/movie/51162306/imagination.me/84263.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/dF" group-title="Filmes | Comedia",Johnny English 3 0
+http://pfsv.io:80/movie/51162306/imagination.me/1349.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/EN" group-title="Filmes | Comedia",Jojo Rabbit
+http://pfsv.io:80/movie/51162306/imagination.me/29980.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/EP" group-title="Filmes | Comedia",Jornada Da Vida
+http://pfsv.io:80/movie/51162306/imagination.me/29981.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/cs" group-title="Filmes | Comedia",Jumanji: Bem-Vindo à Selva
+http://pfsv.io:80/movie/51162306/imagination.me/1114.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/ER" group-title="Filmes | Comedia",Jumanji: Próxima Fase
+http://pfsv.io:80/movie/51162306/imagination.me/29982.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/btk" group-title="Filmes | Comedia",Juno
+http://pfsv.io:80/movie/51162306/imagination.me/84265.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/EV" group-title="Filmes | Comedia",Juntas No Crime
+http://pfsv.io:80/movie/51162306/imagination.me/29984.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bA" group-title="Filmes | Comedia",Juntos E Misturados
+http://pfsv.io:80/movie/51162306/imagination.me/1180.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/tP" group-title="Filmes | Comedia",Juntos Para Sempre
+http://pfsv.io:80/movie/51162306/imagination.me/4180.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/fu" group-title="Filmes | Comedia",Juntos Pelo Acaso
+http://pfsv.io:80/movie/51162306/imagination.me/1501.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/dM" group-title="Filmes | Comedia",Já Não Me Sinto Em Casa Nesse Mundo
+http://pfsv.io:80/movie/51162306/imagination.me/1358.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/6c" group-title="Filmes | Comedia",Júnior
+http://pfsv.io:80/movie/51162306/imagination.me/60019.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bw" group-title="Filmes | Comedia",Kate & Leopold
+http://pfsv.io:80/movie/51162306/imagination.me/1176.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/fX" group-title="Filmes | Comedia",Kevin Hart's - Guide To Black History
+http://pfsv.io:80/movie/51162306/imagination.me/1541.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bi" group-title="Filmes | Comedia",Kung Fu Futebol Clube
+http://pfsv.io:80/movie/51162306/imagination.me/1153.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/dY" group-title="Filmes | Comedia",Kung-Fusão
+http://pfsv.io:80/movie/51162306/imagination.me/1513.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/cj" group-title="Filmes | Comedia",La La Land: Cantando Estações
+http://pfsv.io:80/movie/51162306/imagination.me/1240.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bxg" group-title="Filmes | Comedia",Lado A Lado Com O Amor
+http://pfsv.io:80/movie/51162306/imagination.me/91205.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/gm" group-title="Filmes | Comedia",Ladrões Que Roubam Ladrões
+http://pfsv.io:80/movie/51162306/imagination.me/1574.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/dq" group-title="Filmes | Comedia",Land Ho!
+http://pfsv.io:80/movie/51162306/imagination.me/1359.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/4d" group-title="Filmes | Comedia",Lar Doce Lar    Ou Não
+http://pfsv.io:80/movie/51162306/imagination.me/58663.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/E8" group-title="Filmes | Comedia",Lar Ideal
+http://pfsv.io:80/movie/51162306/imagination.me/29990.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/big" group-title="Filmes | Comedia",Legalmente Loira
+http://pfsv.io:80/movie/51162306/imagination.me/65281.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/cI" group-title="Filmes | Comedia",Legalmente Loira 2
+http://pfsv.io:80/movie/51162306/imagination.me/1174.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/cI" group-title="Filmes | Comedia",Legalmente Loira 2
+http://pfsv.io:80/movie/51162306/imagination.me/65282.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/co" group-title="Filmes | Comedia",Legalmente Loiras
+http://pfsv.io:80/movie/51162306/imagination.me/1091.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bik" group-title="Filmes | Comedia",Let It Shine
+http://pfsv.io:80/movie/51162306/imagination.me/65286.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/vu" group-title="Filmes | Comedia",Let's Dance
+http://pfsv.io:80/movie/51162306/imagination.me/4235.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/dy" group-title="Filmes | Comedia",Leve-Me
+http://pfsv.io:80/movie/51162306/imagination.me/1387.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/cb" group-title="Filmes | Comedia",Linda De Morrer
+http://pfsv.io:80/movie/51162306/imagination.me/1231.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bdb" group-title="Filmes | Comedia",Lisbela E O Prisioneiro
+http://pfsv.io:80/movie/51162306/imagination.me/63260.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/5N" group-title="Filmes | Comedia",Lista De Desejos De Natal
+http://pfsv.io:80/movie/51162306/imagination.me/59989.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/du" group-title="Filmes | Comedia",Little Nicky, Um Diabo Diferente
+http://pfsv.io:80/movie/51162306/imagination.me/1377.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bhj" group-title="Filmes | Comedia",Lizzie McGuire: Um Sonho Popstar
+http://pfsv.io:80/movie/51162306/imagination.me/64486.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bc8" group-title="Filmes | Comedia",Lições Para Toda Vida
+http://pfsv.io:80/movie/51162306/imagination.me/63255.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bx" group-title="Filmes | Comedia",Loja De Unicórnios
+http://pfsv.io:80/movie/51162306/imagination.me/1177.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/cO" group-title="Filmes | Comedia",Looney Tunes - De Volta à Ação
+http://pfsv.io:80/movie/51162306/imagination.me/1278.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/e6" group-title="Filmes | Comedia",Loucademia De Polícia
+http://pfsv.io:80/movie/51162306/imagination.me/1469.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/fC" group-title="Filmes | Comedia",Loucademia De Polícia 2: A Primeira Missão
+http://pfsv.io:80/movie/51162306/imagination.me/1512.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/e1" group-title="Filmes | Comedia",Loucademia De Polícia 3: De Volta Ao Treinamento
+http://pfsv.io:80/movie/51162306/imagination.me/1461.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/dy" group-title="Filmes | Comedia",Loucademia De Polícia 4: O Cidadão Se Defende
+http://pfsv.io:80/movie/51162306/imagination.me/1339.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/e9" group-title="Filmes | Comedia",Loucademia De Polícia 5: Missão Miami Beach
+http://pfsv.io:80/movie/51162306/imagination.me/1472.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/ee" group-title="Filmes | Comedia",Loucademia De Polícia 6: Cidade Em Estado De Sítio
+http://pfsv.io:80/movie/51162306/imagination.me/1398.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/dd" group-title="Filmes | Comedia",Loucademia De Polícia 7: Missão Moscou
+http://pfsv.io:80/movie/51162306/imagination.me/1309.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/f53" group-title="Filmes | Comedia",Loucas Por Amor, Viciadas Em Dinheiro
+http://pfsv.io:80/movie/51162306/imagination.me/34187.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/7" group-title="Filmes | Comedia",Loucas Pra Casar
+http://pfsv.io:80/movie/51162306/imagination.me/1141.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/fq" group-title="Filmes | Comedia",Louco Por Elas
+http://pfsv.io:80/movie/51162306/imagination.me/1497.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bxh" group-title="Filmes | Comedia",Loucuras De Carnaval
+http://pfsv.io:80/movie/51162306/imagination.me/91206.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bxi" group-title="Filmes | Comedia",Loucuras De Verão
+http://pfsv.io:80/movie/51162306/imagination.me/91207.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/11" group-title="Filmes | Comedia",Loucuras De Verão
+http://pfsv.io:80/movie/51162306/imagination.me/58334.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/dC" group-title="Filmes | Comedia",Loucuras Do Paraíso
+http://pfsv.io:80/movie/51162306/imagination.me/1407.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bqF" group-title="Filmes | Comedia",Loucuras Na Idade Média
+http://pfsv.io:80/movie/51162306/imagination.me/69692.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/za" group-title="Filmes | Comedia",Luccas Neto Em: Acampamento De Férias
+http://pfsv.io:80/movie/51162306/imagination.me/4373.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Fu" group-title="Filmes | Comedia",Luccas Neto Em: Acampamento De Férias 2
+http://pfsv.io:80/movie/51162306/imagination.me/30001.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Fw" group-title="Filmes | Comedia",Luccas Neto Em: O Hotel Mágico
+http://pfsv.io:80/movie/51162306/imagination.me/30002.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/v2" group-title="Filmes | Comedia",Lutando Pela Família
+http://pfsv.io:80/movie/51162306/imagination.me/4255.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/cR" group-title="Filmes | Comedia",Lá Vem Os Pais
+http://pfsv.io:80/movie/51162306/imagination.me/1283.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/dI" group-title="Filmes | Comedia",Madrugada Muito Louca
+http://pfsv.io:80/movie/51162306/imagination.me/1352.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/dI" group-title="Filmes | Comedia",Madrugada Muito Louca
+http://pfsv.io:80/movie/51162306/imagination.me/1463.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bdd" group-title="Filmes | Comedia",Mafia
+http://pfsv.io:80/movie/51162306/imagination.me/63262.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/XL" group-title="Filmes | Comedia",Magic Camp
+http://pfsv.io:80/movie/51162306/imagination.me/56169.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/8X" group-title="Filmes | Comedia",Mais Estranho Que A Ficção
+http://pfsv.io:80/movie/51162306/imagination.me/61171.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/0W" group-title="Filmes | Comedia",Mais Outro Filho
+http://pfsv.io:80/movie/51162306/imagination.me/57992.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/6B" group-title="Filmes | Comedia",Mais Um Verão Com Mamãe
+http://pfsv.io:80/movie/51162306/imagination.me/60049.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bwd" group-title="Filmes | Comedia",Mais Uma Sexta-Feira Em Apuros
+http://pfsv.io:80/movie/51162306/imagination.me/90844.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bdg" group-title="Filmes | Comedia",Maldita Sorte
+http://pfsv.io:80/movie/51162306/imagination.me/63265.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/dG" group-title="Filmes | Comedia",Mamma Mia! Lá Vamos Nós De Novo
+http://pfsv.io:80/movie/51162306/imagination.me/1430.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/dP" group-title="Filmes | Comedia",Mamma Mia! O Filme
+http://pfsv.io:80/movie/51162306/imagination.me/1473.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/dP" group-title="Filmes | Comedia",Mamma Mia! O Filme
+http://pfsv.io:80/movie/51162306/imagination.me/67438.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/de" group-title="Filmes | Comedia",Mamãe - Operação Balada
+http://pfsv.io:80/movie/51162306/imagination.me/1315.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/rg" group-title="Filmes | Comedia",Mamãe É Uma Espiã
+http://pfsv.io:80/movie/51162306/imagination.me/4237.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/rg" group-title="Filmes | Comedia",Mamãe É Uma Espiã
+http://pfsv.io:80/movie/51162306/imagination.me/4063.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/9M" group-title="Filmes | Comedia",Manhattan
+http://pfsv.io:80/movie/51162306/imagination.me/61952.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/FL" group-title="Filmes | Comedia",Maria Do Caritó
+http://pfsv.io:80/movie/51162306/imagination.me/30010.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/eo" group-title="Filmes | Comedia",Marido E Mulher
+http://pfsv.io:80/movie/51162306/imagination.me/1411.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bC" group-title="Filmes | Comedia",Marido Por Acaso
+http://pfsv.io:80/movie/51162306/imagination.me/1182.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bl0" group-title="Filmes | Comedia",Marley & Eu
+http://pfsv.io:80/movie/51162306/imagination.me/68199.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bl1" group-title="Filmes | Comedia",Marley & Eu 2 - Filhote Encrenqueiro
+http://pfsv.io:80/movie/51162306/imagination.me/68200.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/fQ" group-title="Filmes | Comedia",Marmaduke
+http://pfsv.io:80/movie/51162306/imagination.me/1531.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bi0" group-title="Filmes | Comedia",Marmaduke
+http://pfsv.io:80/movie/51162306/imagination.me/66618.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bnE" group-title="Filmes | Comedia",Maré De Azar
+http://pfsv.io:80/movie/51162306/imagination.me/69024.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bM" group-title="Filmes | Comedia",Mascara
+http://pfsv.io:80/movie/51162306/imagination.me/1195.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/hOt" group-title="Filmes | Comedia",Matadores De Velhinha
+http://pfsv.io:80/movie/51162306/imagination.me/51589.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bi1" group-title="Filmes | Comedia",Matadores De Velhinha
+http://pfsv.io:80/movie/51162306/imagination.me/66619.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/eL" group-title="Filmes | Comedia",Matilda
+http://pfsv.io:80/movie/51162306/imagination.me/1441.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/b0" group-title="Filmes | Comedia",Mazzaropi
+http://pfsv.io:80/movie/51162306/imagination.me/1211.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/dr" group-title="Filmes | Comedia",Mazzaropi - A Banda Das Velhas Virgens
+http://pfsv.io:80/movie/51162306/imagination.me/1329.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/fo" group-title="Filmes | Comedia",Mazzaropi - A Carrocinha
+http://pfsv.io:80/movie/51162306/imagination.me/1495.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/dH" group-title="Filmes | Comedia",Mazzaropi - Candinho
+http://pfsv.io:80/movie/51162306/imagination.me/1351.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/c3" group-title="Filmes | Comedia",Mazzaropi - Nadando Em Dinheiro
+http://pfsv.io:80/movie/51162306/imagination.me/1264.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/eh" group-title="Filmes | Comedia",Mazzaropi - O Cineasta Das Platéias
+http://pfsv.io:80/movie/51162306/imagination.me/1401.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/dK" group-title="Filmes | Comedia",Mazzaropi - O Corintiano
+http://pfsv.io:80/movie/51162306/imagination.me/1355.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/eS" group-title="Filmes | Comedia",Mazzaropi - Sai Da Frente
+http://pfsv.io:80/movie/51162306/imagination.me/1450.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/dE" group-title="Filmes | Comedia",Megarromântico
+http://pfsv.io:80/movie/51162306/imagination.me/1414.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/N" group-title="Filmes | Comedia",Meia Noite Em Paris
+http://pfsv.io:80/movie/51162306/imagination.me/1119.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/gg" group-title="Filmes | Comedia",Meninas Malvadas
+http://pfsv.io:80/movie/51162306/imagination.me/1567.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bO" group-title="Filmes | Comedia",Meninas Malvadas 2
+http://pfsv.io:80/movie/51162306/imagination.me/1198.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/c4" group-title="Filmes | Comedia",Mens@gem Para Você
+http://pfsv.io:80/movie/51162306/imagination.me/68201.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/c4" group-title="Filmes | Comedia",Mensagem Para Você
+http://pfsv.io:80/movie/51162306/imagination.me/1269.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/jW" group-title="Filmes | Comedia",Meu Amigo Enzo
+http://pfsv.io:80/movie/51162306/imagination.me/4214.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/F0" group-title="Filmes | Comedia",Meu Bebê
+http://pfsv.io:80/movie/51162306/imagination.me/30018.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/dv" group-title="Filmes | Comedia",Meu Japão Brasileiro
+http://pfsv.io:80/movie/51162306/imagination.me/1379.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/fg" group-title="Filmes | Comedia",Meu Nome é Ninguém
+http://pfsv.io:80/movie/51162306/imagination.me/1481.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/cP" group-title="Filmes | Comedia",Meu Primeiro Amor
+http://pfsv.io:80/movie/51162306/imagination.me/1280.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bi2" group-title="Filmes | Comedia",Meu Vizinho Mafioso
+http://pfsv.io:80/movie/51162306/imagination.me/66620.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bi3" group-title="Filmes | Comedia",Meu Vizinho Mafioso 2
+http://pfsv.io:80/movie/51162306/imagination.me/66621.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/ez" group-title="Filmes | Comedia",Meus 15 Anos
+http://pfsv.io:80/movie/51162306/imagination.me/1425.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/3" group-title="Filmes | Comedia",Meus Vizinhos São Um Terror
+http://pfsv.io:80/movie/51162306/imagination.me/1136.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/fw" group-title="Filmes | Comedia",MIB: Homens De Preto - Internacional
+http://pfsv.io:80/movie/51162306/imagination.me/4166.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/QS" group-title="Filmes | Comedia",Milf
+http://pfsv.io:80/movie/51162306/imagination.me/35069.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/cQ" group-title="Filmes | Comedia",Minha Familia Já Te Ama!
+http://pfsv.io:80/movie/51162306/imagination.me/1282.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/cU" group-title="Filmes | Comedia",Minha Mãe é Uma Peça 2
+http://pfsv.io:80/movie/51162306/imagination.me/1286.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/F7" group-title="Filmes | Comedia",Minha Mãe é Uma Peça 3
+http://pfsv.io:80/movie/51162306/imagination.me/30022.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/dp" group-title="Filmes | Comedia",Minha Mãe é Uma Peça: O Filme
+http://pfsv.io:80/movie/51162306/imagination.me/1354.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/brM" group-title="Filmes | Comedia",Minha Professora De Francês
+http://pfsv.io:80/movie/51162306/imagination.me/72801.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/wR" group-title="Filmes | Comedia",Minha Querida Confraria
+http://pfsv.io:80/movie/51162306/imagination.me/4292.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bxk" group-title="Filmes | Comedia",Minha Vida Dava Um Filme
+http://pfsv.io:80/movie/51162306/imagination.me/91209.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/d7" group-title="Filmes | Comedia",Minhas Adoráveis Ex-Namoradas
+http://pfsv.io:80/movie/51162306/imagination.me/1550.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/f54" group-title="Filmes | Comedia",Miss Simpatia
+http://pfsv.io:80/movie/51162306/imagination.me/34188.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/f55" group-title="Filmes | Comedia",Miss Simpatia 2 - Armada E Poderosa
+http://pfsv.io:80/movie/51162306/imagination.me/34189.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/XI" group-title="Filmes | Comedia",Missão Presente De Natal
+http://pfsv.io:80/movie/51162306/imagination.me/56163.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/gk" group-title="Filmes | Comedia",Missão Quase Impossível
+http://pfsv.io:80/movie/51162306/imagination.me/1572.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/boE" group-title="Filmes | Comedia",Mistério No Mediterrâneo
+http://pfsv.io:80/movie/51162306/imagination.me/69109.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/z1" group-title="Filmes | Comedia",Mo Gilligan: Momentum
+http://pfsv.io:80/movie/51162306/imagination.me/4408.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Gf" group-title="Filmes | Comedia",Modo Avião
+http://pfsv.io:80/movie/51162306/imagination.me/30027.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/8Z" group-title="Filmes | Comedia",Monsterville - O Armario Das Almas
+http://pfsv.io:80/movie/51162306/imagination.me/61173.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/dQ" group-title="Filmes | Comedia",Morte No Funeral
+http://pfsv.io:80/movie/51162306/imagination.me/1364.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bxl" group-title="Filmes | Comedia",Morte No Funeral
+http://pfsv.io:80/movie/51162306/imagination.me/91210.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/dH" group-title="Filmes | Comedia",Mudança De Hábito
+http://pfsv.io:80/movie/51162306/imagination.me/1432.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/ct" group-title="Filmes | Comedia",Mudança De Hábito 2: Mais Loucuras No Convento
+http://pfsv.io:80/movie/51162306/imagination.me/1117.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/fw" group-title="Filmes | Comedia",Muita Calma Nessa Hora
+http://pfsv.io:80/movie/51162306/imagination.me/1504.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/e3" group-title="Filmes | Comedia",Muita Calma Nessa Hora 2
+http://pfsv.io:80/movie/51162306/imagination.me/1464.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Tz" group-title="Filmes | Comedia",Muito Amor Pra Dar
+http://pfsv.io:80/movie/51162306/imagination.me/48770.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/fH" group-title="Filmes | Comedia",Muito Bem Acompanhada
+http://pfsv.io:80/movie/51162306/imagination.me/1520.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bY" group-title="Filmes | Comedia",Muito Louca
+http://pfsv.io:80/movie/51162306/imagination.me/1209.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bB" group-title="Filmes | Comedia",Mulheres Ao Ataque
+http://pfsv.io:80/movie/51162306/imagination.me/1181.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bpj" group-title="Filmes | Comedia",Mulheres Perfeitas
+http://pfsv.io:80/movie/51162306/imagination.me/69599.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/9P" group-title="Filmes | Comedia",Muppets 2: Procurados E Amados
+http://pfsv.io:80/movie/51162306/imagination.me/61955.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/5h" group-title="Filmes | Comedia",Murilo Couto
+http://pfsv.io:80/movie/51162306/imagination.me/59566.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/w5" group-title="Filmes | Comedia",Mãe E Muito Mais
+http://pfsv.io:80/movie/51162306/imagination.me/4301.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bdc" group-title="Filmes | Comedia",Mãe é Mãe
+http://pfsv.io:80/movie/51162306/imagination.me/63261.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/boF" group-title="Filmes | Comedia",Na Mira Do Chefe
+http://pfsv.io:80/movie/51162306/imagination.me/69110.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/f93" group-title="Filmes | Comedia",Na Onda Do Iê-Iê-Iê
+http://pfsv.io:80/movie/51162306/imagination.me/35996.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/eC" group-title="Filmes | Comedia",Nada A Esconder
+http://pfsv.io:80/movie/51162306/imagination.me/1428.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/6U" group-title="Filmes | Comedia",Nada A Perder
+http://pfsv.io:80/movie/51162306/imagination.me/60639.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/yp" group-title="Filmes | Comedia",Nadando Com Homens
+http://pfsv.io:80/movie/51162306/imagination.me/4348.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/cl" group-title="Filmes | Comedia",Namoro Ou Liberdade
+http://pfsv.io:80/movie/51162306/imagination.me/1242.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/cm" group-title="Filmes | Comedia",Nancy Drew E A Escada Secreta
+http://pfsv.io:80/movie/51162306/imagination.me/1077.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/0m" group-title="Filmes | Comedia",Natal Sob Fogo Cruzado
+http://pfsv.io:80/movie/51162306/imagination.me/57710.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/f4" group-title="Filmes | Comedia",Negócios Fora De Controle
+http://pfsv.io:80/movie/51162306/imagination.me/1553.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/jm" group-title="Filmes | Comedia",Nekrotronic
+http://pfsv.io:80/movie/51162306/imagination.me/51627.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bhl" group-title="Filmes | Comedia",Neve Pra Cachorro
+http://pfsv.io:80/movie/51162306/imagination.me/64488.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/5P" group-title="Filmes | Comedia",Nick & Norah: Uma Noite De Amor E Música
+http://pfsv.io:80/movie/51162306/imagination.me/59991.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/cg" group-title="Filmes | Comedia",Nina: No Palco E Na Vida
+http://pfsv.io:80/movie/51162306/imagination.me/1236.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/2b" group-title="Filmes | Comedia",Ninguém Brinca Com Jesus Quintana
+http://pfsv.io:80/movie/51162306/imagination.me/58338.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/c0" group-title="Filmes | Comedia",Ninguém Segura Esse Bebê
+http://pfsv.io:80/movie/51162306/imagination.me/1248.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/PT" group-title="Filmes | Comedia",No Balanço Das Coisas
+http://pfsv.io:80/movie/51162306/imagination.me/34259.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/X9" group-title="Filmes | Comedia",No Gogó Do Paulinho
+http://pfsv.io:80/movie/51162306/imagination.me/56198.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/wi" group-title="Filmes | Comedia",No Manches Frida 2: Paraíso Destruído
+http://pfsv.io:80/movie/51162306/imagination.me/4267.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/d2" group-title="Filmes | Comedia",No Paraíso Das Solteironas
+http://pfsv.io:80/movie/51162306/imagination.me/1533.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/cf" group-title="Filmes | Comedia",No Pique De Nova York
+http://pfsv.io:80/movie/51162306/imagination.me/1235.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Gn" group-title="Filmes | Comedia",Noelle
+http://pfsv.io:80/movie/51162306/imagination.me/30034.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/b1" group-title="Filmes | Comedia",Norbit
+http://pfsv.io:80/movie/51162306/imagination.me/1212.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/cW" group-title="Filmes | Comedia",Nossa Vida Com Cães
+http://pfsv.io:80/movie/51162306/imagination.me/1288.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/c7" group-title="Filmes | Comedia",Nosso Ex-Marido
+http://pfsv.io:80/movie/51162306/imagination.me/1303.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bl3" group-title="Filmes | Comedia",Nosso Professor é Um Herói
+http://pfsv.io:80/movie/51162306/imagination.me/68203.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/fD" group-title="Filmes | Comedia",Nosso Último Verão
+http://pfsv.io:80/movie/51162306/imagination.me/1514.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/brP" group-title="Filmes | Comedia",Nunca Fui Beijada
+http://pfsv.io:80/movie/51162306/imagination.me/72804.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/rz" group-title="Filmes | Comedia",Nunca Visto
+http://pfsv.io:80/movie/51162306/imagination.me/4103.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/c8" group-title="Filmes | Comedia",Não Aceitamos Devoluções
+http://pfsv.io:80/movie/51162306/imagination.me/1304.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/dq" group-title="Filmes | Comedia",Não Vai Dar
+http://pfsv.io:80/movie/51162306/imagination.me/1325.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/VQ" group-title="Filmes | Comedia",Não Vamos Pagar Nada
+http://pfsv.io:80/movie/51162306/imagination.me/53245.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/baz" group-title="Filmes | Comedia",Não é Mais Um Besteirol Americano
+http://pfsv.io:80/movie/51162306/imagination.me/62356.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bU" group-title="Filmes | Comedia",Nós Somos Os Campeões
+http://pfsv.io:80/movie/51162306/imagination.me/1205.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bfG" group-title="Filmes | Comedia",Nós Somos Os Campeões
+http://pfsv.io:80/movie/51162306/imagination.me/63660.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bf7" group-title="Filmes | Comedia",Nós Somos Os Campeões 3
+http://pfsv.io:80/movie/51162306/imagination.me/63661.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bnM" group-title="Filmes | Comedia",O Agente Da U N C L E 
+http://pfsv.io:80/movie/51162306/imagination.me/69035.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/r3" group-title="Filmes | Comedia",O Ajudante Do Papai Noel
+http://pfsv.io:80/movie/51162306/imagination.me/4120.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/blc" group-title="Filmes | Comedia",O Amor Custa Caro
+http://pfsv.io:80/movie/51162306/imagination.me/67447.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/sP" group-title="Filmes | Comedia",O Amor Dá Trabalho
+http://pfsv.io:80/movie/51162306/imagination.me/4146.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/gq" group-title="Filmes | Comedia",O Amor Não Tira Férias
+http://pfsv.io:80/movie/51162306/imagination.me/1580.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/H" group-title="Filmes | Comedia",O Amor É Cego
+http://pfsv.io:80/movie/51162306/imagination.me/1109.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/ga" group-title="Filmes | Comedia",O Auto Da Compadecida
+http://pfsv.io:80/movie/51162306/imagination.me/1561.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/cF" group-title="Filmes | Comedia",O Bebê De Bridget Jones
+http://pfsv.io:80/movie/51162306/imagination.me/1169.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/0Z" group-title="Filmes | Comedia",O Candidato
+http://pfsv.io:80/movie/51162306/imagination.me/57993.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bt" group-title="Filmes | Comedia",O Candidato Honesto
+http://pfsv.io:80/movie/51162306/imagination.me/1171.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/h" group-title="Filmes | Comedia",O Candidato Honesto 2
+http://pfsv.io:80/movie/51162306/imagination.me/1079.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/f96" group-title="Filmes | Comedia",O Cangaceiro Trapalhão
+http://pfsv.io:80/movie/51162306/imagination.me/35999.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bwO" group-title="Filmes | Comedia",O Casamento Dos Meus Sonhos
+http://pfsv.io:80/movie/51162306/imagination.me/90898.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/f97" group-title="Filmes | Comedia",O Casamento Dos Trapalhões
+http://pfsv.io:80/movie/51162306/imagination.me/36000.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/dN" group-title="Filmes | Comedia",O Chefe
+http://pfsv.io:80/movie/51162306/imagination.me/1360.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/f98" group-title="Filmes | Comedia",O Cinderelo Trapalhão
+http://pfsv.io:80/movie/51162306/imagination.me/36001.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/fN" group-title="Filmes | Comedia",O Clube Dos Canibais
+http://pfsv.io:80/movie/51162306/imagination.me/1528.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/GF" group-title="Filmes | Comedia",O Começo De Um Novo Amor
+http://pfsv.io:80/movie/51162306/imagination.me/30043.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bn" group-title="Filmes | Comedia",O Date Perfeito
+http://pfsv.io:80/movie/51162306/imagination.me/1160.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/uu" group-title="Filmes | Comedia",O Despertar De Motti
+http://pfsv.io:80/movie/51162306/imagination.me/4202.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/TV" group-title="Filmes | Comedia",O Dia Virá
+http://pfsv.io:80/movie/51162306/imagination.me/48786.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/ge" group-title="Filmes | Comedia",O Diabo Veste Prada
+http://pfsv.io:80/movie/51162306/imagination.me/1565.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bdA" group-title="Filmes | Comedia",O Diabo Veste Prada
+http://pfsv.io:80/movie/51162306/imagination.me/63290.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bho" group-title="Filmes | Comedia",O Dilema
+http://pfsv.io:80/movie/51162306/imagination.me/64491.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/fv" group-title="Filmes | Comedia",O Ditador
+http://pfsv.io:80/movie/51162306/imagination.me/1502.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bmI" group-title="Filmes | Comedia",O Ditador
+http://pfsv.io:80/movie/51162306/imagination.me/68961.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/cC" group-title="Filmes | Comedia",O Diário Da Princesa
+http://pfsv.io:80/movie/51162306/imagination.me/1263.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/ec" group-title="Filmes | Comedia",O Diário Da Princesa 2: Casamento Real
+http://pfsv.io:80/movie/51162306/imagination.me/1579.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/dg" group-title="Filmes | Comedia",O Diário De Bridget Jones
+http://pfsv.io:80/movie/51162306/imagination.me/1326.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bro" group-title="Filmes | Comedia",O Diário De Uma Virgem
+http://pfsv.io:80/movie/51162306/imagination.me/71917.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/f3" group-title="Filmes | Comedia",O Dono Da Festa
+http://pfsv.io:80/movie/51162306/imagination.me/1552.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/fB" group-title="Filmes | Comedia",O Doutor Da Felicidade
+http://pfsv.io:80/movie/51162306/imagination.me/1511.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/dC" group-title="Filmes | Comedia",O Estado Das Coisas
+http://pfsv.io:80/movie/51162306/imagination.me/1343.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/fe" group-title="Filmes | Comedia",O Fabuloso Destino De Amélie Poulain
+http://pfsv.io:80/movie/51162306/imagination.me/1479.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/dw" group-title="Filmes | Comedia",O Fada Do Dente
+http://pfsv.io:80/movie/51162306/imagination.me/1337.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/81" group-title="Filmes | Comedia",O Feitiço De Áquila
+http://pfsv.io:80/movie/51162306/imagination.me/61176.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/9R" group-title="Filmes | Comedia",O Filho Do Ace Ventura
+http://pfsv.io:80/movie/51162306/imagination.me/61958.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/6C" group-title="Filmes | Comedia",O Filho Do Máskara
+http://pfsv.io:80/movie/51162306/imagination.me/60050.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/GX" group-title="Filmes | Comedia",O Galã
+http://pfsv.io:80/movie/51162306/imagination.me/30052.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/ds" group-title="Filmes | Comedia",O Gato De Madame
+http://pfsv.io:80/movie/51162306/imagination.me/1371.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/up" group-title="Filmes | Comedia",O Genro Da Minha Vida
+http://pfsv.io:80/movie/51162306/imagination.me/4200.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/i5e" group-title="Filmes | Comedia",O Golpista Do Ano
+http://pfsv.io:80/movie/51162306/imagination.me/57326.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/W6" group-title="Filmes | Comedia",O Grande Ivan
+http://pfsv.io:80/movie/51162306/imagination.me/56121.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bS" group-title="Filmes | Comedia",O Grande Lebowski
+http://pfsv.io:80/movie/51162306/imagination.me/1202.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/82" group-title="Filmes | Comedia",O Grande Lebowski
+http://pfsv.io:80/movie/51162306/imagination.me/61177.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/dl" group-title="Filmes | Comedia",O Grande Xerife
+http://pfsv.io:80/movie/51162306/imagination.me/1335.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/fS" group-title="Filmes | Comedia",O Grinch
+http://pfsv.io:80/movie/51162306/imagination.me/1534.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bi7" group-title="Filmes | Comedia",O Guia Do Mochileiro Das Galáxias
+http://pfsv.io:80/movie/51162306/imagination.me/66628.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Vg" group-title="Filmes | Comedia",O Halloween Do Hubie
+http://pfsv.io:80/movie/51162306/imagination.me/51581.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/fU" group-title="Filmes | Comedia",O Homem Bicentenário
+http://pfsv.io:80/movie/51162306/imagination.me/1537.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/cn" group-title="Filmes | Comedia",O Homem Das Cavernas
+http://pfsv.io:80/movie/51162306/imagination.me/1244.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/cr" group-title="Filmes | Comedia",O Homem Que Desafiou O Diabo
+http://pfsv.io:80/movie/51162306/imagination.me/1250.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/yA" group-title="Filmes | Comedia",O Homem Que Matou Don Quixote
+http://pfsv.io:80/movie/51162306/imagination.me/4355.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/G3" group-title="Filmes | Comedia",O Império (do Besteirol) Contra-Ataca - Reboot
+http://pfsv.io:80/movie/51162306/imagination.me/30056.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/gaa" group-title="Filmes | Comedia",O Incrível Monstro Trapalhão
+http://pfsv.io:80/movie/51162306/imagination.me/36003.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/dM" group-title="Filmes | Comedia",O Jeca E A Freira
+http://pfsv.io:80/movie/51162306/imagination.me/1454.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/cy" group-title="Filmes | Comedia",O Jeca E A Égua Milagrosa
+http://pfsv.io:80/movie/51162306/imagination.me/1139.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/dD" group-title="Filmes | Comedia",O Jeca Macumbeiro
+http://pfsv.io:80/movie/51162306/imagination.me/1409.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/i6L" group-title="Filmes | Comedia",O Jovem Kieslowski
+http://pfsv.io:80/movie/51162306/imagination.me/57995.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/dh" group-title="Filmes | Comedia",O Lamparina
+http://pfsv.io:80/movie/51162306/imagination.me/1327.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/fh" group-title="Filmes | Comedia",O Melhor Amigo Da Noiva
+http://pfsv.io:80/movie/51162306/imagination.me/1482.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bwh" group-title="Filmes | Comedia",O Melhor Do Show
+http://pfsv.io:80/movie/51162306/imagination.me/90851.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Qn" group-title="Filmes | Comedia",O Melhor Está Por Vir
+http://pfsv.io:80/movie/51162306/imagination.me/34358.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/dk" group-title="Filmes | Comedia",O Melhor Presente é O Amor
+http://pfsv.io:80/movie/51162306/imagination.me/1319.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bxp" group-title="Filmes | Comedia",O Melhor Professor
+http://pfsv.io:80/movie/51162306/imagination.me/91215.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/G9" group-title="Filmes | Comedia",O Melhor Verão Das Nossas Vidas
+http://pfsv.io:80/movie/51162306/imagination.me/30059.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/fE" group-title="Filmes | Comedia",O Menino De Ouro
+http://pfsv.io:80/movie/51162306/imagination.me/1516.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/dS" group-title="Filmes | Comedia",O Mentiroso
+http://pfsv.io:80/movie/51162306/imagination.me/1486.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/gab" group-title="Filmes | Comedia",O Mistério De Robin Hood
+http://pfsv.io:80/movie/51162306/imagination.me/36004.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/gac" group-title="Filmes | Comedia",O Mundo Mágico Dos Trapalhões
+http://pfsv.io:80/movie/51162306/imagination.me/36005.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/6D" group-title="Filmes | Comedia",O Máskara
+http://pfsv.io:80/movie/51162306/imagination.me/60051.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/7r" group-title="Filmes | Comedia",O Natal De Dennis O Pimentinha
+http://pfsv.io:80/movie/51162306/imagination.me/60727.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/y8" group-title="Filmes | Comedia",O Natal Está No Ar
+http://pfsv.io:80/movie/51162306/imagination.me/4372.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bz" group-title="Filmes | Comedia",O Noivo Da Minha Melhor Amiga
+http://pfsv.io:80/movie/51162306/imagination.me/1179.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/gaf" group-title="Filmes | Comedia",O Noviço Rebelde
+http://pfsv.io:80/movie/51162306/imagination.me/36008.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/c3" group-title="Filmes | Comedia",O Pacote
+http://pfsv.io:80/movie/51162306/imagination.me/1297.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bxs" group-title="Filmes | Comedia",O Paizão
+http://pfsv.io:80/movie/51162306/imagination.me/91218.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/em" group-title="Filmes | Comedia",O Pequenino
+http://pfsv.io:80/movie/51162306/imagination.me/1408.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/xR" group-title="Filmes | Comedia",O Pequeno Spirou
+http://pfsv.io:80/movie/51162306/imagination.me/4328.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/ba" group-title="Filmes | Comedia",O Pestinha
+http://pfsv.io:80/movie/51162306/imagination.me/1144.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/ba" group-title="Filmes | Comedia",O Pestinha
+http://pfsv.io:80/movie/51162306/imagination.me/1356.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bf" group-title="Filmes | Comedia",O Primeiro Passo
+http://pfsv.io:80/movie/51162306/imagination.me/1149.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/dA" group-title="Filmes | Comedia",O Professor Aloprado
+http://pfsv.io:80/movie/51162306/imagination.me/1390.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/dm" group-title="Filmes | Comedia",O Puritano Da Rua Augusta
+http://pfsv.io:80/movie/51162306/imagination.me/1344.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bxt" group-title="Filmes | Comedia",O Que Nós Fizemos No Nosso Feriado
+http://pfsv.io:80/movie/51162306/imagination.me/91219.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/gah" group-title="Filmes | Comedia",O Rei E Os Trapalhões
+http://pfsv.io:80/movie/51162306/imagination.me/36010.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/eO" group-title="Filmes | Comedia",O Shaolin Do Sertão
+http://pfsv.io:80/movie/51162306/imagination.me/1446.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/cC" group-title="Filmes | Comedia",O Show De Truman - O Show Da Vida
+http://pfsv.io:80/movie/51162306/imagination.me/1155.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/OX" group-title="Filmes | Comedia",O Sol De Riccione
+http://pfsv.io:80/movie/51162306/imagination.me/34313.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/ef" group-title="Filmes | Comedia",O Terminal
+http://pfsv.io:80/movie/51162306/imagination.me/1399.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/eK" group-title="Filmes | Comedia",O Terno De 2 Bilhões De Dólares
+http://pfsv.io:80/movie/51162306/imagination.me/1440.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/gau" group-title="Filmes | Comedia",O Trapalhão E A Luz Azul
+http://pfsv.io:80/movie/51162306/imagination.me/36024.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/gav" group-title="Filmes | Comedia",O Trapalhão Na Arca De Noé
+http://pfsv.io:80/movie/51162306/imagination.me/36025.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/gaw" group-title="Filmes | Comedia",O Trapalhão Na Ilha Do Tesouro
+http://pfsv.io:80/movie/51162306/imagination.me/36026.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/gax" group-title="Filmes | Comedia",O Trapalhão Nas Minas Do Rei Salomão
+http://pfsv.io:80/movie/51162306/imagination.me/36027.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/gay" group-title="Filmes | Comedia",O Trapalhão No Planalto Dos Macacos
+http://pfsv.io:80/movie/51162306/imagination.me/36028.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/c9" group-title="Filmes | Comedia",O Vendedor De Linguiça
+http://pfsv.io:80/movie/51162306/imagination.me/1296.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/dS" group-title="Filmes | Comedia",O Verão Da Minha Vida
+http://pfsv.io:80/movie/51162306/imagination.me/1366.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bts" group-title="Filmes | Comedia",O Virgem De 40 Anos
+http://pfsv.io:80/movie/51162306/imagination.me/84275.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/q" group-title="Filmes | Comedia",O Último Desejo
+http://pfsv.io:80/movie/51162306/imagination.me/1090.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/cd" group-title="Filmes | Comedia",O Último Hotel
+http://pfsv.io:80/movie/51162306/imagination.me/1233.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/2E" group-title="Filmes | Comedia",O Último Turno
+http://pfsv.io:80/movie/51162306/imagination.me/58356.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/f56" group-title="Filmes | Comedia",Oh, Ramona!
+http://pfsv.io:80/movie/51162306/imagination.me/34190.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bF" group-title="Filmes | Comedia",Oitava Série
+http://pfsv.io:80/movie/51162306/imagination.me/1185.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/dF" group-title="Filmes | Comedia",Oito Mulheres E Um Segredo
+http://pfsv.io:80/movie/51162306/imagination.me/1423.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/WG" group-title="Filmes | Comedia",On The Rocks
+http://pfsv.io:80/movie/51162306/imagination.me/55366.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Er" group-title="Filmes | Comedia",Onde Está A Vovó?
+http://pfsv.io:80/movie/51162306/imagination.me/4093.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/ed" group-title="Filmes | Comedia",Operação Cupido
+http://pfsv.io:80/movie/51162306/imagination.me/1583.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/us" group-title="Filmes | Comedia",Operação Supletivo: Agora Vai!
+http://pfsv.io:80/movie/51162306/imagination.me/4201.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/hNF" group-title="Filmes | Comedia",Os Amantes
+http://pfsv.io:80/movie/51162306/imagination.me/50751.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/f57" group-title="Filmes | Comedia",Os Batutinhas: Uma Nova Aventura
+http://pfsv.io:80/movie/51162306/imagination.me/34191.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/fm" group-title="Filmes | Comedia",Os Caubóis Do Apocalipse
+http://pfsv.io:80/movie/51162306/imagination.me/1490.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/d5" group-title="Filmes | Comedia",Os Delírios De Consumo De Becky Bloom
+http://pfsv.io:80/movie/51162306/imagination.me/1543.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/d5" group-title="Filmes | Comedia",Os Delírios De Consumo De Becky Bloom
+http://pfsv.io:80/movie/51162306/imagination.me/67425.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/dT" group-title="Filmes | Comedia",Os Deuses Devem Estar Loucos
+http://pfsv.io:80/movie/51162306/imagination.me/1491.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/P" group-title="Filmes | Comedia",Os Deuses Devem Estar Loucos 2
+http://pfsv.io:80/movie/51162306/imagination.me/1258.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/cu" group-title="Filmes | Comedia",Os Deuses Devem Estar Loucos 3
+http://pfsv.io:80/movie/51162306/imagination.me/1121.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/UV" group-title="Filmes | Comedia",Os Espetaculares
+http://pfsv.io:80/movie/51162306/imagination.me/50902.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/ep" group-title="Filmes | Comedia",Os Estagiários
+http://pfsv.io:80/movie/51162306/imagination.me/1412.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Rf" group-title="Filmes | Comedia",Os Estragos De Sábado à Noite
+http://pfsv.io:80/movie/51162306/imagination.me/36011.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/gaj" group-title="Filmes | Comedia",Os Fantasmas Trapalhões
+http://pfsv.io:80/movie/51162306/imagination.me/36012.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/cF" group-title="Filmes | Comedia",Os Garotos Da Minha Vida
+http://pfsv.io:80/movie/51162306/imagination.me/1267.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bl" group-title="Filmes | Comedia",Os Goonies
+http://pfsv.io:80/movie/51162306/imagination.me/1157.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Rg" group-title="Filmes | Comedia",Os Heróis Trapalhões - Uma Aventura Na Selva
+http://pfsv.io:80/movie/51162306/imagination.me/36013.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/6F" group-title="Filmes | Comedia",Os Homens Preferem As Loiras
+http://pfsv.io:80/movie/51162306/imagination.me/60053.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/gh" group-title="Filmes | Comedia",Os Homens São De Marte    E É Pra Lá Que Eu Vou
+http://pfsv.io:80/movie/51162306/imagination.me/1568.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/r5" group-title="Filmes | Comedia",Os Mortos Não Morrem
+http://pfsv.io:80/movie/51162306/imagination.me/4121.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/9W" group-title="Filmes | Comedia",Os Muppets
+http://pfsv.io:80/movie/51162306/imagination.me/61963.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bxA" group-title="Filmes | Comedia",Os Paqueras
+http://pfsv.io:80/movie/51162306/imagination.me/91226.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/6" group-title="Filmes | Comedia",Os Parças
+http://pfsv.io:80/movie/51162306/imagination.me/1140.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/HR" group-title="Filmes | Comedia",Os Parças 2
+http://pfsv.io:80/movie/51162306/imagination.me/30080.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/cT" group-title="Filmes | Comedia",Os Pinguins Do Papai
+http://pfsv.io:80/movie/51162306/imagination.me/1223.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bxB" group-title="Filmes | Comedia",Os Reis Da Praia
+http://pfsv.io:80/movie/51162306/imagination.me/91227.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/gak" group-title="Filmes | Comedia",Os Trapalhões E A Árvore Da Juventude
+http://pfsv.io:80/movie/51162306/imagination.me/36014.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/gal" group-title="Filmes | Comedia",Os Trapalhões E O Mágico De Oróz
+http://pfsv.io:80/movie/51162306/imagination.me/36015.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/gam" group-title="Filmes | Comedia",Os Trapalhões E O Rei Do Futebol
+http://pfsv.io:80/movie/51162306/imagination.me/36016.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/f9U" group-title="Filmes | Comedia",Os Trapalhões Na Guerra Dos Planetas
+http://pfsv.io:80/movie/51162306/imagination.me/35987.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/gan" group-title="Filmes | Comedia",Os Trapalhões Na Serra Pelada
+http://pfsv.io:80/movie/51162306/imagination.me/36017.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/gao" group-title="Filmes | Comedia",Os Trapalhões Na Terra Dos Monstros
+http://pfsv.io:80/movie/51162306/imagination.me/36018.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/gap" group-title="Filmes | Comedia",Os Trapalhões No Auto Da Compadecida
+http://pfsv.io:80/movie/51162306/imagination.me/36019.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/gaq" group-title="Filmes | Comedia",Os Trapalhões No Rabo Do Cometa
+http://pfsv.io:80/movie/51162306/imagination.me/36020.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/gar" group-title="Filmes | Comedia",Os Trapalhões No Reino Da Fantasia
+http://pfsv.io:80/movie/51162306/imagination.me/36021.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/gas" group-title="Filmes | Comedia",Os Três Mosqueteiros Trapalhões
+http://pfsv.io:80/movie/51162306/imagination.me/36022.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/gat" group-title="Filmes | Comedia",Os Vagabundos Trapalhões
+http://pfsv.io:80/movie/51162306/imagination.me/36023.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/b3" group-title="Filmes | Comedia",Oscar - Minha Filha Quer Casar
+http://pfsv.io:80/movie/51162306/imagination.me/1214.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/E" group-title="Filmes | Comedia",Outro Conto Da Nova Cinderela
+http://pfsv.io:80/movie/51162306/imagination.me/1106.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bwm" group-title="Filmes | Comedia",Padrinhos Ltda 
+http://pfsv.io:80/movie/51162306/imagination.me/90857.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/5l" group-title="Filmes | Comedia",Pai Em Dobro
+http://pfsv.io:80/movie/51162306/imagination.me/59568.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bnY" group-title="Filmes | Comedia",Pai Em Dose Dupla
+http://pfsv.io:80/movie/51162306/imagination.me/69049.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bnZ" group-title="Filmes | Comedia",Pai Em Dose Dupla 2
+http://pfsv.io:80/movie/51162306/imagination.me/69050.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/H1" group-title="Filmes | Comedia",Pais Muito Loucos
+http://pfsv.io:80/movie/51162306/imagination.me/30085.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/MR" group-title="Filmes | Comedia",Palm Beach
+http://pfsv.io:80/movie/51162306/imagination.me/34050.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bdU" group-title="Filmes | Comedia",Palooza: Pura Curtição
+http://pfsv.io:80/movie/51162306/imagination.me/63317.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/d1" group-title="Filmes | Comedia",Papai Noel às Avessas 2
+http://pfsv.io:80/movie/51162306/imagination.me/1378.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/byv" group-title="Filmes | Comedia",Para Maiores
+http://pfsv.io:80/movie/51162306/imagination.me/92006.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/da" group-title="Filmes | Comedia",Para O Que Der E Vier
+http://pfsv.io:80/movie/51162306/imagination.me/1298.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/fa" group-title="Filmes | Comedia",Para Todos Os Garotos Que Já Amei
+http://pfsv.io:80/movie/51162306/imagination.me/1474.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/H3" group-title="Filmes | Comedia",Parasita
+http://pfsv.io:80/movie/51162306/imagination.me/30086.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/f58" group-title="Filmes | Comedia",Paris, Te Amo
+http://pfsv.io:80/movie/51162306/imagination.me/34192.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/f59" group-title="Filmes | Comedia",Patch Adams - O Amor É Contagioso
+http://pfsv.io:80/movie/51162306/imagination.me/34193.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/uM" group-title="Filmes | Comedia",Patrick: Aprendendo A Amar
+http://pfsv.io:80/movie/51162306/imagination.me/4211.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/f6a" group-title="Filmes | Comedia",Paul: O Alien Fugitivo
+http://pfsv.io:80/movie/51162306/imagination.me/34194.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/f6b" group-title="Filmes | Comedia",Peggy Sue, Seu Passado A Espera
+http://pfsv.io:80/movie/51162306/imagination.me/34195.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/fs" group-title="Filmes | Comedia",Penetras Bons De Bico
+http://pfsv.io:80/movie/51162306/imagination.me/1499.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/L4" group-title="Filmes | Comedia",Pense Como Um Cão
+http://pfsv.io:80/movie/51162306/imagination.me/33440.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/2K" group-title="Filmes | Comedia",Pequena Grande Vida
+http://pfsv.io:80/movie/51162306/imagination.me/58360.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/co" group-title="Filmes | Comedia",Pequenos Guerreiros
+http://pfsv.io:80/movie/51162306/imagination.me/1245.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/87" group-title="Filmes | Comedia",Pequenos Invasores
+http://pfsv.io:80/movie/51162306/imagination.me/61182.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/ea" group-title="Filmes | Comedia",Pequenos Milagres
+http://pfsv.io:80/movie/51162306/imagination.me/1394.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/gl" group-title="Filmes | Comedia",Perfeita é A Mãe 2
+http://pfsv.io:80/movie/51162306/imagination.me/1573.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/dU" group-title="Filmes | Comedia",Perfeita é A Mãe!
+http://pfsv.io:80/movie/51162306/imagination.me/1493.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/dJ" group-title="Filmes | Comedia",Permissão
+http://pfsv.io:80/movie/51162306/imagination.me/1353.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/f6c" group-title="Filmes | Comedia",Plano Quase Perfeito
+http://pfsv.io:80/movie/51162306/imagination.me/34196.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/e7" group-title="Filmes | Comedia",Podres De Ricos
+http://pfsv.io:80/movie/51162306/imagination.me/1470.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/dg" group-title="Filmes | Comedia",Policial Em Apuros
+http://pfsv.io:80/movie/51162306/imagination.me/1312.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/dI" group-title="Filmes | Comedia",Policial Em Apuros 2
+http://pfsv.io:80/movie/51162306/imagination.me/1433.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/fG" group-title="Filmes | Comedia",Ponto Cego
+http://pfsv.io:80/movie/51162306/imagination.me/1519.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bpm" group-title="Filmes | Comedia",Por Que Eu Me Casei Também?
+http://pfsv.io:80/movie/51162306/imagination.me/69602.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/X" group-title="Filmes | Comedia",Por Que Eu, Senhor?
+http://pfsv.io:80/movie/51162306/imagination.me/1130.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/UZ" group-title="Filmes | Comedia",Por Uma Vida Melhor
+http://pfsv.io:80/movie/51162306/imagination.me/50904.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/cl" group-title="Filmes | Comedia",Portugal    Minha Saudade
+http://pfsv.io:80/movie/51162306/imagination.me/1072.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/wo" group-title="Filmes | Comedia",Praça Pública
+http://pfsv.io:80/movie/51162306/imagination.me/4274.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Im" group-title="Filmes | Comedia",Preso Em Casa
+http://pfsv.io:80/movie/51162306/imagination.me/30096.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bxG" group-title="Filmes | Comedia",Primavera Na Pele
+http://pfsv.io:80/movie/51162306/imagination.me/91232.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Et" group-title="Filmes | Comedia",Primeiro Ano
+http://pfsv.io:80/movie/51162306/imagination.me/4096.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Wf" group-title="Filmes | Comedia",Primos
+http://pfsv.io:80/movie/51162306/imagination.me/53315.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/cx" group-title="Filmes | Comedia",Professor Aloprado
+http://pfsv.io:80/movie/51162306/imagination.me/1133.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/cx" group-title="Filmes | Comedia",Professor Aloprado
+http://pfsv.io:80/movie/51162306/imagination.me/73372.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/br8" group-title="Filmes | Comedia",Professor Aloprado 2 - A Famíla Klump
+http://pfsv.io:80/movie/51162306/imagination.me/73373.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/G" group-title="Filmes | Comedia",Professor Peso Pesado
+http://pfsv.io:80/movie/51162306/imagination.me/1108.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/7S" group-title="Filmes | Comedia",Professor Tom
+http://pfsv.io:80/movie/51162306/imagination.me/60868.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/dE" group-title="Filmes | Comedia",Projeto X: Uma Festa Fora De Controle
+http://pfsv.io:80/movie/51162306/imagination.me/1348.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bd4" group-title="Filmes | Comedia",Psych 2: Lassie Está De Volta
+http://pfsv.io:80/movie/51162306/imagination.me/63330.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/ft" group-title="Filmes | Comedia",Pulando A Vassoura
+http://pfsv.io:80/movie/51162306/imagination.me/1500.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/dm" group-title="Filmes | Comedia",Puro-Sangue
+http://pfsv.io:80/movie/51162306/imagination.me/1321.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/dW" group-title="Filmes | Comedia",Pérola No Paraíso
+http://pfsv.io:80/movie/51162306/imagination.me/1370.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bo" group-title="Filmes | Comedia",Quando Anjos Cantam
+http://pfsv.io:80/movie/51162306/imagination.me/1161.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/f2" group-title="Filmes | Comedia",Quando Em Roma
+http://pfsv.io:80/movie/51162306/imagination.me/1549.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/f7" group-title="Filmes | Comedia",Quando Nos Conhecemos
+http://pfsv.io:80/movie/51162306/imagination.me/1556.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Yl" group-title="Filmes | Comedia",Quando Você Chegou
+http://pfsv.io:80/movie/51162306/imagination.me/56206.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Is" group-title="Filmes | Comedia",Quando Você Menos Espera
+http://pfsv.io:80/movie/51162306/imagination.me/30099.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/cT" group-title="Filmes | Comedia",Quarteto Amigo
+http://pfsv.io:80/movie/51162306/imagination.me/1285.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/O" group-title="Filmes | Comedia",Quase 18
+http://pfsv.io:80/movie/51162306/imagination.me/1120.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/J" group-title="Filmes | Comedia",Quatro Vidas De Um Cachorro
+http://pfsv.io:80/movie/51162306/imagination.me/1111.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Uk" group-title="Filmes | Comedia",Que Família é Essa?
+http://pfsv.io:80/movie/51162306/imagination.me/49171.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/xf" group-title="Filmes | Comedia",Que Léon
+http://pfsv.io:80/movie/51162306/imagination.me/4307.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bT" group-title="Filmes | Comedia",Queimando Tudo
+http://pfsv.io:80/movie/51162306/imagination.me/1204.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bfS" group-title="Filmes | Comedia",Queime Depois De Ler
+http://pfsv.io:80/movie/51162306/imagination.me/63485.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/f6d" group-title="Filmes | Comedia",Quem Encontra Um Amigo Encontra Um Tesouro
+http://pfsv.io:80/movie/51162306/imagination.me/34197.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/cA" group-title="Filmes | Comedia",Quem Você Levaria Para Uma Ilha Deserta?
+http://pfsv.io:80/movie/51162306/imagination.me/1261.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/baG" group-title="Filmes | Comedia",Quem é Morto Sempre Aparece
+http://pfsv.io:80/movie/51162306/imagination.me/62364.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Ry" group-title="Filmes | Comedia",Queremos Matar Gunther
+http://pfsv.io:80/movie/51162306/imagination.me/36062.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/brS" group-title="Filmes | Comedia",Querida! Encolhi As Crianças
+http://pfsv.io:80/movie/51162306/imagination.me/72808.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bj7" group-title="Filmes | Comedia",Quero Ser John Malkovich
+http://pfsv.io:80/movie/51162306/imagination.me/66704.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Iz" group-title="Filmes | Comedia",Quero-te Tanto! [PT]
+http://pfsv.io:80/movie/51162306/imagination.me/30103.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/du" group-title="Filmes | Comedia",Questão De Tempo
+http://pfsv.io:80/movie/51162306/imagination.me/1334.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/6G" group-title="Filmes | Comedia",Questão De Tempo
+http://pfsv.io:80/movie/51162306/imagination.me/60054.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bqn" group-title="Filmes | Comedia",Rebelde Com Causa
+http://pfsv.io:80/movie/51162306/imagination.me/69670.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/5S" group-title="Filmes | Comedia",Receita Secreta
+http://pfsv.io:80/movie/51162306/imagination.me/59994.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Px" group-title="Filmes | Comedia",Recém-Casados
+http://pfsv.io:80/movie/51162306/imagination.me/34198.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bg3" group-title="Filmes | Comedia",Regras Da Atração
+http://pfsv.io:80/movie/51162306/imagination.me/63859.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/RD" group-title="Filmes | Comedia",Resgate Em Malibu: A Próxima Onda
+http://pfsv.io:80/movie/51162306/imagination.me/36076.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/uf" group-title="Filmes | Comedia",Reunião De Família - Natal Especial
+http://pfsv.io:80/movie/51162306/imagination.me/4194.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/9k" group-title="Filmes | Comedia",Ricki And The Flash: De Volta Pra Casa
+http://pfsv.io:80/movie/51162306/imagination.me/61915.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/IJ" group-title="Filmes | Comedia",Ricos De Amor
+http://pfsv.io:80/movie/51162306/imagination.me/30108.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/iR7" group-title="Filmes | Comedia",Riquinho
+http://pfsv.io:80/movie/51162306/imagination.me/53347.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/gaG" group-title="Filmes | Comedia",Robin Hood, O Trapalhão Da Floresta
+http://pfsv.io:80/movie/51162306/imagination.me/36037.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/f9e" group-title="Filmes | Comedia",RRRrrrr!!! - Na Idade Da Pedra
+http://pfsv.io:80/movie/51162306/imagination.me/35049.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bka" group-title="Filmes | Comedia",S O S  - Tem Um Louco Solto No Espaço
+http://pfsv.io:80/movie/51162306/imagination.me/66707.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/da" group-title="Filmes | Comedia",S O S  Amigos Para Sempre!
+http://pfsv.io:80/movie/51162306/imagination.me/1306.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/WW" group-title="Filmes | Comedia",S O S  Amigos Para Sempre!
+http://pfsv.io:80/movie/51162306/imagination.me/55868.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/eI" group-title="Filmes | Comedia",S O S : Mulheres Ao Mar
+http://pfsv.io:80/movie/51162306/imagination.me/1437.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/gn" group-title="Filmes | Comedia",S O S : Mulheres Ao Mar 2
+http://pfsv.io:80/movie/51162306/imagination.me/1575.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/cN" group-title="Filmes | Comedia",Se Beber, Não Case!
+http://pfsv.io:80/movie/51162306/imagination.me/1197.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/dW" group-title="Filmes | Comedia",Se Beber, Não Case! Parte II
+http://pfsv.io:80/movie/51162306/imagination.me/1508.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/dR" group-title="Filmes | Comedia",Se Beber, Não Case! Parte III
+http://pfsv.io:80/movie/51162306/imagination.me/1484.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/hOn" group-title="Filmes | Comedia",Se Eu Fosse Um Homem
+http://pfsv.io:80/movie/51162306/imagination.me/51583.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/90" group-title="Filmes | Comedia",Se Não Me Mato, Morro!
+http://pfsv.io:80/movie/51162306/imagination.me/61967.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bjj" group-title="Filmes | Comedia",Segredos De Uma Novela
+http://pfsv.io:80/movie/51162306/imagination.me/66642.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/de" group-title="Filmes | Comedia",Segurando As Pontas
+http://pfsv.io:80/movie/51162306/imagination.me/1310.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/1" group-title="Filmes | Comedia",Segurança De Shopping
+http://pfsv.io:80/movie/51162306/imagination.me/1134.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bj" group-title="Filmes | Comedia",Segurança De Shopping 2
+http://pfsv.io:80/movie/51162306/imagination.me/1154.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/xm" group-title="Filmes | Comedia",Seis Vezes Confusão
+http://pfsv.io:80/movie/51162306/imagination.me/4311.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bxM" group-title="Filmes | Comedia",Sem Direito A Resgate
+http://pfsv.io:80/movie/51162306/imagination.me/91242.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/2" group-title="Filmes | Comedia",Sem Dor, Sem Ganho
+http://pfsv.io:80/movie/51162306/imagination.me/1135.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/z6" group-title="Filmes | Comedia",Sem Dormir Até O Natal
+http://pfsv.io:80/movie/51162306/imagination.me/4410.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bef" group-title="Filmes | Comedia",Sem Filhos
+http://pfsv.io:80/movie/51162306/imagination.me/63342.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bK" group-title="Filmes | Comedia",Sem Palavras
+http://pfsv.io:80/movie/51162306/imagination.me/1190.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bws" group-title="Filmes | Comedia",Sem Reservas
+http://pfsv.io:80/movie/51162306/imagination.me/90864.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/baK" group-title="Filmes | Comedia",Sem Segurança Nenhuma
+http://pfsv.io:80/movie/51162306/imagination.me/62368.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/blu" group-title="Filmes | Comedia",Sem Sentido
+http://pfsv.io:80/movie/51162306/imagination.me/67465.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/d9" group-title="Filmes | Comedia",Será Que?
+http://pfsv.io:80/movie/51162306/imagination.me/1393.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/cA" group-title="Filmes | Comedia",Sex And The City - O Filme
+http://pfsv.io:80/movie/51162306/imagination.me/1150.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bg" group-title="Filmes | Comedia",Sex And The City 2
+http://pfsv.io:80/movie/51162306/imagination.me/1216.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/fP" group-title="Filmes | Comedia",Sexo Sem Compromisso
+http://pfsv.io:80/movie/51162306/imagination.me/1530.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/es" group-title="Filmes | Comedia",Sexo, Música E Amor
+http://pfsv.io:80/movie/51162306/imagination.me/1417.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/dX" group-title="Filmes | Comedia",Sexta-feira Em Apuros
+http://pfsv.io:80/movie/51162306/imagination.me/1372.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/gbc" group-title="Filmes | Comedia",Sexta-feira Em Apuros
+http://pfsv.io:80/movie/51162306/imagination.me/36077.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/d6" group-title="Filmes | Comedia",Sexta-Feira Muito Louca
+http://pfsv.io:80/movie/51162306/imagination.me/1547.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/eA" group-title="Filmes | Comedia",Sexy Por Acidente
+http://pfsv.io:80/movie/51162306/imagination.me/1426.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/fI" group-title="Filmes | Comedia",Shazam!
+http://pfsv.io:80/movie/51162306/imagination.me/4139.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/ew" group-title="Filmes | Comedia",Show De Vizinha
+http://pfsv.io:80/movie/51162306/imagination.me/1421.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/6l" group-title="Filmes | Comedia",Showtime
+http://pfsv.io:80/movie/51162306/imagination.me/60028.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/ed" group-title="Filmes | Comedia",Sierra Burgess é Uma Loser
+http://pfsv.io:80/movie/51162306/imagination.me/1397.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/f9" group-title="Filmes | Comedia",Sim Senhor
+http://pfsv.io:80/movie/51162306/imagination.me/1559.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/gaL" group-title="Filmes | Comedia",Simbad, O Marujo Trapalhão
+http://pfsv.io:80/movie/51162306/imagination.me/36042.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/el" group-title="Filmes | Comedia",Simplesmente Acontece
+http://pfsv.io:80/movie/51162306/imagination.me/1406.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bix" group-title="Filmes | Comedia",Simplesmente Amor
+http://pfsv.io:80/movie/51162306/imagination.me/65300.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bhy" group-title="Filmes | Comedia",Simplesmente Complicado
+http://pfsv.io:80/movie/51162306/imagination.me/64502.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/gaK" group-title="Filmes | Comedia",Simão, O Fantasma Trapalhão
+http://pfsv.io:80/movie/51162306/imagination.me/36041.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/gr" group-title="Filmes | Comedia",Sintonia De Amor
+http://pfsv.io:80/movie/51162306/imagination.me/1581.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bei" group-title="Filmes | Comedia",Snatch: Porcos E Diamantes
+http://pfsv.io:80/movie/51162306/imagination.me/63346.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/c2" group-title="Filmes | Comedia",Sobrevivendo Ao Meu Pai
+http://pfsv.io:80/movie/51162306/imagination.me/1295.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/uK" group-title="Filmes | Comedia",Sobrevivendo às Festas Com Os Parentes
+http://pfsv.io:80/movie/51162306/imagination.me/4210.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/gEq" group-title="Filmes | Comedia",Sobrou Pra Você
+http://pfsv.io:80/movie/51162306/imagination.me/41908.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/sI" group-title="Filmes | Comedia",Socorro, Virei Uma Garota!
+http://pfsv.io:80/movie/51162306/imagination.me/4142.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/I7" group-title="Filmes | Comedia",Sofá Assassino
+http://pfsv.io:80/movie/51162306/imagination.me/30121.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bpn" group-title="Filmes | Comedia",Sombras Da Noite
+http://pfsv.io:80/movie/51162306/imagination.me/69603.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bek" group-title="Filmes | Comedia",Southland Tales: O Fim Do Mundo
+http://pfsv.io:80/movie/51162306/imagination.me/63349.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/f6e" group-title="Filmes | Comedia",Spot - Um Cão Da Pesada
+http://pfsv.io:80/movie/51162306/imagination.me/34199.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/uz" group-title="Filmes | Comedia",Stan & Ollie - O Gordo E O Magro
+http://pfsv.io:80/movie/51162306/imagination.me/4205.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/c6" group-title="Filmes | Comedia",Status Update: Perfil Dos Sonhos
+http://pfsv.io:80/movie/51162306/imagination.me/1302.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bbh" group-title="Filmes | Comedia",Super Nacho
+http://pfsv.io:80/movie/51162306/imagination.me/62830.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/92" group-title="Filmes | Comedia",Super-Herói: O Filme
+http://pfsv.io:80/movie/51162306/imagination.me/61969.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/U" group-title="Filmes | Comedia",Superbad: É Hoje
+http://pfsv.io:80/movie/51162306/imagination.me/1126.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bjo" group-title="Filmes | Comedia",Superlópez
+http://pfsv.io:80/movie/51162306/imagination.me/66648.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bp" group-title="Filmes | Comedia",Swiped: Arrasando Corações
+http://pfsv.io:80/movie/51162306/imagination.me/1163.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/I5" group-title="Filmes | Comedia",Sócias Em Guerra
+http://pfsv.io:80/movie/51162306/imagination.me/30120.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Jj" group-title="Filmes | Comedia",Tal Mãe, Tal Filha
+http://pfsv.io:80/movie/51162306/imagination.me/30127.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/fJ" group-title="Filmes | Comedia",Tal Pai, Tal Filha
+http://pfsv.io:80/movie/51162306/imagination.me/1522.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Jl" group-title="Filmes | Comedia",Talvez Uma História De Amor
+http://pfsv.io:80/movie/51162306/imagination.me/30128.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/dl" group-title="Filmes | Comedia",Te Pego Na Saída
+http://pfsv.io:80/movie/51162306/imagination.me/1320.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/ca" group-title="Filmes | Comedia",Te Peguei!
+http://pfsv.io:80/movie/51162306/imagination.me/1230.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Jp" group-title="Filmes | Comedia",Te Quiero, Imbécil
+http://pfsv.io:80/movie/51162306/imagination.me/30131.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/dL" group-title="Filmes | Comedia",Ted
+http://pfsv.io:80/movie/51162306/imagination.me/1357.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/9" group-title="Filmes | Comedia",Ted 2
+http://pfsv.io:80/movie/51162306/imagination.me/1143.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/9a" group-title="Filmes | Comedia",Teen Beach 2
+http://pfsv.io:80/movie/51162306/imagination.me/61186.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/9b" group-title="Filmes | Comedia",Teen Beach Movie
+http://pfsv.io:80/movie/51162306/imagination.me/61187.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/d7" group-title="Filmes | Comedia",Tem Alienígenas No Meu Quarto
+http://pfsv.io:80/movie/51162306/imagination.me/1389.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/fd" group-title="Filmes | Comedia",Tenacious D: Uma Dupla Infernal
+http://pfsv.io:80/movie/51162306/imagination.me/1478.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/1a" group-title="Filmes | Comedia",Teocracia Em Vertigem
+http://pfsv.io:80/movie/51162306/imagination.me/58001.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/eR" group-title="Filmes | Comedia",Terapia De Casais Para Amantes
+http://pfsv.io:80/movie/51162306/imagination.me/1449.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/dz" group-title="Filmes | Comedia",Terapia Do Sexo
+http://pfsv.io:80/movie/51162306/imagination.me/1388.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/b9" group-title="Filmes | Comedia",Terror Nos Bastidores
+http://pfsv.io:80/movie/51162306/imagination.me/1228.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/dj" group-title="Filmes | Comedia",The After Party
+http://pfsv.io:80/movie/51162306/imagination.me/1317.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/As" group-title="Filmes | Comedia",The Beach Bum - Levando A Vida Numa Boa
+http://pfsv.io:80/movie/51162306/imagination.me/30133.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/blw" group-title="Filmes | Comedia",The Cheetah Girls: Um Mundo
+http://pfsv.io:80/movie/51162306/imagination.me/67467.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Qe" group-title="Filmes | Comedia",The F**k-It List
+http://pfsv.io:80/movie/51162306/imagination.me/34315.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/V0" group-title="Filmes | Comedia",The Forty-Year-Old Version
+http://pfsv.io:80/movie/51162306/imagination.me/53255.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/baO" group-title="Filmes | Comedia",The Professor
+http://pfsv.io:80/movie/51162306/imagination.me/62374.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/MY" group-title="Filmes | Comedia",Thiago Ventura: POKAS
+http://pfsv.io:80/movie/51162306/imagination.me/34054.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/B6" group-title="Filmes | Comedia",Timmy Fiasco
+http://pfsv.io:80/movie/51162306/imagination.me/29889.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/fR" group-title="Filmes | Comedia",Tinha Que Ser Ele?
+http://pfsv.io:80/movie/51162306/imagination.me/1532.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/p" group-title="Filmes | Comedia",Tio Drew
+http://pfsv.io:80/movie/51162306/imagination.me/1089.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Tf" group-title="Filmes | Comedia",Tirando A Maior Onda: O Filme
+http://pfsv.io:80/movie/51162306/imagination.me/47396.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/ck" group-title="Filmes | Comedia",Toc Toc
+http://pfsv.io:80/movie/51162306/imagination.me/1070.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/JE" group-title="Filmes | Comedia",Todo Carnaval Tem Seu Fim
+http://pfsv.io:80/movie/51162306/imagination.me/30138.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/cw" group-title="Filmes | Comedia",Todo Mundo Em Pânico
+http://pfsv.io:80/movie/51162306/imagination.me/1129.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/d6" group-title="Filmes | Comedia",Todo Mundo Em Pânico 2
+http://pfsv.io:80/movie/51162306/imagination.me/1386.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/cQ" group-title="Filmes | Comedia",Todo Mundo Em Pânico 3
+http://pfsv.io:80/movie/51162306/imagination.me/1217.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/dt" group-title="Filmes | Comedia",Todo Mundo Em Pânico 4
+http://pfsv.io:80/movie/51162306/imagination.me/1376.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/dx" group-title="Filmes | Comedia",Todo Mundo Em Pânico 5
+http://pfsv.io:80/movie/51162306/imagination.me/1338.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bhA" group-title="Filmes | Comedia",Todo Poderoso
+http://pfsv.io:80/movie/51162306/imagination.me/64505.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bjp" group-title="Filmes | Comedia",Top Gang 2! - A Missão
+http://pfsv.io:80/movie/51162306/imagination.me/66649.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/dc" group-title="Filmes | Comedia",Top Gang! - Ases Muito Loucos
+http://pfsv.io:80/movie/51162306/imagination.me/1308.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bjq" group-title="Filmes | Comedia",Top Gang!: Ases Muito Loucos
+http://pfsv.io:80/movie/51162306/imagination.me/66650.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/gi" group-title="Filmes | Comedia",Tratamento De Choque
+http://pfsv.io:80/movie/51162306/imagination.me/1569.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bpP" group-title="Filmes | Comedia",Tratamento De Choque
+http://pfsv.io:80/movie/51162306/imagination.me/69631.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/s" group-title="Filmes | Comedia",Treinando O Papai
+http://pfsv.io:80/movie/51162306/imagination.me/1092.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/fk" group-title="Filmes | Comedia",Trinity é O Meu Nome
+http://pfsv.io:80/movie/51162306/imagination.me/1488.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/cL" group-title="Filmes | Comedia",Tristeza Do Jeca
+http://pfsv.io:80/movie/51162306/imagination.me/1193.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/JO" group-title="Filmes | Comedia",Troco Em Dobro
+http://pfsv.io:80/movie/51162306/imagination.me/30143.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/JP" group-title="Filmes | Comedia",Tropa Zero
+http://pfsv.io:80/movie/51162306/imagination.me/30144.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/i5z" group-title="Filmes | Comedia",Três Amigos!
+http://pfsv.io:80/movie/51162306/imagination.me/57603.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/ei" group-title="Filmes | Comedia",Três Solteirões E Um Bebê
+http://pfsv.io:80/movie/51162306/imagination.me/1402.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/br" group-title="Filmes | Comedia",Três Solteirões E Uma Pequena Dama
+http://pfsv.io:80/movie/51162306/imagination.me/1165.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/ZE" group-title="Filmes | Comedia",Tudo Bem No Natal Que Vem
+http://pfsv.io:80/movie/51162306/imagination.me/57604.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/d4" group-title="Filmes | Comedia",Tudo Para Ficar Com Ela
+http://pfsv.io:80/movie/51162306/imagination.me/1384.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/dO" group-title="Filmes | Comedia",Tully
+http://pfsv.io:80/movie/51162306/imagination.me/1361.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/uo" group-title="Filmes | Comedia",Turma Da Mônica: Laços
+http://pfsv.io:80/movie/51162306/imagination.me/4199.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/cM" group-title="Filmes | Comedia",Tá Rindo Do Quê?
+http://pfsv.io:80/movie/51162306/imagination.me/1196.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bpo" group-title="Filmes | Comedia",Tá Todo Mundo Louco! - Uma Corrida De Milhõe$
+http://pfsv.io:80/movie/51162306/imagination.me/69604.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/dn" group-title="Filmes | Comedia",Tô Ryca!
+http://pfsv.io:80/movie/51162306/imagination.me/1345.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/J5" group-title="Filmes | Comedia",Um Amor De Mãe
+http://pfsv.io:80/movie/51162306/imagination.me/30152.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/J2" group-title="Filmes | Comedia",Um Amor, Mil Casamentos
+http://pfsv.io:80/movie/51162306/imagination.me/30150.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/fY" group-title="Filmes | Comedia",Um Bom Ano
+http://pfsv.io:80/movie/51162306/imagination.me/1544.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/2w" group-title="Filmes | Comedia",Um Brinde Ao Natal
+http://pfsv.io:80/movie/51162306/imagination.me/58351.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bmy" group-title="Filmes | Comedia",Um Cadáver Para Sobreviver
+http://pfsv.io:80/movie/51162306/imagination.me/68948.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/c8" group-title="Filmes | Comedia",Um Caipira Em Bariloche
+http://pfsv.io:80/movie/51162306/imagination.me/1290.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/0x" group-title="Filmes | Comedia",Um Casamento A Mais
+http://pfsv.io:80/movie/51162306/imagination.me/57723.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/fW" group-title="Filmes | Comedia",Um Conto Indiano
+http://pfsv.io:80/movie/51162306/imagination.me/1540.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Ke" group-title="Filmes | Comedia",Um Crime Para Dois
+http://pfsv.io:80/movie/51162306/imagination.me/69803.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Yx" group-title="Filmes | Comedia",Um Detetive Em Chinatown
+http://pfsv.io:80/movie/51162306/imagination.me/56214.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/eE" group-title="Filmes | Comedia",Um Dia A Casa Cai
+http://pfsv.io:80/movie/51162306/imagination.me/1431.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Zj" group-title="Filmes | Comedia",Um Dia De Chuva Em Nova York
+http://pfsv.io:80/movie/51162306/imagination.me/57582.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Zj" group-title="Filmes | Comedia",Um Dia De Chuva Em Nova York
+http://pfsv.io:80/movie/51162306/imagination.me/58352.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bxX" group-title="Filmes | Comedia",Um Final De Semana Em Hyde Park
+http://pfsv.io:80/movie/51162306/imagination.me/91257.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/96" group-title="Filmes | Comedia",Um Geek Encantador
+http://pfsv.io:80/movie/51162306/imagination.me/61973.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bjt" group-title="Filmes | Comedia",Um Herói De Brinquedo
+http://pfsv.io:80/movie/51162306/imagination.me/66654.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/K" group-title="Filmes | Comedia",Um Herói De Brinquedo 2
+http://pfsv.io:80/movie/51162306/imagination.me/1113.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bmS" group-title="Filmes | Comedia",Um Homem De Família
+http://pfsv.io:80/movie/51162306/imagination.me/68973.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/ya" group-title="Filmes | Comedia",Um Ladrão Com Estilo
+http://pfsv.io:80/movie/51162306/imagination.me/4339.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/ex" group-title="Filmes | Comedia",Um Lobisomem Americano Em Londres
+http://pfsv.io:80/movie/51162306/imagination.me/1422.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bab" group-title="Filmes | Comedia",Um Maluco No Exército
+http://pfsv.io:80/movie/51162306/imagination.me/62331.mp4
 #EXTINF:-1 tvg-logo="http://p6.vc/A7" group-title="Filmes | Acao",Os Outros Caras
 http://pfsv.io:80/movie/51162306/imagination.me/3782.mp4
 #EXTINF:-1 tvg-logo="http://p6.vc/BD" group-title="Filmes | Acao",Os Perdedores
