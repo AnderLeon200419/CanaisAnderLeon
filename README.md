@@ -1,4 +1,624 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="http://p6.vc/eNr" group-title="Filmes | 4K",Mortal Kombat Legends: Batalha Dos Reinos 4K
+http://pfsv.io:80/movie/51162306/imagination.me/92971.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6IxMW3939dOCjzenwzkWEjgICVq.jpg" group-title="Filmes | 4K",G I  Joe Origens: Snake Eyes 4K
+http://pfsv.io:80/movie/51162306/imagination.me/94552.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wrHr8eEJYDAA7WYybyH162s4oZ4.jpg" group-title="Filmes | 4K",O Rei Leão 4K
+http://pfsv.io:80/movie/51162306/imagination.me/94615.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wrHr8eEJYDAA7WYybyH162s4oZ4.jpg" group-title="Filmes | 4K",O Rei Leão 4K [HDR]
+http://pfsv.io:80/movie/51162306/imagination.me/94616.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/io4qQplxQPBb6FbG8H0R9Mlleh9.jpg" group-title="Filmes | 4K",Projeto Gemini 4K
+http://pfsv.io:80/movie/51162306/imagination.me/94620.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/io4qQplxQPBb6FbG8H0R9Mlleh9.jpg" group-title="Filmes | 4K",Projeto Gemini 4K [HDR]
+http://pfsv.io:80/movie/51162306/imagination.me/94621.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uLlrDUtFG2tKtDcJN6kBznlqqsp.jpg" group-title="Filmes | 4K",Star Wars: A Ascensão Skywalker 4K [HDR]
+http://pfsv.io:80/movie/51162306/imagination.me/94627.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n3lDb4EoeCUf1eRHH54GtTDVyQo.jpg" group-title="Filmes | 4K",Ford Vs Ferrari
+http://pfsv.io:80/movie/51162306/imagination.me/95021.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n3lDb4EoeCUf1eRHH54GtTDVyQo.jpg" group-title="Filmes | 4K",Ford Vs Ferrari
+http://pfsv.io:80/movie/51162306/imagination.me/95022.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ef2ozkE4AiWwRnyfc9s05sEtAIT.jpg" group-title="Filmes | 4K",Infiltrado 4K
+http://pfsv.io:80/movie/51162306/imagination.me/95098.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dpz5hyD5YhNMgqnVSvdtMuWmxr4.jpg" group-title="Filmes | 4K",A Mansão 4K [HDR]
+http://pfsv.io:80/movie/51162306/imagination.me/96888.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bdf" group-title="Filmes | Acao",+Velozes +Furiosos
+http://pfsv.io:80/movie/51162306/imagination.me/63264.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7b3qmLlvm2lvJ2gxsKQ42S3RTKR.jpg" group-title="Filmes | Acao",007: Cassino Royale
+http://pfsv.io:80/movie/51162306/imagination.me/3753.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/76" group-title="Filmes | Acao",007 - O Amanhã Nunca Morre
+http://pfsv.io:80/movie/51162306/imagination.me/61109.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/78" group-title="Filmes | Acao",007 - O Mundo Não é O Bastante
+http://pfsv.io:80/movie/51162306/imagination.me/61111.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/8b" group-title="Filmes | Acao",007 - Permissão Para Matar
+http://pfsv.io:80/movie/51162306/imagination.me/61114.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/8e" group-title="Filmes | Acao",007 -  Um Novo Dia Para Morrer
+http://pfsv.io:80/movie/51162306/imagination.me/61117.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/7W" group-title="Filmes | Acao",007 Contra A Chantagem Atômica
+http://pfsv.io:80/movie/51162306/imagination.me/61099.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/7X" group-title="Filmes | Acao",007 Contra GoldenEye
+http://pfsv.io:80/movie/51162306/imagination.me/61100.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/7Y" group-title="Filmes | Acao",007 Contra Goldfinger
+http://pfsv.io:80/movie/51162306/imagination.me/61101.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/70" group-title="Filmes | Acao",007 Contra O Foguete Da Morte
+http://pfsv.io:80/movie/51162306/imagination.me/61103.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/71" group-title="Filmes | Acao",007 Contra O Homem Com A Pistola De Ouro
+http://pfsv.io:80/movie/51162306/imagination.me/61104.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/7Z" group-title="Filmes | Acao",007 Contra Octopussy
+http://pfsv.io:80/movie/51162306/imagination.me/61102.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/7U" group-title="Filmes | Acao",007: A Serviço Secreto De Sua Majestade
+http://pfsv.io:80/movie/51162306/imagination.me/61097.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/7V" group-title="Filmes | Acao",007: Cassino Royale
+http://pfsv.io:80/movie/51162306/imagination.me/61098.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/72" group-title="Filmes | Acao",007: Contra O Satânico Dr  No
+http://pfsv.io:80/movie/51162306/imagination.me/61105.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/15/10/15/15/10/126391.jpg" group-title="Filmes | Acao",007: Contra Spectre
+http://pfsv.io:80/movie/51162306/imagination.me/3616.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/15/10/15/15/10/126391.jpg" group-title="Filmes | Acao",007: Contra Spectre
+http://pfsv.io:80/movie/51162306/imagination.me/61106.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/74" group-title="Filmes | Acao",007: Marcado Para A Morte
+http://pfsv.io:80/movie/51162306/imagination.me/61107.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/75" group-title="Filmes | Acao",007: Na Mira Dos Assassinos
+http://pfsv.io:80/movie/51162306/imagination.me/61108.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/77" group-title="Filmes | Acao",007: O Espião Que Me Amava
+http://pfsv.io:80/movie/51162306/imagination.me/61110.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/BJ" group-title="Filmes | Acao",007: Operação Skyfall
+http://pfsv.io:80/movie/51162306/imagination.me/3834.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/79" group-title="Filmes | Acao",007: Operação Skyfall
+http://pfsv.io:80/movie/51162306/imagination.me/61112.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/8a" group-title="Filmes | Acao",007: Os Diamantes São Eternos
+http://pfsv.io:80/movie/51162306/imagination.me/61113.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/medias/nmedia/18/86/94/32/19870362.jpg" group-title="Filmes | Acao",007: Quantum Of Solace
+http://pfsv.io:80/movie/51162306/imagination.me/3945.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/medias/nmedia/18/86/94/32/19870362.jpg" group-title="Filmes | Acao",007: Quantum Of Solace
+http://pfsv.io:80/movie/51162306/imagination.me/61115.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/8d" group-title="Filmes | Acao",007: Somente Para Seus Olhos
+http://pfsv.io:80/movie/51162306/imagination.me/61116.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rauTKnFle1sp4aXjtYgx4tCWNiK.jpg" group-title="Filmes | Acao",Duro De Matar
+http://pfsv.io:80/movie/51162306/imagination.me/3800.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/medias/nmedia/18/90/59/02/20103674.jpg" group-title="Filmes | Acao",1 - Máquina Mortífera
+http://pfsv.io:80/movie/51162306/imagination.me/3796.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rzYL3JELRAmy9QqklHPYdEQoGAM.jpg" group-title="Filmes | Acao",12 Rounds
+http://pfsv.io:80/movie/51162306/imagination.me/3923.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/medias/nmedia/18/90/32/40/20164937.jpg" group-title="Filmes | Acao",13 Assassinos
+http://pfsv.io:80/movie/51162306/imagination.me/3747.mp4
+#EXTINF:-1 tvg-logo="https://cinegarimpo.com.br/wp/content/uploads/2016/02/cinegarimpo_soldaso-286x425.jpeg" group-title="Filmes | Acao",13 Horas: Os Soldados Secretos De Benghazi
+http://pfsv.io:80/movie/51162306/imagination.me/3962.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/pO" group-title="Filmes | Acao",13° Distrito - Ultimato
+http://pfsv.io:80/movie/51162306/imagination.me/3866.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/oN" group-title="Filmes | Acao",13º Distrito
+http://pfsv.io:80/movie/51162306/imagination.me/3733.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bks" group-title="Filmes | Acao",15 Minutos
+http://pfsv.io:80/movie/51162306/imagination.me/67397.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/20/01/28/17/06/0121676.jpg" group-title="Filmes | Acao",15 Minutos De Guerra
+http://pfsv.io:80/movie/51162306/imagination.me/3648.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/AJ" group-title="Filmes | Acao",
+http://pfsv.io:80/movie/51162306/imagination.me/29843.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z5uiLFzjgeYhnpHmBlFg7s1YHwp.jpg" group-title="Filmes | Acao",Duro De Matar 2
+http://pfsv.io:80/movie/51162306/imagination.me/3964.mp4
+#EXTINF:-1 tvg-logo="https://ottvsimg.ottvs.com.br/cov/wr.000817/0000817_335.jpg" group-title="Filmes | Acao",2 - Máquina Mortífera 2
+http://pfsv.io:80/movie/51162306/imagination.me/4004.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/medias/nmedia/18/92/15/34/20183462.jpg" group-title="Filmes | Acao",2 - Triplo X
+http://pfsv.io:80/movie/51162306/imagination.me/3895.mp4
+#EXTINF:-1 tvg-logo="http://vortexcultural.com.br/images/2017/01/Triplo-X-2.jpg" group-title="Filmes | Acao",2 - Triplo X 2: Estado De Emergência
+http://pfsv.io:80/movie/51162306/imagination.me/3878.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/nR" group-title="Filmes | Acao",4K
+http://pfsv.io:80/movie/51162306/imagination.me/3633.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/18/04/24/09/04/1010103.jpg" group-title="Filmes | Acao",211 - O Grande Assalto
+http://pfsv.io:80/movie/51162306/imagination.me/4017.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/18/04/24/09/04/1010103.jpg" group-title="Filmes | Acao",211 - O Grande Assalto
+http://pfsv.io:80/movie/51162306/imagination.me/3751.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Bb" group-title="Filmes | Acao",22 Balas
+http://pfsv.io:80/movie/51162306/imagination.me/3786.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Dm" group-title="Filmes | Acao",22 Milhas
+http://pfsv.io:80/movie/51162306/imagination.me/3998.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j9Gdu7UEMLDnobLTKybARFVOvDh.jpg" group-title="Filmes | Acao",Duro De Matar: A Vingança
+http://pfsv.io:80/movie/51162306/imagination.me/4025.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/medias/nmedia/18/90/59/22/20103717.jpg" group-title="Filmes | Acao",3 - Máquina Mortífera 3
+http://pfsv.io:80/movie/51162306/imagination.me/3572.mp4
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-dWAbs0zrbVc/WICMulNSxhI/AAAAAAAAB3o/2Ra89yQkxZQUkL4RHVpZPjfO_HE1q4ClACLcB/s1600/222333.jpg" group-title="Filmes | Acao",3 - Triplo X : Reativado
+http://pfsv.io:80/movie/51162306/imagination.me/4007.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/14/07/24/20/48/199571.jpg" group-title="Filmes | Acao",3 Dias Para Matar
+http://pfsv.io:80/movie/51162306/imagination.me/3696.mp4
+#EXTINF:-1 tvg-logo="https://agrandeilusaocaminha.files.wordpress.com/2014/01/300.jpeg" group-title="Filmes | Acao",300
+http://pfsv.io:80/movie/51162306/imagination.me/3778.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/210/285/21028501_20130814234140534.jpg" group-title="Filmes | Acao", Milhas Para O Inferno
+http://pfsv.io:80/movie/51162306/imagination.me/34126.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/210/177/21017728_2013070423443472.jpg" group-title="Filmes | Acao",300: A Ascensão Do Império
+http://pfsv.io:80/movie/51162306/imagination.me/3517.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fjvKqLHjnUm2PxVHjhQ8FLbInbl.jpg" group-title="Filmes | Acao",Duro De Matar 4 0
+http://pfsv.io:80/movie/51162306/imagination.me/3853.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/medias/nmedia/18/87/15/41/19872564.jpg" group-title="Filmes | Acao",4 - Máquina Mortífera 4
+http://pfsv.io:80/movie/51162306/imagination.me/3862.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/beT" group-title="Filmes | Acao",48 Horas
+http://pfsv.io:80/movie/51162306/imagination.me/84408.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qlBdUUjm7Q5CMyv5yRNNhfnydVd.jpg" group-title="Filmes | Acao",Duro De Matar: Um Bom Dia Para Morrer
+http://pfsv.io:80/movie/51162306/imagination.me/3560.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/210/082/21008252_20130524173604515.jpg" group-title="Filmes | Acao",60 Segundos
+http://pfsv.io:80/movie/51162306/imagination.me/3767.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/K8" group-title="Filmes | Acao",
+http://pfsv.io:80/movie/51162306/imagination.me/33408.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/u4" group-title="Filmes | Acao",A Arqueira
+http://pfsv.io:80/movie/51162306/imagination.me/4222.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/AM" group-title="Filmes | Acao",A Arte Da Autodefesa
+http://pfsv.io:80/movie/51162306/imagination.me/29845.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/La" group-title="Filmes | Acao",A Ascensão Da Rainha Guerreira
+http://pfsv.io:80/movie/51162306/imagination.me/33409.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/hG" group-title="Filmes | Acao",A Batalha De Riddick
+http://pfsv.io:80/movie/51162306/imagination.me/63134.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bwV" group-title="Filmes | Acao",A Caverna
+http://pfsv.io:80/movie/51162306/imagination.me/91181.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/OK" group-title="Filmes | Acao",A Caçada
+http://pfsv.io:80/movie/51162306/imagination.me/36124.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bsf" group-title="Filmes | Acao",A Cidadela Dos Robinsons
+http://pfsv.io:80/movie/51162306/imagination.me/73422.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3iJo11qHvGKInhoB5Ur1PbJeT6h.jpg" group-title="Filmes | Acao",A Colônia
+http://pfsv.io:80/movie/51162306/imagination.me/34127.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/A1" group-title="Filmes | Acao",A Divisão
+http://pfsv.io:80/movie/51162306/imagination.me/29853.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/zQ" group-title="Filmes | Acao",A Espada Do Imortal
+http://pfsv.io:80/movie/51162306/imagination.me/3675.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bbK" group-title="Filmes | Acao",A Fúria Do Protetor
+http://pfsv.io:80/movie/51162306/imagination.me/63148.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Bd" group-title="Filmes | Acao",A Grande Luta
+http://pfsv.io:80/movie/51162306/imagination.me/29860.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/3s" group-title="Filmes | Acao",A Grande Muralha
+http://pfsv.io:80/movie/51162306/imagination.me/58635.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bbN" group-title="Filmes | Acao",A Hora Do Acerto
+http://pfsv.io:80/movie/51162306/imagination.me/63151.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yRcR9DkNPcq7qKIasFxI12Cghxm.jpg" group-title="Filmes | Acao",A Hospedeira
+http://pfsv.io:80/movie/51162306/imagination.me/3770.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/zI" group-title="Filmes | Acao",A Identidade Bourne
+http://pfsv.io:80/movie/51162306/imagination.me/53342.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/o9" group-title="Filmes | Acao",A Ilha
+http://pfsv.io:80/movie/51162306/imagination.me/3799.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bvi" group-title="Filmes | Acao",A Irmandade
+http://pfsv.io:80/movie/51162306/imagination.me/86371.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fpYXvWGKPwk51UTk8hqo0qE13qk.jpg" group-title="Filmes | Acao",A Justiceira
+http://pfsv.io:80/movie/51162306/imagination.me/3759.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/8F" group-title="Filmes | Acao",A Lei Das Ruas
+http://pfsv.io:80/movie/51162306/imagination.me/61151.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aRwe397WjpHouR5sCRH48XBdpvr.jpg" group-title="Filmes | Acao",A Lenda De Tarzan
+http://pfsv.io:80/movie/51162306/imagination.me/3961.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/om" group-title="Filmes | Acao",A Lenda Do Mestre Chinês
+http://pfsv.io:80/movie/51162306/imagination.me/3685.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uieqgufMTYPIq5Zcs5rfJ0b1eMb.jpg" group-title="Filmes | Acao",A Lenda Do Tesouro Perdido: Livro Dos Segredos
+http://pfsv.io:80/movie/51162306/imagination.me/3784.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gPmDLlo1xTzxnYiClP96khPAu6z.jpg" group-title="Filmes | Acao",A Lenda Do Tesouro Perdido 3
+http://pfsv.io:80/movie/51162306/imagination.me/3963.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/1v" group-title="Filmes | Acao",A Maldição Do Espelho
+http://pfsv.io:80/movie/51162306/imagination.me/58318.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bbQ" group-title="Filmes | Acao",A Marca Do Dragão
+http://pfsv.io:80/movie/51162306/imagination.me/63155.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/yV" group-title="Filmes | Acao",A Marca Do Zorro
+http://pfsv.io:80/movie/51162306/imagination.me/3593.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Mmd9L8hWbnYQlRbxmnmNswEVYW.jpg" group-title="Filmes | Acao",A Marca Negra
+http://pfsv.io:80/movie/51162306/imagination.me/3742.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bv0" group-title="Filmes | Acao",A Morte Pede Carona
+http://pfsv.io:80/movie/51162306/imagination.me/90829.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Cr" group-title="Filmes | Acao",A Múmia
+http://pfsv.io:80/movie/51162306/imagination.me/3935.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/qd" group-title="Filmes | Acao",A Múmia
+http://pfsv.io:80/movie/51162306/imagination.me/3903.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/ok" group-title="Filmes | Acao",A Múmia - Tumba Do Imperador Dragão
+http://pfsv.io:80/movie/51162306/imagination.me/3684.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/hOf" group-title="Filmes | Acao",A Negociação
+http://pfsv.io:80/movie/51162306/imagination.me/51575.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Aa" group-title="Filmes | Acao",A Noite Nos Persegue
+http://pfsv.io:80/movie/51162306/imagination.me/3703.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/qG" group-title="Filmes | Acao",A Origem Do Dragão
+http://pfsv.io:80/movie/51162306/imagination.me/3966.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Ad" group-title="Filmes | Acao",A Outra Face
+http://pfsv.io:80/movie/51162306/imagination.me/3706.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/2R" group-title="Filmes | Acao",A Porteira
+http://pfsv.io:80/movie/51162306/imagination.me/58615.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bbY" group-title="Filmes | Acao",A Saga Do Dragão - A Luta Final
+http://pfsv.io:80/movie/51162306/imagination.me/63164.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/AV" group-title="Filmes | Acao",A Senha: Swordfish
+http://pfsv.io:80/movie/51162306/imagination.me/3769.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/iR3" group-title="Filmes | Acao",A Supremacia Bourne
+http://pfsv.io:80/movie/51162306/imagination.me/53343.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/nD" group-title="Filmes | Acao",A Série Divergente - Convergente
+http://pfsv.io:80/movie/51162306/imagination.me/3602.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/n8" group-title="Filmes | Acao",A Série Divergente - Insurgente
+http://pfsv.io:80/movie/51162306/imagination.me/3651.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Ck" group-title="Filmes | Acao",A Terra E O Sangue
+http://pfsv.io:80/movie/51162306/imagination.me/29897.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Bt" group-title="Filmes | Acao",A Torre Negra
+http://pfsv.io:80/movie/51162306/imagination.me/3808.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/AP" group-title="Filmes | Acao",A Travessia
+http://pfsv.io:80/movie/51162306/imagination.me/3761.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/blb" group-title="Filmes | Acao",A Tumba Do Diabo
+http://pfsv.io:80/movie/51162306/imagination.me/67446.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/qN" group-title="Filmes | Acao",A Vigilante Do Amanhã: Ghost In The Shell
+http://pfsv.io:80/movie/51162306/imagination.me/3976.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bb2" group-title="Filmes | Acao",A Vinganca Do Dragão
+http://pfsv.io:80/movie/51162306/imagination.me/63171.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bkJ" group-title="Filmes | Acao",A Última Cartada
+http://pfsv.io:80/movie/51162306/imagination.me/67415.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bpZ" group-title="Filmes | Acao",A Última Fortaleza
+http://pfsv.io:80/movie/51162306/imagination.me/69642.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/zR" group-title="Filmes | Acao",A Última Resistência
+http://pfsv.io:80/movie/51162306/imagination.me/3677.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bhT" group-title="Filmes | Acao",Adrenalina
+http://pfsv.io:80/movie/51162306/imagination.me/65255.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bhU" group-title="Filmes | Acao",Adrenalina 2 - Alta Voltagem
+http://pfsv.io:80/movie/51162306/imagination.me/65256.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/blE" group-title="Filmes | Acao",Agarra-me Se Puderes
+http://pfsv.io:80/movie/51162306/imagination.me/68174.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bsX" group-title="Filmes | Acao",Agente 86: Bruce E Lloyd - Fora De Controle
+http://pfsv.io:80/movie/51162306/imagination.me/84240.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Bb" group-title="Filmes | Acao",Agente Asher
+http://pfsv.io:80/movie/51162306/imagination.me/29859.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/ZA" group-title="Filmes | Acao",Agentes Selvagens
+http://pfsv.io:80/movie/51162306/imagination.me/57600.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Z2" group-title="Filmes | Acao",Agentes Vanguard
+http://pfsv.io:80/movie/51162306/imagination.me/57695.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bkv" group-title="Filmes | Acao",Air America - Loucos Pelo Perigo
+http://pfsv.io:80/movie/51162306/imagination.me/67400.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Bm" group-title="Filmes | Acao",Ajuste De Contas
+http://pfsv.io:80/movie/51162306/imagination.me/29865.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/pl" group-title="Filmes | Acao",Alemão
+http://pfsv.io:80/movie/51162306/imagination.me/3819.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/mW" group-title="Filmes | Acao",Alexandre
+http://pfsv.io:80/movie/51162306/imagination.me/3531.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bbO" group-title="Filmes | Acao",Alita - Anjo De Combate
+http://pfsv.io:80/movie/51162306/imagination.me/63153.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Xh" group-title="Filmes | Acao",Alma De Guerreiro
+http://pfsv.io:80/movie/51162306/imagination.me/56145.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/f9i" group-title="Filmes | Acao",Além Da Escuridão - Star Trek
+http://pfsv.io:80/movie/51162306/imagination.me/35053.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/CF" group-title="Filmes | Acao",Amanhecer Violento
+http://pfsv.io:80/movie/51162306/imagination.me/3928.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/By" group-title="Filmes | Acao",Ameaça Profunda
+http://pfsv.io:80/movie/51162306/imagination.me/29871.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/brd" group-title="Filmes | Acao",Ameaça Virtual
+http://pfsv.io:80/movie/51162306/imagination.me/71903.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Ti" group-title="Filmes | Acao",Anaconda
+http://pfsv.io:80/movie/51162306/imagination.me/3691.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Cd" group-title="Filmes | Acao",Anaconda 2 - A Caçada Pela Orquídea Sangrenta
+http://pfsv.io:80/movie/51162306/imagination.me/3882.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/As" group-title="Filmes | Acao",Anaconda 3
+http://pfsv.io:80/movie/51162306/imagination.me/3726.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/CJ" group-title="Filmes | Acao",Anaconda 4
+http://pfsv.io:80/movie/51162306/imagination.me/3936.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/y6" group-title="Filmes | Acao",Anjos Da Vida - Mais Bravos Que O Mar
+http://pfsv.io:80/movie/51162306/imagination.me/3609.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/fr" group-title="Filmes | Acao",Anna - O Perigo Tem Nome
+http://pfsv.io:80/movie/51162306/imagination.me/4221.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Dk" group-title="Filmes | Acao",Apocalypto
+http://pfsv.io:80/movie/51162306/imagination.me/3995.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/SG" group-title="Filmes | Acao",Aprendiz De Espiã
+http://pfsv.io:80/movie/51162306/imagination.me/47350.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Ax" group-title="Filmes | Acao",Aquaman
+http://pfsv.io:80/movie/51162306/imagination.me/3736.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/RW" group-title="Filmes | Acao",Arma Secreta
+http://pfsv.io:80/movie/51162306/imagination.me/41888.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/baU" group-title="Filmes | Acao",Armadura De Deus
+http://pfsv.io:80/movie/51162306/imagination.me/62806.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/BU" group-title="Filmes | Acao",Armageddon
+http://pfsv.io:80/movie/51162306/imagination.me/3849.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bjG" group-title="Filmes | Acao",Armageddon
+http://pfsv.io:80/movie/51162306/imagination.me/66668.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/xW" group-title="Filmes | Acao",Arranha-Céu: Coragem Sem Limite
+http://pfsv.io:80/movie/51162306/imagination.me/3515.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/TO" group-title="Filmes | Acao",Arsenal
+http://pfsv.io:80/movie/51162306/imagination.me/48783.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/B8" group-title="Filmes | Acao",As Aventuras De Uma Super Professora
+http://pfsv.io:80/movie/51162306/imagination.me/29890.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bhZ" group-title="Filmes | Acao",As Duas Faces Da Lei
+http://pfsv.io:80/movie/51162306/imagination.me/65261.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Am" group-title="Filmes | Acao",As Panteras
+http://pfsv.io:80/movie/51162306/imagination.me/29895.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bjH" group-title="Filmes | Acao",As Panteras: Detonando
+http://pfsv.io:80/movie/51162306/imagination.me/66669.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/yJ" group-title="Filmes | Acao",Asfalto De Sangue
+http://pfsv.io:80/movie/51162306/imagination.me/3579.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/CA" group-title="Filmes | Acao",Assassin's Creed
+http://pfsv.io:80/movie/51162306/imagination.me/3921.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bgh" group-title="Filmes | Acao",Assassino A Preço Fixo
+http://pfsv.io:80/movie/51162306/imagination.me/63807.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bgh" group-title="Filmes | Acao",Assassino A Preço Fixo
+http://pfsv.io:80/movie/51162306/imagination.me/64473.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bb1" group-title="Filmes | Acao",Assassino A Preço Fixo 2 - A Ressurreição
+http://pfsv.io:80/movie/51162306/imagination.me/63168.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/r6" group-title="Filmes | Acao",Assassino Em Série
+http://pfsv.io:80/movie/51162306/imagination.me/4122.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/rY" group-title="Filmes | Acao",Assassinos Anônimos
+http://pfsv.io:80/movie/51162306/imagination.me/4397.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/xD" group-title="Filmes | Acao",Assassinos De Guerra
+http://pfsv.io:80/movie/51162306/imagination.me/4320.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/xO" group-title="Filmes | Acao",Assassinos Múltiplos
+http://pfsv.io:80/movie/51162306/imagination.me/3504.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/byk" group-title="Filmes | Acao",Assassinos Substitutos
+http://pfsv.io:80/movie/51162306/imagination.me/91992.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/y3" group-title="Filmes | Acao",Atentado Em Paris
+http://pfsv.io:80/movie/51162306/imagination.me/3604.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/38" group-title="Filmes | Acao",Atirador
+http://pfsv.io:80/movie/51162306/imagination.me/58659.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/BA" group-title="Filmes | Acao",Atos De Violência
+http://pfsv.io:80/movie/51162306/imagination.me/3820.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Cm" group-title="Filmes | Acao",Atração De Risco
+http://pfsv.io:80/movie/51162306/imagination.me/29898.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/XV" group-title="Filmes | Acao",Atrás Da Linha: Fuga Para Dunkirk
+http://pfsv.io:80/movie/51162306/imagination.me/56186.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/DdqL8MwxTsvDYB4oJ6Izr86lQu.jpg" group-title="Filmes | Acao",Atrás Das Linhas Inimigas
+http://pfsv.io:80/movie/51162306/imagination.me/3570.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cbnwfsqFkiWd0rbQq63R1H84gm7.jpg" group-title="Filmes | Acao",Atrás Das Linhas Inimigas 2: O Eixo Do Mal
+http://pfsv.io:80/movie/51162306/imagination.me/3743.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2CeKbO3M9EtE5ZbbO9AdXrXSREB.jpg" group-title="Filmes | Acao",Atrás Das Linhas Inimigas 3: Operação Colômbia
+http://pfsv.io:80/movie/51162306/imagination.me/3647.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dynNvq0HnZbYnJBfyNQsS78Aknm.jpg" group-title="Filmes | Acao",Atrás Das Linhas Inimigas 4: Missão África
+http://pfsv.io:80/movie/51162306/imagination.me/3864.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/f5q" group-title="Filmes | Acao",Até O Limite Da Honra
+http://pfsv.io:80/movie/51162306/imagination.me/34128.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/ps" group-title="Filmes | Acao",Atômica
+http://pfsv.io:80/movie/51162306/imagination.me/3832.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Zo" group-title="Filmes | Acao",Ava
+http://pfsv.io:80/movie/51162306/imagination.me/57594.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/yT" group-title="Filmes | Acao",Avatar
+http://pfsv.io:80/movie/51162306/imagination.me/3591.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/O7" group-title="Filmes | Acao",Avatar Versao Extendida
+http://pfsv.io:80/movie/51162306/imagination.me/34129.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Ct" group-title="Filmes | Acao",Aves De Rapina: Arlequina E Sua Emancipação Fantabulosa
+http://pfsv.io:80/movie/51162306/imagination.me/29901.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/oU" group-title="Filmes | Acao",B13: 13º Distrito
+http://pfsv.io:80/movie/51162306/imagination.me/3749.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/yr" group-title="Filmes | Acao",Baahubali: O Início
+http://pfsv.io:80/movie/51162306/imagination.me/3554.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/x5" group-title="Filmes | Acao",Bad Boys
+http://pfsv.io:80/movie/51162306/imagination.me/3524.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/CA" group-title="Filmes | Acao",Bad Boys Para Sempre
+http://pfsv.io:80/movie/51162306/imagination.me/29905.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Mv" group-title="Filmes | Acao",Bala Perdida
+http://pfsv.io:80/movie/51162306/imagination.me/34034.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bh1" group-title="Filmes | Acao",Batman
+http://pfsv.io:80/movie/51162306/imagination.me/65263.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/eL4" group-title="Filmes | Acao",Batman Begins
+http://pfsv.io:80/movie/51162306/imagination.me/3844.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bh2" group-title="Filmes | Acao",Batman Eternamente
+http://pfsv.io:80/movie/51162306/imagination.me/65264.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vh6pjeGH0GQupLepPCZn5PylcRg.jpg" group-title="Filmes | Acao",Batman Vs Superman: A Origem Da Justiça
+http://pfsv.io:80/movie/51162306/imagination.me/63172.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/yQ" group-title="Filmes | Acao",Batman: O Cavaleiro Das Trevas
+http://pfsv.io:80/movie/51162306/imagination.me/3587.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Dz" group-title="Filmes | Acao",Batman: O Cavaleiro Das Trevas Ressurge
+http://pfsv.io:80/movie/51162306/imagination.me/4019.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bh3" group-title="Filmes | Acao",Batman: O Retorno
+http://pfsv.io:80/movie/51162306/imagination.me/65265.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Tb" group-title="Filmes | Acao",Battleship - A Batalha Dos Mares
+http://pfsv.io:80/movie/51162306/imagination.me/3574.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/oK" group-title="Filmes | Acao",Bem-vindo à Selva
+http://pfsv.io:80/movie/51162306/imagination.me/3729.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/nN" group-title="Filmes | Acao",Ben-Hur
+http://pfsv.io:80/movie/51162306/imagination.me/3625.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/tl" group-title="Filmes | Acao",Bernie, O Golfinho
+http://pfsv.io:80/movie/51162306/imagination.me/4163.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bpy" group-title="Filmes | Acao",Billy Stone E O Medalhão Mágico
+http://pfsv.io:80/movie/51162306/imagination.me/69614.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Bz" group-title="Filmes | Acao",Black Water
+http://pfsv.io:80/movie/51162306/imagination.me/3818.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/AY" group-title="Filmes | Acao",Blade - O Caçador De Vampiros
+http://pfsv.io:80/movie/51162306/imagination.me/3772.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/zg" group-title="Filmes | Acao",Blade II - O Caçador De Vampiros
+http://pfsv.io:80/movie/51162306/imagination.me/3624.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/zk" group-title="Filmes | Acao",Blade: Trinity
+http://pfsv.io:80/movie/51162306/imagination.me/3630.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qjqmhhc7uLub22mhu4V6DjOBwXM.jpg" group-title="Filmes | Acao",Blitz
+http://pfsv.io:80/movie/51162306/imagination.me/58618.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/qr" group-title="Filmes | Acao",Boyka: O Imbatível
+http://pfsv.io:80/movie/51162306/imagination.me/3918.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/f5r" group-title="Filmes | Acao",Braddock - O Super Comando
+http://pfsv.io:80/movie/51162306/imagination.me/34346.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/f5s" group-title="Filmes | Acao",Braddock 2 - O Início Da Missão
+http://pfsv.io:80/movie/51162306/imagination.me/34344.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/f5t" group-title="Filmes | Acao",Braddock 3 - O Resgate
+http://pfsv.io:80/movie/51162306/imagination.me/34345.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Zt" group-title="Filmes | Acao",Break
+http://pfsv.io:80/movie/51162306/imagination.me/57596.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/CP" group-title="Filmes | Acao",Breakdown - Implacável Perseguição
+http://pfsv.io:80/movie/51162306/imagination.me/3948.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/qv" group-title="Filmes | Acao",BRUCE LEE O Jogo Da Morte 2
+http://pfsv.io:80/movie/51162306/imagination.me/3925.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/nB" group-title="Filmes | Acao",Bruce Lee, Meu Irmão
+http://pfsv.io:80/movie/51162306/imagination.me/3599.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Xs" group-title="Filmes | Acao",Buffalo Boys
+http://pfsv.io:80/movie/51162306/imagination.me/56151.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Cl" group-title="Filmes | Acao",Bumblebee
+http://pfsv.io:80/movie/51162306/imagination.me/3893.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/f6" group-title="Filmes | Acao",Bumblebee
+http://pfsv.io:80/movie/51162306/imagination.me/60697.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/AB" group-title="Filmes | Acao",Busca Implacável
+http://pfsv.io:80/movie/51162306/imagination.me/3744.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/oR" group-title="Filmes | Acao",Busca Implacável 2
+http://pfsv.io:80/movie/51162306/imagination.me/3740.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/pz" group-title="Filmes | Acao",Busca Implacável 3
+http://pfsv.io:80/movie/51162306/imagination.me/3847.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bs5" group-title="Filmes | Acao",Califórnia, Terra Do Ouro
+http://pfsv.io:80/movie/51162306/imagination.me/84248.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bcd" group-title="Filmes | Acao",Campo Minado
+http://pfsv.io:80/movie/51162306/imagination.me/63186.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/C1" group-title="Filmes | Acao",Cano Serrado
+http://pfsv.io:80/movie/51162306/imagination.me/29920.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/CT" group-title="Filmes | Acao",Caos Na Prisão
+http://pfsv.io:80/movie/51162306/imagination.me/3953.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Bs" group-title="Filmes | Acao",Capitã Marvel
+http://pfsv.io:80/movie/51162306/imagination.me/3807.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/gq" group-title="Filmes | Acao",Capitã Marvel
+http://pfsv.io:80/movie/51162306/imagination.me/63189.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/CM" group-title="Filmes | Acao",Capitão América 2: O Soldado Invernal
+http://pfsv.io:80/movie/51162306/imagination.me/3944.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bcg" group-title="Filmes | Acao",Capitão América 2: O Soldado Invernal
+http://pfsv.io:80/movie/51162306/imagination.me/63190.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Bk" group-title="Filmes | Acao",Capitão América: Guerra Civil
+http://pfsv.io:80/movie/51162306/imagination.me/3797.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bch" group-title="Filmes | Acao",Capitão América: Guerra Civil
+http://pfsv.io:80/movie/51162306/imagination.me/63191.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/zj" group-title="Filmes | Acao",Capitão América: O Primeiro Vingador
+http://pfsv.io:80/movie/51162306/imagination.me/3628.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bci" group-title="Filmes | Acao",Capitão América: O Primeiro Vingador
+http://pfsv.io:80/movie/51162306/imagination.me/63192.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/zA" group-title="Filmes | Acao",Carga Bruta
+http://pfsv.io:80/movie/51162306/imagination.me/3653.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/oi" group-title="Filmes | Acao",Carga Explosiva
+http://pfsv.io:80/movie/51162306/imagination.me/3676.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/og" group-title="Filmes | Acao",Carga Explosiva 2
+http://pfsv.io:80/movie/51162306/imagination.me/3673.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/pK" group-title="Filmes | Acao",Carga Explosiva 3
+http://pfsv.io:80/movie/51162306/imagination.me/3859.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/i6A" group-title="Filmes | Acao",Carga Explosiva: O Legado
+http://pfsv.io:80/movie/51162306/imagination.me/57983.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/yb" group-title="Filmes | Acao",Carga Mortal
+http://pfsv.io:80/movie/51162306/imagination.me/3530.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/DC" group-title="Filmes | Acao",Caçada Brutal
+http://pfsv.io:80/movie/51162306/imagination.me/4023.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bkO" group-title="Filmes | Acao",Caçada Sangrenta
+http://pfsv.io:80/movie/51162306/imagination.me/67420.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/nb" group-title="Filmes | Acao",Caçadores De Emoção
+http://pfsv.io:80/movie/51162306/imagination.me/3553.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/C9" group-title="Filmes | Acao",Caçadores De Emoção: Além Do Limite
+http://pfsv.io:80/movie/51162306/imagination.me/3975.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/AL" group-title="Filmes | Acao",Caçadores De Homens
+http://pfsv.io:80/movie/51162306/imagination.me/3757.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/blR" group-title="Filmes | Acao",Caçadores De Homens
+http://pfsv.io:80/movie/51162306/imagination.me/68188.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Qj" group-title="Filmes | Acao",Caçadores De Recompensa
+http://pfsv.io:80/movie/51162306/imagination.me/34348.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/210/037/21003767_20130506213552768.jpg" group-title="Filmes | Acao",Cela 211
+http://pfsv.io:80/movie/51162306/imagination.me/53269.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/xy" group-title="Filmes | Acao",Centro De Trauma
+http://pfsv.io:80/movie/51162306/imagination.me/4318.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Bo" group-title="Filmes | Acao",Chamas Da Vingança
+http://pfsv.io:80/movie/51162306/imagination.me/3802.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bcm" group-title="Filmes | Acao",Chamas Da Vingança
+http://pfsv.io:80/movie/51162306/imagination.me/63198.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/A8" group-title="Filmes | Acao",Chappie
+http://pfsv.io:80/movie/51162306/imagination.me/3783.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bh5" group-title="Filmes | Acao",Chappie
+http://pfsv.io:80/movie/51162306/imagination.me/65267.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bcn" group-title="Filmes | Acao",Chefão Por Acaso
+http://pfsv.io:80/movie/51162306/imagination.me/63199.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bkP" group-title="Filmes | Acao",Cherry 
+http://pfsv.io:80/movie/51162306/imagination.me/67421.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/f6V" group-title="Filmes | Acao",Chocolate
+http://pfsv.io:80/movie/51162306/imagination.me/34251.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/X3" group-title="Filmes | Acao",Cidade Da Garganta Cortada
+http://pfsv.io:80/movie/51162306/imagination.me/56191.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/y5" group-title="Filmes | Acao",Cidade De Deus
+http://pfsv.io:80/movie/51162306/imagination.me/3607.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bbi" group-title="Filmes | Acao",City Hunter: O Caçador De Encrencas
+http://pfsv.io:80/movie/51162306/imagination.me/62831.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/20" group-title="Filmes | Acao",Cloverfield: Monstro
+http://pfsv.io:80/movie/51162306/imagination.me/58619.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bv4" group-title="Filmes | Acao",Codinome Cassius 7
+http://pfsv.io:80/movie/51162306/imagination.me/90834.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/8k" group-title="Filmes | Acao",Com 007 Só Se Vive Duas Vezes
+http://pfsv.io:80/movie/51162306/imagination.me/61123.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/8l" group-title="Filmes | Acao",Com 007 Viva E Deixe Morrer
+http://pfsv.io:80/movie/51162306/imagination.me/61124.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/iQK" group-title="Filmes | Acao",Comando Imbatível
+http://pfsv.io:80/movie/51162306/imagination.me/53232.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/ss" group-title="Filmes | Acao",Comando Justiceiro
+http://pfsv.io:80/movie/51162306/imagination.me/4134.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/x8" group-title="Filmes | Acao",Comando Para Matar
+http://pfsv.io:80/movie/51162306/imagination.me/3527.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/4t" group-title="Filmes | Acao",Comando Para Matar
+http://pfsv.io:80/movie/51162306/imagination.me/59531.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bx5" group-title="Filmes | Acao",Comando Tatico
+http://pfsv.io:80/movie/51162306/imagination.me/91517.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/BL" group-title="Filmes | Acao",Con Air: A Rota Da Fuga
+http://pfsv.io:80/movie/51162306/imagination.me/3836.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/nY" group-title="Filmes | Acao",Conan, O Bárbaro
+http://pfsv.io:80/movie/51162306/imagination.me/3644.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/nY" group-title="Filmes | Acao",Conan, O Bárbaro
+http://pfsv.io:80/movie/51162306/imagination.me/66672.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Bc" group-title="Filmes | Acao",Conan, O Destruidor
+http://pfsv.io:80/movie/51162306/imagination.me/3787.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/xU" group-title="Filmes | Acao",Condenação Brutal
+http://pfsv.io:80/movie/51162306/imagination.me/3513.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Tj" group-title="Filmes | Acao",Conexão Jamaica
+http://pfsv.io:80/movie/51162306/imagination.me/3697.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/buP" group-title="Filmes | Acao",Congo
+http://pfsv.io:80/movie/51162306/imagination.me/85672.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/VC" group-title="Filmes | Acao",Contos Do Caçador De Sombras
+http://pfsv.io:80/movie/51162306/imagination.me/53233.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/VC" group-title="Filmes | Acao",Contos Do Caçador De Sombras
+http://pfsv.io:80/movie/51162306/imagination.me/55359.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/TE" group-title="Filmes | Acao",Contra Ataque
+http://pfsv.io:80/movie/51162306/imagination.me/48773.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/blU" group-title="Filmes | Acao",Cop Land
+http://pfsv.io:80/movie/51162306/imagination.me/68192.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Lv" group-title="Filmes | Acao",Coração De Dragão: Vingança
+http://pfsv.io:80/movie/51162306/imagination.me/33419.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/4w" group-title="Filmes | Acao",Coração De Trovão
+http://pfsv.io:80/movie/51162306/imagination.me/59534.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/DE" group-title="Filmes | Acao",Coração Valente
+http://pfsv.io:80/movie/51162306/imagination.me/4026.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/xT" group-title="Filmes | Acao",Corações De Ferro
+http://pfsv.io:80/movie/51162306/imagination.me/3512.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Di" group-title="Filmes | Acao",Cores Da Justiça
+http://pfsv.io:80/movie/51162306/imagination.me/29928.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bcr" group-title="Filmes | Acao",Corram Que O Agente Voltou
+http://pfsv.io:80/movie/51162306/imagination.me/63203.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/qk" group-title="Filmes | Acao",Corrida Mortal
+http://pfsv.io:80/movie/51162306/imagination.me/3910.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/pb" group-title="Filmes | Acao",Corrida Mortal 2
+http://pfsv.io:80/movie/51162306/imagination.me/3801.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/pB" group-title="Filmes | Acao",Corrida Mortal 3 - Inferno
+http://pfsv.io:80/movie/51162306/imagination.me/3848.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/pM" group-title="Filmes | Acao",Corrida Mortal 4 - Além Da Anarquia
+http://pfsv.io:80/movie/51162306/imagination.me/3861.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Ty" group-title="Filmes | Acao",Corridas Clandestinas
+http://pfsv.io:80/movie/51162306/imagination.me/4024.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/uk" group-title="Filmes | Acao",Cortina De Fogo 2
+http://pfsv.io:80/movie/51162306/imagination.me/4197.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/zN" group-title="Filmes | Acao",Covil De Ladrões
+http://pfsv.io:80/movie/51162306/imagination.me/3671.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/z7" group-title="Filmes | Acao",Creed II
+http://pfsv.io:80/movie/51162306/imagination.me/3699.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Ah" group-title="Filmes | Acao",Crime Sem Saída
+http://pfsv.io:80/movie/51162306/imagination.me/29930.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/A6" group-title="Filmes | Acao",Cão De Briga
+http://pfsv.io:80/movie/51162306/imagination.me/3781.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bcf" group-title="Filmes | Acao",Cão De Briga
+http://pfsv.io:80/movie/51162306/imagination.me/63188.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/xV" group-title="Filmes | Acao",Cão Selvagem
+http://pfsv.io:80/movie/51162306/imagination.me/3514.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/0M" group-title="Filmes | Acao",Céu Em Chamas
+http://pfsv.io:80/movie/51162306/imagination.me/57984.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/ox" group-title="Filmes | Acao",Círculo De Fogo
+http://pfsv.io:80/movie/51162306/imagination.me/3708.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/oI" group-title="Filmes | Acao",Círculo De Fogo
+http://pfsv.io:80/movie/51162306/imagination.me/3728.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/BQ" group-title="Filmes | Acao",Círculo De Fogo: A Revolta
+http://pfsv.io:80/movie/51162306/imagination.me/3841.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bjW" group-title="Filmes | Acao",Código Para O Inferno
+http://pfsv.io:80/movie/51162306/imagination.me/66690.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/Du" group-title="Filmes | Acao",Darc
+http://pfsv.io:80/movie/51162306/imagination.me/4012.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/qh" group-title="Filmes | Acao",Darkman 2: O Retorno De Durant
+http://pfsv.io:80/movie/51162306/imagination.me/3908.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/qm" group-title="Filmes | Acao",Darkman 3: Enfrentando A Morte
+http://pfsv.io:80/movie/51162306/imagination.me/3911.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/oP" group-title="Filmes | Acao",Darkman: Vingança Sem Rosto
+http://pfsv.io:80/movie/51162306/imagination.me/3735.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bao" group-title="Filmes | Acao",Dead Trigger - Tiroteio Zumbi
+http://pfsv.io:80/movie/51162306/imagination.me/62344.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/56" group-title="Filmes | Acao",Deadpool
+http://pfsv.io:80/movie/51162306/imagination.me/60010.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/fy" group-title="Filmes | Acao",Deadpool 2
+http://pfsv.io:80/movie/51162306/imagination.me/60011.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/CX" group-title="Filmes | Acao",Deja Vu
+http://pfsv.io:80/movie/51162306/imagination.me/3957.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/bvD" group-title="Filmes | Acao",Demétrio E Os Gladiadores
+http://pfsv.io:80/movie/51162306/imagination.me/90393.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/f5u" group-title="Filmes | Acao",Dentro Do Labirinto Cinzento
+http://pfsv.io:80/movie/51162306/imagination.me/34133.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/m2" group-title="Filmes | Acao",Desejo De Matar
+http://pfsv.io:80/movie/51162306/imagination.me/3536.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/m2" group-title="Filmes | Acao",Desejo De Matar
+http://pfsv.io:80/movie/51162306/imagination.me/60070.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/ga" group-title="Filmes | Acao",Desejo De Matar
+http://pfsv.io:80/movie/51162306/imagination.me/60071.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/axK2XgrFnS2XY24iiKQDO3ZSOSF.jpg" group-title="Filmes | [XXX] Adultos",XXX Sislovesme Kyler QuinnForeveraloned [Adulto]
 http://pfsv.io:80/movie/51162306/imagination.me/93741.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/axK2XgrFnS2XY24iiKQDO3ZSOSF.jpg" group-title="Filmes | [XXX] Adultos",XXX Sislovesme Scarlett HamptonForeveraloned [Adulto]
