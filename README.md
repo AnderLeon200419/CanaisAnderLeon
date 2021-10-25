@@ -1,7 +1,9 @@
 #EXTM3U 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PyCpEI8.png" group-title="BRAZIL",AgroBrasil TV
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dRZ9CTG.png" group-title="BRAZIL",All Sports
+#EXTINF:-1 tvg-logo="https://url.gratis/H2Ct3P" group-title="ESPORTES",ESPN
+https://m3u9.ml/b/hls1/foxsports1.m3u8?mu3zAQc9HC3GbwJq=6276HH2tKIxsCcGKkwUW6g&3U1G7qaTxrPbalZnEx=1635216115
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dRZ9CTG.png" group-title="ESPORTES",All Sports
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aUU5Hhh.png" group-title="BRAZIL",Band - RBA TV (PA)
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
