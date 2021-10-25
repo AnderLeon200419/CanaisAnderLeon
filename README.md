@@ -1,4 +1,603 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="http://p6.vc/g" group-title="Canais | Abertos",Futura SD
+http://pfsv.io:80/51162306/imagination.me/66
+#EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Abertos",NBR SD
+http://pfsv.io:80/51162306/imagination.me/86
+#EXTINF:-1 tvg-logo="http://p6.vc/i" group-title="Canais | Abertos",RecordTV BA HD
+http://pfsv.io:80/51162306/imagination.me/61
+#EXTINF:-1 tvg-logo="http://p6.vc/i" group-title="Canais | Abertos",RecordTV BA SD
+http://pfsv.io:80/51162306/imagination.me/78
+#EXTINF:-1 tvg-logo="http://p6.vc/i" group-title="Canais | Abertos",RecordTV BELEM HD
+http://pfsv.io:80/51162306/imagination.me/62
+#EXTINF:-1 tvg-logo="http://p6.vc/i" group-title="Canais | Abertos",RecordTV Belem SD
+http://pfsv.io:80/51162306/imagination.me/84
+#EXTINF:-1 tvg-logo="http://p6.vc/i" group-title="Canais | Abertos",RecordTV Campinas FHD
+http://pfsv.io:80/51162306/imagination.me/92667
+#EXTINF:-1 tvg-logo="http://p6.vc/i" group-title="Canais | Abertos",RecordTV Campinas HD
+http://pfsv.io:80/51162306/imagination.me/32542
+#EXTINF:-1 tvg-logo="http://p6.vc/i" group-title="Canais | Abertos",RecordTV Campinas SD
+http://pfsv.io:80/51162306/imagination.me/32540
+#EXTINF:-1 tvg-logo="http://p6.vc/i" group-title="Canais | Abertos",RecordTV DF HD
+http://pfsv.io:80/51162306/imagination.me/60
+#EXTINF:-1 tvg-logo="http://p6.vc/i" group-title="Canais | Abertos",RecordTV DF SD
+http://pfsv.io:80/51162306/imagination.me/79
+#EXTINF:-1 tvg-logo="http://p6.vc/i" group-title="Canais | Abertos",RecordTV Espirito Santo SD
+http://pfsv.io:80/51162306/imagination.me/32541
+#EXTINF:-1 tvg-logo="http://p6.vc/i" group-title="Canais | Abertos",RecordTV GO HD
+http://pfsv.io:80/51162306/imagination.me/63
+#EXTINF:-1 tvg-logo="http://p6.vc/i" group-title="Canais | Abertos",RecordTV GO SD
+http://pfsv.io:80/51162306/imagination.me/85
+#EXTINF:-1 tvg-logo="http://p6.vc/i" group-title="Canais | Abertos",RecordTV Itapoan (Bahia) HD
+http://pfsv.io:80/51162306/imagination.me/69086
+#EXTINF:-1 tvg-logo="http://p6.vc/i" group-title="Canais | Abertos",RecordTV MG HD
+http://pfsv.io:80/51162306/imagination.me/58
+#EXTINF:-1 tvg-logo="http://p6.vc/i" group-title="Canais | Abertos",RecordTV MG SD
+http://pfsv.io:80/51162306/imagination.me/77
+#EXTINF:-1 tvg-logo="http://p6.vc/i" group-title="Canais | Abertos",RecordTV NDTV Florianópolis HD
+http://pfsv.io:80/51162306/imagination.me/55345
+#EXTINF:-1 tvg-logo="http://p6.vc/i" group-title="Canais | Abertos",RecordTV RJ FHD
+http://pfsv.io:80/51162306/imagination.me/50880
+#EXTINF:-1 tvg-logo="http://p6.vc/i" group-title="Canais | Abertos",RecordTV RJ HD
+http://pfsv.io:80/51162306/imagination.me/57
+#EXTINF:-1 tvg-logo="http://p6.vc/i" group-title="Canais | Abertos",RecordTV RJ SD
+http://pfsv.io:80/51162306/imagination.me/76
+#EXTINF:-1 tvg-logo="http://p6.vc/i" group-title="Canais | Abertos",RecordTV RS HD
+http://pfsv.io:80/51162306/imagination.me/59
+#EXTINF:-1 tvg-logo="http://p6.vc/i" group-title="Canais | Abertos",RecordTV RS SD
+http://pfsv.io:80/51162306/imagination.me/80
+#EXTINF:-1 tvg-logo="http://p6.vc/i" group-title="Canais | Abertos",RecordTv Sergipe (Atalaia) HD
+http://pfsv.io:80/51162306/imagination.me/47374
+#EXTINF:-1 tvg-logo="http://p6.vc/i" group-title="Canais | Abertos",RecordTV SP FHD
+http://pfsv.io:80/51162306/imagination.me/45
+#EXTINF:-1 tvg-logo="http://p6.vc/i" group-title="Canais | Abertos",RecordTv SP FHD [H265]
+http://pfsv.io:80/51162306/imagination.me/30178
+#EXTINF:-1 tvg-logo="http://p6.vc/i" group-title="Canais | Abertos",RecordTV SP HD
+http://pfsv.io:80/51162306/imagination.me/52
+#EXTINF:-1 tvg-logo="http://p6.vc/i" group-title="Canais | Abertos",RecordTV SP SD
+http://pfsv.io:80/51162306/imagination.me/67
+#EXTINF:-1 tvg-logo="http://p6.vc/i" group-title="Canais | Abertos",RecordTV SP2 HD
+http://pfsv.io:80/51162306/imagination.me/53
+#EXTINF:-1 tvg-logo="http://p6.vc/i" group-title="Canais | Abertos",RecordTV SP2 SD
+http://pfsv.io:80/51162306/imagination.me/68
+#EXTINF:-1 tvg-logo="http://p6.vc/i" group-title="Canais | Abertos",RecordTV Vitoria SD
+http://pfsv.io:80/51162306/imagination.me/34014
+#EXTINF:-1 tvg-logo="http://p6.vc/t" group-title="Canais | Abertos",Rede Brasil SD
+http://pfsv.io:80/51162306/imagination.me/87
+#EXTINF:-1 tvg-logo="http://p6.vc/l" group-title="Canais | Abertos",RedeTV! FHD
+http://pfsv.io:80/51162306/imagination.me/48
+#EXTINF:-1 tvg-logo="http://p6.vc/l" group-title="Canais | Abertos",RedeTv! FHD [H265]
+http://pfsv.io:80/51162306/imagination.me/30180
+#EXTINF:-1 tvg-logo="http://p6.vc/l" group-title="Canais | Abertos",RedeTV! HD
+http://pfsv.io:80/51162306/imagination.me/54
+#EXTINF:-1 tvg-logo="http://p6.vc/l" group-title="Canais | Abertos",RedeTV! SD
+http://pfsv.io:80/51162306/imagination.me/69
+#EXTINF:-1 tvg-logo="http://p6.vc/j" group-title="Canais | Abertos",SBT (PE) Caruaru HD
+http://pfsv.io:80/51162306/imagination.me/31316
+#EXTINF:-1 tvg-logo="http://p6.vc/j" group-title="Canais | Abertos",SBT BSB HD
+http://pfsv.io:80/51162306/imagination.me/59970
+#EXTINF:-1 tvg-logo="http://p6.vc/j" group-title="Canais | Abertos",SBT ES HD
+http://pfsv.io:80/51162306/imagination.me/59974
+#EXTINF:-1 tvg-logo="http://p6.vc/j" group-title="Canais | Abertos",SBT FHD [H265]
+http://pfsv.io:80/51162306/imagination.me/30179
+#EXTINF:-1 tvg-logo="http://p6.vc/j" group-title="Canais | Abertos",SBT Goias HD
+http://pfsv.io:80/51162306/imagination.me/34017
+#EXTINF:-1 tvg-logo="http://p6.vc/j" group-title="Canais | Abertos",SBT Interior SP SD
+http://pfsv.io:80/51162306/imagination.me/71
+#EXTINF:-1 tvg-logo="http://p6.vc/j" group-title="Canais | Abertos",SBT MG Tv Alterosa FHD
+http://pfsv.io:80/51162306/imagination.me/59966
+#EXTINF:-1 tvg-logo="http://p6.vc/j" group-title="Canais | Abertos",SBT MG Tv Alterosa HD
+http://pfsv.io:80/51162306/imagination.me/59965
+#EXTINF:-1 tvg-logo="http://p6.vc/j" group-title="Canais | Abertos",SBT Parana HD
+http://pfsv.io:80/51162306/imagination.me/59975
+#EXTINF:-1 tvg-logo="http://p6.vc/j" group-title="Canais | Abertos",SBT RJ FHD
+http://pfsv.io:80/51162306/imagination.me/50875
+#EXTINF:-1 tvg-logo="http://p6.vc/j" group-title="Canais | Abertos",SBT RJ HD
+http://pfsv.io:80/51162306/imagination.me/50874
+#EXTINF:-1 tvg-logo="http://p6.vc/j" group-title="Canais | Abertos",SBT RS HD
+http://pfsv.io:80/51162306/imagination.me/49111
+#EXTINF:-1 tvg-logo="http://p6.vc/j" group-title="Canais | Abertos",SBT SD
+http://pfsv.io:80/51162306/imagination.me/70
+#EXTINF:-1 tvg-logo="http://p6.vc/j" group-title="Canais | Abertos",SBT Sergipe Tv Aperiper HD
+http://pfsv.io:80/51162306/imagination.me/59971
+#EXTINF:-1 tvg-logo="http://p6.vc/j" group-title="Canais | Abertos",SBT SP FHD
+http://pfsv.io:80/51162306/imagination.me/46
+#EXTINF:-1 tvg-logo="http://p6.vc/j" group-title="Canais | Abertos",SBT SP HD
+http://pfsv.io:80/51162306/imagination.me/55
+#EXTINF:-1 tvg-logo="http://p6.vc/j" group-title="Canais | Abertos",SBT SP SD
+http://pfsv.io:80/51162306/imagination.me/59973
+#EXTINF:-1 tvg-logo="http://p6.vc/j" group-title="Canais | Abertos",SBT TV Aratu Bahia HD
+http://pfsv.io:80/51162306/imagination.me/34018
+#EXTINF:-1 tvg-logo="http://p6.vc/j" group-title="Canais | Abertos",SBT  TV Aratu Bahia HD
+http://pfsv.io:80/51162306/imagination.me/59972
+#EXTINF:-1 tvg-logo="http://p6.vc/j" group-title="Canais | Abertos",SBT TV Jornal Pernambuco SD
+http://pfsv.io:80/51162306/imagination.me/34020
+#EXTINF:-1 tvg-logo="http://p6.vc/j" group-title="Canais | Abertos",SBT TV Serra Dourada FHD[H265]
+http://pfsv.io:80/51162306/imagination.me/59968
+#EXTINF:-1 tvg-logo="http://p6.vc/j" group-title="Canais | Abertos",SBT Tv Serra Dourada HD
+http://pfsv.io:80/51162306/imagination.me/59967
+#EXTINF:-1 tvg-logo="http://p6.vc/u" group-title="Canais | Abertos",Terra Viva SD
+http://pfsv.io:80/51162306/imagination.me/88
+#EXTINF:-1 tvg-logo="http://p6.vc/v" group-title="Canais | Abertos",TV Brasil SD
+http://pfsv.io:80/51162306/imagination.me/89
+#EXTINF:-1 tvg-logo="http://p6.vc/p" group-title="Canais | Abertos",TV Camara SD
+http://pfsv.io:80/51162306/imagination.me/74
+#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",TV CI SD
+http://pfsv.io:80/51162306/imagination.me/55343
+#EXTINF:-1 tvg-logo="http://p6.vc/k" group-title="Canais | Abertos",TV Cultura FHD
+http://pfsv.io:80/51162306/imagination.me/47
+#EXTINF:-1 tvg-logo="http://p6.vc/k" group-title="Canais | Abertos",TV Cultura FHD [H265]
+http://pfsv.io:80/51162306/imagination.me/30183
+#EXTINF:-1 tvg-logo="http://p6.vc/k" group-title="Canais | Abertos",TV Cultura HD
+http://pfsv.io:80/51162306/imagination.me/64
+#EXTINF:-1 tvg-logo="http://p6.vc/k" group-title="Canais | Abertos",TV Cultura SD
+http://pfsv.io:80/51162306/imagination.me/90
+#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",TV Diario Sertao SD
+http://pfsv.io:80/51162306/imagination.me/55193
+#EXTINF:-1 tvg-logo="http://p6.vc/q" group-title="Canais | Abertos",TV Escola SD
+http://pfsv.io:80/51162306/imagination.me/75
+#EXTINF:-1 tvg-logo="http://p6.vc/m" group-title="Canais | Abertos",TV Gazeta SP FHD
+http://pfsv.io:80/51162306/imagination.me/49
+#EXTINF:-1 tvg-logo="http://p6.vc/m" group-title="Canais | Abertos",Tv Gazeta SP FHD [H265]
+http://pfsv.io:80/51162306/imagination.me/30189
+#EXTINF:-1 tvg-logo="http://p6.vc/m" group-title="Canais | Abertos",TV Gazeta SP HD
+http://pfsv.io:80/51162306/imagination.me/56
+#EXTINF:-1 tvg-logo="http://p6.vc/m" group-title="Canais | Abertos",TV Gazeta SP SD
+http://pfsv.io:80/51162306/imagination.me/82
+#EXTINF:-1 tvg-logo="http://p6.vc/o" group-title="Canais | Abertos",TV Justica SD
+http://pfsv.io:80/51162306/imagination.me/73
+#EXTINF:-1 tvg-logo="http://p6.vc/n" group-title="Canais | Abertos",TV Senado SD
+http://pfsv.io:80/51162306/imagination.me/72
+#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",TV Univesp FHD
+http://pfsv.io:80/51162306/imagination.me/50881
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/univesp.png" group-title="Canais | Abertos",TV Univesp HD
+http://pfsv.io:80/51162306/imagination.me/1066
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/univesp.png" group-title="Canais | Abertos",TV Univesp SD
+http://pfsv.io:80/51162306/imagination.me/1067
+#EXTINF:-1 tvg-logo="http://p6.vc/Sa" group-title="Canais | Adultos",[XXX] AST TV 1 FHD
+http://pfsv.io:80/51162306/imagination.me/44244
+#EXTINF:-1 tvg-logo="http://p6.vc/Sa" group-title="Canais | Adultos",[XXX] AST TV 1 HD
+http://pfsv.io:80/51162306/imagination.me/44245
+#EXTINF:-1 tvg-logo="http://p6.vc/Sa" group-title="Canais | Adultos",[XXX] AST TV 2 FHD
+http://pfsv.io:80/51162306/imagination.me/44242
+#EXTINF:-1 tvg-logo="http://p6.vc/Sa" group-title="Canais | Adultos",[XXX] AST TV 2 HD
+http://pfsv.io:80/51162306/imagination.me/44243
+#EXTINF:-1 tvg-logo="http://p6.vc/Sa" group-title="Canais | Adultos",[XXX] Babestation 24H
+http://pfsv.io:80/51162306/imagination.me/44241
+#EXTINF:-1 tvg-logo="http://p6.vc/Sa" group-title="Canais | Adultos",[XXX] Brazzers
+http://pfsv.io:80/51162306/imagination.me/44190
+#EXTINF:-1 tvg-logo="http://p6.vc/Sa" group-title="Canais | Adultos",[XXX] Club Hot
+http://pfsv.io:80/51162306/imagination.me/44185
+#EXTINF:-1 tvg-logo="http://p6.vc/Sa" group-title="Canais | Adultos",[XXX] For Man
+http://pfsv.io:80/51162306/imagination.me/44222
+#EXTINF:-1 tvg-logo="http://p6.vc/Sa" group-title="Canais | Adultos",[XXX] Jasmin TV SD
+http://pfsv.io:80/51162306/imagination.me/44191
+#EXTINF:-1 tvg-logo="http://p6.vc/Sa" group-title="Canais | Adultos",[XXX] Lovenight SD
+http://pfsv.io:80/51162306/imagination.me/44187
+#EXTINF:-1 tvg-logo="http://p6.vc/Sa" group-title="Canais | Adultos",[XXX] Miami TV
+http://pfsv.io:80/51162306/imagination.me/44240
+#EXTINF:-1 tvg-logo="http://p6.vc/Sa" group-title="Canais | Adultos",[XXX] Miami TV Jenny Live
+http://pfsv.io:80/51162306/imagination.me/44239
+#EXTINF:-1 tvg-logo="http://p6.vc/Sa" group-title="Canais | Adultos",[XXX] Penthouse
+http://pfsv.io:80/51162306/imagination.me/44188
+#EXTINF:-1 tvg-logo="http://p6.vc/Sa" group-title="Canais | Adultos",[XXX] Playboy FHD
+http://pfsv.io:80/51162306/imagination.me/44216
+#EXTINF:-1 tvg-logo="http://p6.vc/Sa" group-title="Canais | Adultos",[XXX] Playboy FHD [H265]
+http://pfsv.io:80/51162306/imagination.me/44158
+#EXTINF:-1 tvg-logo="http://p6.vc/Sa" group-title="Canais | Adultos",[XXX] Playboy HD
+http://pfsv.io:80/51162306/imagination.me/44154
+#EXTINF:-1 tvg-logo="http://p6.vc/Sa" group-title="Canais | Adultos",[XXX] Playboy SD
+http://pfsv.io:80/51162306/imagination.me/44153
+#EXTINF:-1 tvg-logo="http://p6.vc/Sa" group-title="Canais | Adultos",[XXX] Pornhub SD
+http://pfsv.io:80/51162306/imagination.me/44186
+#EXTINF:-1 tvg-logo="http://p6.vc/Sa" group-title="Canais | Adultos",[XXX] Porno 4K
+http://pfsv.io:80/51162306/imagination.me/44152
+#EXTINF:-1 tvg-logo="http://p6.vc/Sa" group-title="Canais | Adultos",[XXX] Sextreme HD
+http://pfsv.io:80/51162306/imagination.me/44219
+#EXTINF:-1 tvg-logo="http://p6.vc/Sa" group-title="Canais | Adultos",[XXX] Sextreme SD
+http://pfsv.io:80/51162306/imagination.me/44155
+#EXTINF:-1 tvg-logo="http://p6.vc/Sa" group-title="Canais | Adultos",[XXX] Sexy Hot FHD
+http://pfsv.io:80/51162306/imagination.me/44217
+#EXTINF:-1 tvg-logo="http://p6.vc/Sa" group-title="Canais | Adultos",[XXX] Sexy Hot FHD [H265]
+http://pfsv.io:80/51162306/imagination.me/44159
+#EXTINF:-1 tvg-logo="http://p6.vc/Sa" group-title="Canais | Adultos",[XXX] Sexy Hot  HD
+http://pfsv.io:80/51162306/imagination.me/44218
+#EXTINF:-1 tvg-logo="http://p6.vc/Sa" group-title="Canais | Adultos",[XXX] Sexy Hot SD
+http://pfsv.io:80/51162306/imagination.me/44156
+#EXTINF:-1 tvg-logo="http://p6.vc/Sa" group-title="Canais | Adultos",[XXX] Venus FHD [H265]
+http://pfsv.io:80/51162306/imagination.me/44160
+#EXTINF:-1 tvg-logo="http://p6.vc/Sa" group-title="Canais | Adultos",[XXX] VENUS HD
+http://pfsv.io:80/51162306/imagination.me/44220
+#EXTINF:-1 tvg-logo="http://p6.vc/Sa" group-title="Canais | Adultos",[XXX] Venus SD
+http://pfsv.io:80/51162306/imagination.me/44157
+#EXTINF:-1 tvg-logo="http://p6.vc/Sa" group-title="Canais | Adultos",[XXX] Visit-X TV
+http://pfsv.io:80/51162306/imagination.me/44263
+#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos [24HR]",[XXX] Adult Time
+http://pfsv.io:80/51162306/imagination.me/58248
+#EXTINF:-1 tvg-logo="http://p6.vc/Sa" group-title="Canais | Adultos [24HR]",[XXX] ADULTO 1
+http://pfsv.io:80/51162306/imagination.me/44181
+#EXTINF:-1 tvg-logo="http://p6.vc/Sa" group-title="Canais | Adultos [24HR]",[XXX] ADULTO 10
+http://pfsv.io:80/51162306/imagination.me/44175
+#EXTINF:-1 tvg-logo="http://p6.vc/Sa" group-title="Canais | Adultos [24HR]",[XXX] ADULTO 2
+http://pfsv.io:80/51162306/imagination.me/44184
+#EXTINF:-1 tvg-logo="http://p6.vc/Sa" group-title="Canais | Adultos [24HR]",[XXX] ADULTO 3
+http://pfsv.io:80/51162306/imagination.me/44183
+#EXTINF:-1 tvg-logo="http://p6.vc/Sa" group-title="Canais | Adultos [24HR]",[XXX] ADULTO 4
+http://pfsv.io:80/51162306/imagination.me/44182
+#EXTINF:-1 tvg-logo="http://p6.vc/Sa" group-title="Canais | Adultos [24HR]",[XXX] ADULTO 5
+http://pfsv.io:80/51162306/imagination.me/44180
+#EXTINF:-1 tvg-logo="http://p6.vc/Sa" group-title="Canais | Adultos [24HR]",[XXX] ADULTO 6
+http://pfsv.io:80/51162306/imagination.me/44179
+#EXTINF:-1 tvg-logo="http://p6.vc/Sa" group-title="Canais | Adultos [24HR]",[XXX] ADULTO 7
+http://pfsv.io:80/51162306/imagination.me/44178
+#EXTINF:-1 tvg-logo="http://p6.vc/Sa" group-title="Canais | Adultos [24HR]",[XXX] ADULTO 8
+http://pfsv.io:80/51162306/imagination.me/44177
+#EXTINF:-1 tvg-logo="http://p6.vc/Sa" group-title="Canais | Adultos [24HR]",[XXX] ADULTO 9
+http://pfsv.io:80/51162306/imagination.me/44176
+#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos [24HR]",[XXX] Alice Bong
+http://pfsv.io:80/51162306/imagination.me/58259
+#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos [24HR]",[XXX] Amadoras Famosas
+http://pfsv.io:80/51162306/imagination.me/58251
+#EXTINF:-1 tvg-logo="http://p6.vc/Sa" group-title="Canais | Adultos [24HR]",[XXX] Anal
+http://pfsv.io:80/51162306/imagination.me/44233
+#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos [24HR]",[XXX] As Safadas Brasil
+http://pfsv.io:80/51162306/imagination.me/58297
+#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos [24HR]",[XXX] Blacked
+http://pfsv.io:80/51162306/imagination.me/58218
+#EXTINF:-1 tvg-logo="http://p6.vc/Sa" group-title="Canais | Adultos [24HR]",[XXX] Boquete
+http://pfsv.io:80/51162306/imagination.me/44230
+#EXTINF:-1 tvg-logo="http://p6.vc/Sa" group-title="Canais | Adultos [24HR]",[XXX] BRASILEIRINHAS: BIG MACK
+http://pfsv.io:80/51162306/imagination.me/44251
+#EXTINF:-1 tvg-logo="http://p6.vc/Sa" group-title="Canais | Adultos [24HR]",[XXX] Bunda Grande
+http://pfsv.io:80/51162306/imagination.me/44234
+#EXTINF:-1 tvg-logo="http://p6.vc/Sa" group-title="Canais | Adultos [24HR]",[XXX] Cameras ao Vivo
+http://pfsv.io:80/51162306/imagination.me/44228
+#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos [24HR]",[XXX] Clube 17
+http://pfsv.io:80/51162306/imagination.me/58257
+#EXTINF:-1 tvg-logo="http://p6.vc/Sa" group-title="Canais | Adultos [24HR]",[XXX] Compilation
+http://pfsv.io:80/51162306/imagination.me/44236
+#EXTINF:-1 tvg-logo="http://p6.vc/Sa" group-title="Canais | Adultos [24HR]",[XXX] Cornos
+http://pfsv.io:80/51162306/imagination.me/44232
+#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos [24HR]",[XXX] Cornos 2
+http://pfsv.io:80/51162306/imagination.me/58223
+#EXTINF:-1 tvg-logo="http://p6.vc/Sa" group-title="Canais | Adultos [24HR]",[XXX] Coroas Gostosas
+http://pfsv.io:80/51162306/imagination.me/44237
+#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos [24HR]",[XXX] Cosplay
+http://pfsv.io:80/51162306/imagination.me/58238
+#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos [24HR]",[XXX] DreadHot
+http://pfsv.io:80/51162306/imagination.me/58224
+#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos [24HR]",[XXX] Drive By Girls
+http://pfsv.io:80/51162306/imagination.me/58294
+#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos [24HR]",[XXX] Eleganxia
+http://pfsv.io:80/51162306/imagination.me/58295
+#EXTINF:-1 tvg-logo="http://p6.vc/Sa" group-title="Canais | Adultos [24HR]",[XXX] Erotic
+http://pfsv.io:80/51162306/imagination.me/44189
+#EXTINF:-1 tvg-logo="http://p6.vc/Sa" group-title="Canais | Adultos [24HR]",[XXX] Estrela Porno
+http://pfsv.io:80/51162306/imagination.me/44224
+#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos [24HR]",[XXX] Euro Teens
+http://pfsv.io:80/51162306/imagination.me/58255
+#EXTINF:-1 tvg-logo="http://p6.vc/Sa" group-title="Canais | Adultos [24HR]",[XXX] Fetiches
+http://pfsv.io:80/51162306/imagination.me/44229
+#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos [24HR]",[XXX] First Anal Quest
+http://pfsv.io:80/51162306/imagination.me/58219
+#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos [24HR]",[XXX] Fucking Machines
+http://pfsv.io:80/51162306/imagination.me/58236
+#EXTINF:-1 tvg-logo="http://p6.vc/Sa" group-title="Canais | Adultos [24HR]",[XXX] Gangbang
+http://pfsv.io:80/51162306/imagination.me/44258
+#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos [24HR]",[XXX] Gozada na Calcinha
+http://pfsv.io:80/51162306/imagination.me/58234
+#EXTINF:-1 tvg-logo="http://p6.vc/Sa" group-title="Canais | Adultos [24HR]",[XXX] Hardcore
+http://pfsv.io:80/51162306/imagination.me/44259
+#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos [24HR]",[XXX] Hot Bikini
+http://pfsv.io:80/51162306/imagination.me/58256
+#EXTINF:-1 tvg-logo="http://p6.vc/Sa" group-title="Canais | Adultos [24HR]",[XXX] Interracial
+http://pfsv.io:80/51162306/imagination.me/44260
+#EXTINF:-1 tvg-logo="http://p6.vc/Sa" group-title="Canais | Adultos [24HR]",[XXX] Jovens
+http://pfsv.io:80/51162306/imagination.me/44227
+#EXTINF:-1 tvg-logo="http://p6.vc/Sa" group-title="Canais | Adultos [24HR]",[XXX] Latina
+http://pfsv.io:80/51162306/imagination.me/44225
+#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos [24HR]",[XXX] Legalporno
+http://pfsv.io:80/51162306/imagination.me/58253
+#EXTINF:-1 tvg-logo="http://p6.vc/Sa" group-title="Canais | Adultos [24HR]",[XXX] Lesbicas
+http://pfsv.io:80/51162306/imagination.me/44231
+#EXTINF:-1 tvg-logo="http://p6.vc/Sa" group-title="Canais | Adultos [24HR]",[XXX] Loiras
+http://pfsv.io:80/51162306/imagination.me/44221
+#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos [24HR]",[XXX] Loupan
+http://pfsv.io:80/51162306/imagination.me/58249
+#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos [24HR]",[XXX] Made in Canarias
+http://pfsv.io:80/51162306/imagination.me/58254
+#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos [24HR]",[XXX] Manu Karv
+http://pfsv.io:80/51162306/imagination.me/58298
+#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos [24HR]",[XXX] Mia Lins
+http://pfsv.io:80/51162306/imagination.me/58299
+#EXTINF:-1 tvg-logo="http://p6.vc/Sa" group-title="Canais | Adultos [24HR]",[XXX] Morenas
+http://pfsv.io:80/51162306/imagination.me/44235
+#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos [24HR]",[XXX] Namoradas
+http://pfsv.io:80/51162306/imagination.me/58258
+#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos [24HR]",[XXX] NoFaceGirl
+http://pfsv.io:80/51162306/imagination.me/58252
+#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos [24HR]",[XXX] Novinhas
+http://pfsv.io:80/51162306/imagination.me/58301
+#EXTINF:-1 tvg-logo="http://p6.vc/Sa" group-title="Canais | Adultos [24HR]",[XXX] Ondemand 1
+http://pfsv.io:80/51162306/imagination.me/44201
+#EXTINF:-1 tvg-logo="http://p6.vc/Sa" group-title="Canais | Adultos [24HR]",[XXX] Ondemand 10
+http://pfsv.io:80/51162306/imagination.me/44192
+#EXTINF:-1 tvg-logo="http://p6.vc/Sa" group-title="Canais | Adultos [24HR]",[XXX] Ondemand 11
+http://pfsv.io:80/51162306/imagination.me/44193
+#EXTINF:-1 tvg-logo="http://p6.vc/Sa" group-title="Canais | Adultos [24HR]",[XXX] Ondemand 12
+http://pfsv.io:80/51162306/imagination.me/44210
+#EXTINF:-1 tvg-logo="http://p6.vc/Sa" group-title="Canais | Adultos [24HR]",[XXX] Ondemand 13
+http://pfsv.io:80/51162306/imagination.me/44211
+#EXTINF:-1 tvg-logo="http://p6.vc/Sa" group-title="Canais | Adultos [24HR]",[XXX] Ondemand 14
+http://pfsv.io:80/51162306/imagination.me/44194
+#EXTINF:-1 tvg-logo="http://p6.vc/Sa" group-title="Canais | Adultos [24HR]",[XXX] Ondemand 15
+http://pfsv.io:80/51162306/imagination.me/44195
+#EXTINF:-1 tvg-logo="http://p6.vc/Sa" group-title="Canais | Adultos [24HR]",[XXX] Ondemand 16
+http://pfsv.io:80/51162306/imagination.me/44196
+#EXTINF:-1 tvg-logo="http://p6.vc/Sa" group-title="Canais | Adultos [24HR]",[XXX] Ondemand 17
+http://pfsv.io:80/51162306/imagination.me/44212
+#EXTINF:-1 tvg-logo="http://p6.vc/Sa" group-title="Canais | Adultos [24HR]",[XXX] Ondemand 18
+http://pfsv.io:80/51162306/imagination.me/44213
+#EXTINF:-1 tvg-logo="http://p6.vc/Sa" group-title="Canais | Adultos [24HR]",[XXX] Ondemand 19
+http://pfsv.io:80/51162306/imagination.me/44197
+#EXTINF:-1 tvg-logo="http://p6.vc/Sa" group-title="Canais | Adultos [24HR]",[XXX] Ondemand 2
+http://pfsv.io:80/51162306/imagination.me/44202
+#EXTINF:-1 tvg-logo="http://p6.vc/Sa" group-title="Canais | Adultos [24HR]",[XXX] Ondemand 20
+http://pfsv.io:80/51162306/imagination.me/44198
+#EXTINF:-1 tvg-logo="http://p6.vc/Sa" group-title="Canais | Adultos [24HR]",[XXX] Ondemand 21
+http://pfsv.io:80/51162306/imagination.me/44199
+#EXTINF:-1 tvg-logo="http://p6.vc/Sa" group-title="Canais | Adultos [24HR]",[XXX] Ondemand 22
+http://pfsv.io:80/51162306/imagination.me/44200
+#EXTINF:-1 tvg-logo="http://p6.vc/Sa" group-title="Canais | Adultos [24HR]",[XXX] Ondemand 23
+http://pfsv.io:80/51162306/imagination.me/44214
+#EXTINF:-1 tvg-logo="http://p6.vc/Sa" group-title="Canais | Adultos [24HR]",[XXX] Ondemand 24
+http://pfsv.io:80/51162306/imagination.me/44215
+#EXTINF:-1 tvg-logo="http://p6.vc/Sa" group-title="Canais | Adultos [24HR]",[XXX] Ondemand 3
+http://pfsv.io:80/51162306/imagination.me/44203
+#EXTINF:-1 tvg-logo="http://p6.vc/Sa" group-title="Canais | Adultos [24HR]",[XXX] Ondemand 4
+http://pfsv.io:80/51162306/imagination.me/44204
+#EXTINF:-1 tvg-logo="http://p6.vc/Sa" group-title="Canais | Adultos [24HR]",[XXX] Ondemand 5
+http://pfsv.io:80/51162306/imagination.me/44205
+#EXTINF:-1 tvg-logo="http://p6.vc/Sa" group-title="Canais | Adultos [24HR]",[XXX] Ondemand 6
+http://pfsv.io:80/51162306/imagination.me/44206
+#EXTINF:-1 tvg-logo="http://p6.vc/Sa" group-title="Canais | Adultos [24HR]",[XXX] Ondemand 7
+http://pfsv.io:80/51162306/imagination.me/44207
+#EXTINF:-1 tvg-logo="http://p6.vc/Sa" group-title="Canais | Adultos [24HR]",[XXX] Ondemand 8
+http://pfsv.io:80/51162306/imagination.me/44208
+#EXTINF:-1 tvg-logo="http://p6.vc/Sa" group-title="Canais | Adultos [24HR]",[XXX] Ondemand 9
+http://pfsv.io:80/51162306/imagination.me/44209
+#EXTINF:-1 tvg-logo="http://p6.vc/Sa" group-title="Canais | Adultos [24HR]",[XXX] Pau Grande
+http://pfsv.io:80/51162306/imagination.me/44257
+#EXTINF:-1 tvg-logo="http://p6.vc/Sa" group-title="Canais | Adultos [24HR]",[XXX] Peito Grande
+http://pfsv.io:80/51162306/imagination.me/44223
+#EXTINF:-1 tvg-logo="http://p6.vc/Sa" group-title="Canais | Adultos [24HR]",[XXX] Porno 24H
+http://pfsv.io:80/51162306/imagination.me/44256
+#EXTINF:-1 tvg-logo="http://p6.vc/Sa" group-title="Canais | Adultos [24HR]",[XXX] POV
+http://pfsv.io:80/51162306/imagination.me/44226
+#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos [24HR]",[XXX] Praia
+http://pfsv.io:80/51162306/imagination.me/58262
+#EXTINF:-1 tvg-logo="http://p6.vc/Sa" group-title="Canais | Adultos [24HR]",[XXX] Rough
+http://pfsv.io:80/51162306/imagination.me/44261
+#EXTINF:-1 tvg-logo="http://p6.vc/Sa" group-title="Canais | Adultos [24HR]",[XXX] Russas
+http://pfsv.io:80/51162306/imagination.me/44238
+#EXTINF:-1 tvg-logo="http://p6.vc/Sa" group-title="Canais | Adultos [24HR]",[XXX] Sexo a Tres
+http://pfsv.io:80/51162306/imagination.me/44262
+#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos [24HR]",[XXX] Siswet e Brinquedos
+http://pfsv.io:80/51162306/imagination.me/58235
+#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos [24HR]",[XXX] Sweetfox
+http://pfsv.io:80/51162306/imagination.me/58250
+#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos [24HR]",[XXX] Só Brasileiras
+http://pfsv.io:80/51162306/imagination.me/58304
+#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos [24HR]",[XXX] Teens Fucking
+http://pfsv.io:80/51162306/imagination.me/58261
+#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos [24HR]",[XXX] Vida Erótica
+http://pfsv.io:80/51162306/imagination.me/58263
+#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos [24HR]",[XXX] [Trans] GenderX
+http://pfsv.io:80/51162306/imagination.me/58241
+#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos [24HR]",[XXX] [Trans] Natalie Mars
+http://pfsv.io:80/51162306/imagination.me/58217
+#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos [24HR]",[XXX][Trans] TransErotica
+http://pfsv.io:80/51162306/imagination.me/58296
+#EXTINF:-1 tvg-logo="http://p6.vc/ca" group-title="Canais | Conmebol",Conmebol TV 01 HD [D]
+http://pfsv.io:80/51162306/imagination.me/65585
+#EXTINF:-1 tvg-logo="http://p6.vc/ca" group-title="Canais | Conmebol",Conmebol TV 02 HD [D]
+http://pfsv.io:80/51162306/imagination.me/65586
+#EXTINF:-1 tvg-logo="http://p6.vc/ca" group-title="Canais | Conmebol",Conmebol TV 03 HD [D]
+http://pfsv.io:80/51162306/imagination.me/65587
+#EXTINF:-1 tvg-logo="http://p6.vc/ca" group-title="Canais | Conmebol",Conmebol TV 1 FHD [B]
+http://pfsv.io:80/51162306/imagination.me/65565
+#EXTINF:-1 tvg-logo="http://p6.vc/ca" group-title="Canais | Conmebol",Conmebol TV 1 FHD [C]
+http://pfsv.io:80/51162306/imagination.me/65573
+#EXTINF:-1 tvg-logo="http://p6.vc/ca" group-title="Canais | Conmebol",Conmebol TV 1 HD [A]
+http://pfsv.io:80/51162306/imagination.me/65561
+#EXTINF:-1 tvg-logo="http://p6.vc/ca" group-title="Canais | Conmebol",Conmebol TV 1 HD [B]
+http://pfsv.io:80/51162306/imagination.me/65569
+#EXTINF:-1 tvg-logo="http://p6.vc/ca" group-title="Canais | Conmebol",Conmebol TV 1 HD [C]
+http://pfsv.io:80/51162306/imagination.me/65577
+#EXTINF:-1 tvg-logo="http://p6.vc/ca" group-title="Canais | Conmebol",Conmebol TV 1 SD [C]
+http://pfsv.io:80/51162306/imagination.me/65581
+#EXTINF:-1 tvg-logo="http://p6.vc/ca" group-title="Canais | Conmebol",Conmebol  TV 2 FHD [B]
+http://pfsv.io:80/51162306/imagination.me/65566
+#EXTINF:-1 tvg-logo="http://p6.vc/ca" group-title="Canais | Conmebol",Conmebol TV 2 FHD [C]
+http://pfsv.io:80/51162306/imagination.me/65574
+#EXTINF:-1 tvg-logo="http://p6.vc/ca" group-title="Canais | Conmebol",Conmebol TV 2 HD [A]
+http://pfsv.io:80/51162306/imagination.me/65562
+#EXTINF:-1 tvg-logo="http://p6.vc/ca" group-title="Canais | Conmebol",Conmebol TV 2 HD [B]
+http://pfsv.io:80/51162306/imagination.me/65570
+#EXTINF:-1 tvg-logo="http://p6.vc/ca" group-title="Canais | Conmebol",Conmebol TV 2 HD [C]
+http://pfsv.io:80/51162306/imagination.me/65578
+#EXTINF:-1 tvg-logo="http://p6.vc/ca" group-title="Canais | Conmebol",Conmebol TV 2 SD [C]
+http://pfsv.io:80/51162306/imagination.me/65582
+#EXTINF:-1 tvg-logo="http://p6.vc/ca" group-title="Canais | Conmebol",Conmebol TV 3 FHD [B]
+http://pfsv.io:80/51162306/imagination.me/65567
+#EXTINF:-1 tvg-logo="http://p6.vc/ca" group-title="Canais | Conmebol",Conmebol TV 3 FHD [C]
+http://pfsv.io:80/51162306/imagination.me/65575
+#EXTINF:-1 tvg-logo="http://p6.vc/ca" group-title="Canais | Conmebol",Conmebol TV 3 HD [A]
+http://pfsv.io:80/51162306/imagination.me/65563
+#EXTINF:-1 tvg-logo="http://p6.vc/ca" group-title="Canais | Conmebol",Conmebol TV 3 HD [B]
+http://pfsv.io:80/51162306/imagination.me/65571
+#EXTINF:-1 tvg-logo="http://p6.vc/ca" group-title="Canais | Conmebol",Conmebol TV 3 HD [C]
+http://pfsv.io:80/51162306/imagination.me/65579
+#EXTINF:-1 tvg-logo="http://p6.vc/ca" group-title="Canais | Conmebol",Conmebol TV 3 SD [C]
+http://pfsv.io:80/51162306/imagination.me/65583
+#EXTINF:-1 tvg-logo="http://p6.vc/ca" group-title="Canais | Conmebol",Conmebol TV 4 FHD [B]
+http://pfsv.io:80/51162306/imagination.me/65568
+#EXTINF:-1 tvg-logo="http://p6.vc/ca" group-title="Canais | Conmebol",Conmebol TV 4 FHD [C]
+http://pfsv.io:80/51162306/imagination.me/65576
+#EXTINF:-1 tvg-logo="http://p6.vc/ca" group-title="Canais | Conmebol",Conmebol TV 4 HD [A]
+http://pfsv.io:80/51162306/imagination.me/65564
+#EXTINF:-1 tvg-logo="http://p6.vc/ca" group-title="Canais | Conmebol",Conmebol TV 4 HD [B]
+http://pfsv.io:80/51162306/imagination.me/65572
+#EXTINF:-1 tvg-logo="http://p6.vc/ca" group-title="Canais | Conmebol",Conmebol TV 4 HD [C]
+http://pfsv.io:80/51162306/imagination.me/65580
+#EXTINF:-1 tvg-logo="http://p6.vc/ca" group-title="Canais | Conmebol",Conmebol TV 4 HD [D]
+http://pfsv.io:80/51162306/imagination.me/65588
+#EXTINF:-1 tvg-logo="http://p6.vc/ca" group-title="Canais | Conmebol",Conmebol TV 4 SD [C]
+http://pfsv.io:80/51162306/imagination.me/65584
+#EXTINF:-1 tvg-logo="http://p6.vc/bb" group-title="Canais | Documentários",Animal Planet FHD
+http://pfsv.io:80/51162306/imagination.me/164
+#EXTINF:-1 tvg-logo="http://p6.vc/bb" group-title="Canais | Documentários",Animal Planet FHD [H265]
+http://pfsv.io:80/51162306/imagination.me/30248
+#EXTINF:-1 tvg-logo="http://p6.vc/bb" group-title="Canais | Documentários",Animal Planet HD
+http://pfsv.io:80/51162306/imagination.me/179
+#EXTINF:-1 tvg-logo="http://p6.vc/bb" group-title="Canais | Documentários",Animal Planet SD
+http://pfsv.io:80/51162306/imagination.me/194
+#EXTINF:-1 tvg-logo="http://p6.vc/eKY" group-title="Canais | Documentários",Arte 1 FHD
+http://pfsv.io:80/51162306/imagination.me/165
+#EXTINF:-1 tvg-logo="http://p6.vc/eKY" group-title="Canais | Documentários",Arte 1 FHD [H265]
+http://pfsv.io:80/51162306/imagination.me/30249
+#EXTINF:-1 tvg-logo="http://p6.vc/eKY" group-title="Canais | Documentários",Arte 1 HD
+http://pfsv.io:80/51162306/imagination.me/180
+#EXTINF:-1 tvg-logo="http://p6.vc/eKY" group-title="Canais | Documentários",Arte 1 SD
+http://pfsv.io:80/51162306/imagination.me/195
+#EXTINF:-1 tvg-logo="http://p6.vc/9" group-title="Canais | Documentários",Discovery Channel FHD
+http://pfsv.io:80/51162306/imagination.me/166
+#EXTINF:-1 tvg-logo="http://p6.vc/9" group-title="Canais | Documentários",Discovery Channel FHD [H265]
+http://pfsv.io:80/51162306/imagination.me/30260
+#EXTINF:-1 tvg-logo="http://p6.vc/9" group-title="Canais | Documentários",Discovery Channel HD
+http://pfsv.io:80/51162306/imagination.me/181
+#EXTINF:-1 tvg-logo="http://p6.vc/9" group-title="Canais | Documentários",Discovery Channel SD
+http://pfsv.io:80/51162306/imagination.me/196
+#EXTINF:-1 tvg-logo="http://p6.vc/eK0" group-title="Canais | Documentários",Discovery Home & Health FHD
+http://pfsv.io:80/51162306/imagination.me/168
+#EXTINF:-1 tvg-logo="http://p6.vc/eK0" group-title="Canais | Documentários",Discovery Home & Health HD
+http://pfsv.io:80/51162306/imagination.me/183
+#EXTINF:-1 tvg-logo="http://p6.vc/eK0" group-title="Canais | Documentários",Discovery Home & Health SD
+http://pfsv.io:80/51162306/imagination.me/198
+#EXTINF:-1 tvg-logo="http://p6.vc/eK0" group-title="Canais | Documentários",Discovery Home&Health FHD[H265]
+http://pfsv.io:80/51162306/imagination.me/30254
+#EXTINF:-1 tvg-logo="http://p6.vc/eK1" group-title="Canais | Documentários",Discovery Science FHD
+http://pfsv.io:80/51162306/imagination.me/169
+#EXTINF:-1 tvg-logo="http://p6.vc/eK1" group-title="Canais | Documentários",Discovery Science FHD [H265]
+http://pfsv.io:80/51162306/imagination.me/30255
+#EXTINF:-1 tvg-logo="http://p6.vc/eK1" group-title="Canais | Documentários",Discovery Science HD
+http://pfsv.io:80/51162306/imagination.me/184
+#EXTINF:-1 tvg-logo="http://p6.vc/eK1" group-title="Canais | Documentários",Discovery Science SD
+http://pfsv.io:80/51162306/imagination.me/199
+#EXTINF:-1 tvg-logo="http://p6.vc/eK2" group-title="Canais | Documentários",Discovery Theater FHD
+http://pfsv.io:80/51162306/imagination.me/170
+#EXTINF:-1 tvg-logo="http://p6.vc/eK2" group-title="Canais | Documentários",Discovery Theater FHD [H265]
+http://pfsv.io:80/51162306/imagination.me/30256
+#EXTINF:-1 tvg-logo="http://p6.vc/eK2" group-title="Canais | Documentários",Discovery Theater HD
+http://pfsv.io:80/51162306/imagination.me/185
+#EXTINF:-1 tvg-logo="http://p6.vc/eK2" group-title="Canais | Documentários",Discovery Theater SD
+http://pfsv.io:80/51162306/imagination.me/200
+#EXTINF:-1 tvg-logo="http://p6.vc/eK3" group-title="Canais | Documentários",Discovery Turbo FHD
+http://pfsv.io:80/51162306/imagination.me/171
+#EXTINF:-1 tvg-logo="http://p6.vc/eK3" group-title="Canais | Documentários",Discovery Turbo FHD [H265]
+http://pfsv.io:80/51162306/imagination.me/30257
+#EXTINF:-1 tvg-logo="http://p6.vc/eK3" group-title="Canais | Documentários",Discovery Turbo HD
+http://pfsv.io:80/51162306/imagination.me/186
+#EXTINF:-1 tvg-logo="http://p6.vc/eK3" group-title="Canais | Documentários",Discovery Turbo SD
+http://pfsv.io:80/51162306/imagination.me/201
+#EXTINF:-1 tvg-logo="http://p6.vc/eK4" group-title="Canais | Documentários",Discovery World FHD
+http://pfsv.io:80/51162306/imagination.me/172
+#EXTINF:-1 tvg-logo="http://p6.vc/eK4" group-title="Canais | Documentários",Discovery World FHD [H265]
+http://pfsv.io:80/51162306/imagination.me/30258
+#EXTINF:-1 tvg-logo="http://p6.vc/eK4" group-title="Canais | Documentários",Discovery World HD
+http://pfsv.io:80/51162306/imagination.me/187
+#EXTINF:-1 tvg-logo="http://p6.vc/eK4" group-title="Canais | Documentários",Discovery World SD
+http://pfsv.io:80/51162306/imagination.me/202
+#EXTINF:-1 tvg-logo="http://p6.vc/eKZ" group-title="Canais | Documentários",HGTV FHD
+http://pfsv.io:80/51162306/imagination.me/167
+#EXTINF:-1 tvg-logo="http://p6.vc/eKZ" group-title="Canais | Documentários",HGTV FHD [H265]
+http://pfsv.io:80/51162306/imagination.me/30253
+#EXTINF:-1 tvg-logo="http://p6.vc/eKZ" group-title="Canais | Documentários",HGTV HD
+http://pfsv.io:80/51162306/imagination.me/182
+#EXTINF:-1 tvg-logo="http://p6.vc/eKZ" group-title="Canais | Documentários",HGTV SD
+http://pfsv.io:80/51162306/imagination.me/197
+#EXTINF:-1 tvg-logo="http://p6.vc/eK5" group-title="Canais | Documentários",History Channel 2 FHD
+http://pfsv.io:80/51162306/imagination.me/173
+#EXTINF:-1 tvg-logo="http://p6.vc/eK5" group-title="Canais | Documentários",History Channel 2 FHD [H265]
+http://pfsv.io:80/51162306/imagination.me/30262
+#EXTINF:-1 tvg-logo="http://p6.vc/eK5" group-title="Canais | Documentários",History Channel 2 HD
+http://pfsv.io:80/51162306/imagination.me/188
+#EXTINF:-1 tvg-logo="http://p6.vc/eK5" group-title="Canais | Documentários",History Channel 2 SD
+http://pfsv.io:80/51162306/imagination.me/203
+#EXTINF:-1 tvg-logo="http://p6.vc/eK6" group-title="Canais | Documentários",History Channel FHD
+http://pfsv.io:80/51162306/imagination.me/174
+#EXTINF:-1 tvg-logo="http://p6.vc/eK6" group-title="Canais | Documentários",History Channel FHD[H265]
+http://pfsv.io:80/51162306/imagination.me/30250
+#EXTINF:-1 tvg-logo="http://p6.vc/eK6" group-title="Canais | Documentários",History Channel HD
+http://pfsv.io:80/51162306/imagination.me/189
+#EXTINF:-1 tvg-logo="http://p6.vc/eK6" group-title="Canais | Documentários",History Channel SD
+http://pfsv.io:80/51162306/imagination.me/204
+#EXTINF:-1 tvg-logo="http://p6.vc/eK7" group-title="Canais | Documentários",Investigacao Discovery Channel FHD [H265]
+http://pfsv.io:80/51162306/imagination.me/30259
+#EXTINF:-1 tvg-logo="http://p6.vc/eK7" group-title="Canais | Documentários",Investigacao Discovery FHD
+http://pfsv.io:80/51162306/imagination.me/175
+#EXTINF:-1 tvg-logo="http://p6.vc/eK7" group-title="Canais | Documentários",Investigacao Discovery HD
+http://pfsv.io:80/51162306/imagination.me/190
+#EXTINF:-1 tvg-logo="http://p6.vc/eK7" group-title="Canais | Documentários",Investigacao Discovery SD
+http://pfsv.io:80/51162306/imagination.me/205
+#EXTINF:-1 tvg-logo="http://p6.vc/bf" group-title="Canais | Documentários",National Geografic FHD [H265]
+http://pfsv.io:80/51162306/imagination.me/30251
+#EXTINF:-1 tvg-logo="http://p6.vc/eK8" group-title="Canais | Documentários",National Geografic Wild FHD [H265]
+http://pfsv.io:80/51162306/imagination.me/30252
+#EXTINF:-1 tvg-logo="http://p6.vc/bf" group-title="Canais | Documentários",National Geographic FHD
+http://pfsv.io:80/51162306/imagination.me/176
+#EXTINF:-1 tvg-logo="http://p6.vc/bf" group-title="Canais | Documentários",National Geographic HD
+http://pfsv.io:80/51162306/imagination.me/191
+#EXTINF:-1 tvg-logo="http://p6.vc/bf" group-title="Canais | Documentários",National Geographic SD
+http://pfsv.io:80/51162306/imagination.me/206
+#EXTINF:-1 tvg-logo="http://p6.vc/eK8" group-title="Canais | Documentários",National Geographic Wild FHD
+http://pfsv.io:80/51162306/imagination.me/177
+#EXTINF:-1 tvg-logo="http://p6.vc/eK8" group-title="Canais | Documentários",National Geographic Wild HD
+http://pfsv.io:80/51162306/imagination.me/192
+#EXTINF:-1 tvg-logo="http://p6.vc/eK8" group-title="Canais | Documentários",National Geographic Wild SD
+http://pfsv.io:80/51162306/imagination.me/207
+#EXTINF:-1 tvg-logo="http://p6.vc/eK9" group-title="Canais | Documentários",Smithsonian Channel FHD
+http://pfsv.io:80/51162306/imagination.me/178
+#EXTINF:-1 tvg-logo="http://p6.vc/eK9" group-title="Canais | Documentários",Smithsonian Channel HD
+http://pfsv.io:80/51162306/imagination.me/193
+#EXTINF:-1 tvg-logo="http://p6.vc/eK9" group-title="Canais | Documentários",Smithsonian Channel SD
+http://pfsv.io:80/51162306/imagination.me/208
+#EXTINF:-1 tvg-logo="http://p6.vc/eK9" group-title="Canais | Documentários",Smithsonian FHD [H265]
+http://pfsv.io:80/51162306/imagination.me/30261
+#EXTINF:-1 tvg-logo="http://p6.vc/U" group-title="Canais | Filmes e Séries",A&E FHD
+http://pfsv.io:80/51162306/imagination.me/293
+#EXTINF:-1 tvg-logo="http://p6.vc/U" group-title="Canais | Filmes e Séries",A&E FHD[H265]
+http://pfsv.io:80/51162306/imagination.me/30227
+#EXTINF:-1 tvg-logo="http://p6.vc/U" group-title="Canais | Filmes e Séries",A&E HD
+http://pfsv.io:80/51162306/imagination.me/299
+#EXTINF:-1 tvg-logo="http://p6.vc/U" group-title="Canais | Filmes e Séries",A&E SD
+http://pfsv.io:80/51162306/imagination.me/324
+#EXTINF:-1 tvg-logo="http://p6.vc/eLo" group-title="Canais | Filmes e Séries",AMC FHD
+http://pfsv.io:80/51162306/imagination.me/294
+#EXTINF:-1 tvg-logo="http://p6.vc/eLo" group-title="Canais | Filmes e Séries",AMC FHD[H265]
+http://pfsv.io:80/51162306/imagination.me/30228
+#EXTINF:-1 tvg-logo="http://p6.vc/eLo" group-title="Canais | Filmes e Séries",AMC HD
+http://pfsv.io:80/51162306/imagination.me/300
+#EXTINF:-1 tvg-logo="http://p6.vc/eLo" group-title="Canais | Filmes e Séries",AMC SD
+http://pfsv.io:80/51162306/imagination.me/325
+#EXTINF:-1 tvg-logo="http://p6.vc/H" group-title="Canais | Filmes e Séries",AXN FHD
+http://pfsv.io:80/51162306/imagination.me/295
+#EXTINF:-1 tvg-logo="http://p6.vc/H" group-title="Canais | Filmes e Séries",AXN FHD[H265]
+http://pfsv.io:80/51162306/imagination.me/30206
+#EXTINF:-1 tvg-logo="http://p6.vc/H" group-title="Canais | Filmes e Séries",AXN HD
+http://pfsv.io:80/51162306/imagination.me/301
+#EXTINF:-1 tvg-logo="http://p6.vc/H" group-title="Canais | Filmes e Séries",AXN SD
+http://pfsv.io:80/51162306/imagination.me/326
+#EXTINF:-1 tvg-logo="http://p6.vc/eLr" group-title="Canais | Filmes e Séries",Canal Brasil FHD
 #EXTINF:-1 tvg-logo="http://logos.pfsv.io/vh1.png" group-title="Art & Music",VH1 FHD
 http://pfsv.io:80/51162306/imagination.me/291
 #EXTINF:-1 tvg-logo="http://logos.pfsv.io/vh1.png" group-title="Art & Music",VH1 FHD[H265]
