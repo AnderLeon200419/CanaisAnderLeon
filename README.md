@@ -1,4 +1,805 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="http://p6.vc/eLr" group-title="Canais | Filmes e Séries",Canal Brasil FHD
+http://pfsv.io:80/51162306/imagination.me/298
+#EXTINF:-1 tvg-logo="http://p6.vc/eLr" group-title="Canais | Filmes e Séries",Canal Brasil FHD[H265]
+http://pfsv.io:80/51162306/imagination.me/30233
+#EXTINF:-1 tvg-logo="http://p6.vc/eLr" group-title="Canais | Filmes e Séries",Canal Brasil HD
+http://pfsv.io:80/51162306/imagination.me/322
+#EXTINF:-1 tvg-logo="http://p6.vc/eLr" group-title="Canais | Filmes e Séries",Canal Brasil SD
+http://pfsv.io:80/51162306/imagination.me/349
+#EXTINF:-1 tvg-logo="http://p6.vc/eLx" group-title="Canais | Filmes e Séries",Cine Action HD
+http://pfsv.io:80/51162306/imagination.me/43802
+#EXTINF:-1 tvg-logo="http://p6.vc/eLv" group-title="Canais | Filmes e Séries",Cine Edition HD
+http://pfsv.io:80/51162306/imagination.me/43800
+#EXTINF:-1 tvg-logo="http://p6.vc/eLw" group-title="Canais | Filmes e Séries",Cine Emotion HD
+http://pfsv.io:80/51162306/imagination.me/43801
+#EXTINF:-1 tvg-logo="http://p6.vc/eLy" group-title="Canais | Filmes e Séries",Cine Pipoca 1 HD
+http://pfsv.io:80/51162306/imagination.me/43803
+#EXTINF:-1 tvg-logo="http://p6.vc/eLy" group-title="Canais | Filmes e Séries",Cine Pipoca 10 HD
+http://pfsv.io:80/51162306/imagination.me/43812
+#EXTINF:-1 tvg-logo="http://p6.vc/eLy" group-title="Canais | Filmes e Séries",Cine Pipoca 11 HD
+http://pfsv.io:80/51162306/imagination.me/43813
+#EXTINF:-1 tvg-logo="http://p6.vc/eLy" group-title="Canais | Filmes e Séries",Cine Pipoca 12 HD
+http://pfsv.io:80/51162306/imagination.me/43814
+#EXTINF:-1 tvg-logo="http://p6.vc/eLy" group-title="Canais | Filmes e Séries",Cine Pipoca 13 HD
+http://pfsv.io:80/51162306/imagination.me/43815
+#EXTINF:-1 tvg-logo="http://p6.vc/eLy" group-title="Canais | Filmes e Séries",Cine Pipoca 14 HD
+http://pfsv.io:80/51162306/imagination.me/43816
+#EXTINF:-1 tvg-logo="http://p6.vc/eLy" group-title="Canais | Filmes e Séries",Cine Pipoca 2 HD
+http://pfsv.io:80/51162306/imagination.me/43804
+#EXTINF:-1 tvg-logo="http://p6.vc/eLy" group-title="Canais | Filmes e Séries",Cine Pipoca 3 HD
+http://pfsv.io:80/51162306/imagination.me/43805
+#EXTINF:-1 tvg-logo="http://p6.vc/eLy" group-title="Canais | Filmes e Séries",Cine Pipoca 4 HD
+http://pfsv.io:80/51162306/imagination.me/43806
+#EXTINF:-1 tvg-logo="http://p6.vc/eLy" group-title="Canais | Filmes e Séries",Cine Pipoca 5 HD
+http://pfsv.io:80/51162306/imagination.me/43807
+#EXTINF:-1 tvg-logo="http://p6.vc/eLy" group-title="Canais | Filmes e Séries",Cine Pipoca 6 HD
+http://pfsv.io:80/51162306/imagination.me/43808
+#EXTINF:-1 tvg-logo="http://p6.vc/eLy" group-title="Canais | Filmes e Séries",Cine Pipoca 7 HD
+http://pfsv.io:80/51162306/imagination.me/43809
+#EXTINF:-1 tvg-logo="http://p6.vc/eLy" group-title="Canais | Filmes e Séries",Cine Pipoca 8 HD
+http://pfsv.io:80/51162306/imagination.me/43810
+#EXTINF:-1 tvg-logo="http://p6.vc/eLy" group-title="Canais | Filmes e Séries",Cine Pipoca 9 HD
+http://pfsv.io:80/51162306/imagination.me/43811
+#EXTINF:-1 tvg-logo="http://p6.vc/eLz" group-title="Canais | Filmes e Séries",CINE SKY 01 FHD
+http://pfsv.io:80/51162306/imagination.me/50858
+#EXTINF:-1 tvg-logo="http://p6.vc/eLz" group-title="Canais | Filmes e Séries",Cine Sky 01 HD
+http://pfsv.io:80/51162306/imagination.me/50838
+#EXTINF:-1 tvg-logo="http://p6.vc/eLz" group-title="Canais | Filmes e Séries",Cine Sky 02 HD
+http://pfsv.io:80/51162306/imagination.me/50839
+#EXTINF:-1 tvg-logo="http://p6.vc/eLz" group-title="Canais | Filmes e Séries",Cine Sky 03 HD
+http://pfsv.io:80/51162306/imagination.me/50840
+#EXTINF:-1 tvg-logo="http://p6.vc/eLz" group-title="Canais | Filmes e Séries",Cine Sky 04 HD
+http://pfsv.io:80/51162306/imagination.me/50841
+#EXTINF:-1 tvg-logo="http://p6.vc/eLz" group-title="Canais | Filmes e Séries",Cine Sky 05 HD
+http://pfsv.io:80/51162306/imagination.me/50842
+#EXTINF:-1 tvg-logo="http://p6.vc/eLz" group-title="Canais | Filmes e Séries",CINE SKY 06 FHD
+http://pfsv.io:80/51162306/imagination.me/50862
+#EXTINF:-1 tvg-logo="http://p6.vc/eLz" group-title="Canais | Filmes e Séries",Cine Sky 06 HD
+http://pfsv.io:80/51162306/imagination.me/50843
+#EXTINF:-1 tvg-logo="http://p6.vc/eLz" group-title="Canais | Filmes e Séries",Cine Sky 07 HD
+http://pfsv.io:80/51162306/imagination.me/50844
+#EXTINF:-1 tvg-logo="http://p6.vc/eLz" group-title="Canais | Filmes e Séries",Cine Sky 08 HD
+http://pfsv.io:80/51162306/imagination.me/50845
+#EXTINF:-1 tvg-logo="http://p6.vc/eLz" group-title="Canais | Filmes e Séries",Cine Sky 09 HD
+http://pfsv.io:80/51162306/imagination.me/50846
+#EXTINF:-1 tvg-logo="http://p6.vc/eLz" group-title="Canais | Filmes e Séries",Cine Sky 10 HD
+http://pfsv.io:80/51162306/imagination.me/50847
+#EXTINF:-1 tvg-logo="http://p6.vc/eLz" group-title="Canais | Filmes e Séries",Cine Sky 11 HD
+http://pfsv.io:80/51162306/imagination.me/50848
+#EXTINF:-1 tvg-logo="http://p6.vc/eLz" group-title="Canais | Filmes e Séries",Cine Sky 12 HD
+http://pfsv.io:80/51162306/imagination.me/50849
+#EXTINF:-1 tvg-logo="http://p6.vc/eLz" group-title="Canais | Filmes e Séries",Cine Sky 13 HD
+http://pfsv.io:80/51162306/imagination.me/50850
+#EXTINF:-1 tvg-logo="http://p6.vc/eLz" group-title="Canais | Filmes e Séries",Cine Sky 14 HD
+http://pfsv.io:80/51162306/imagination.me/50851
+#EXTINF:-1 tvg-logo="http://p6.vc/eLz" group-title="Canais | Filmes e Séries",Cine Sky 15 HD
+http://pfsv.io:80/51162306/imagination.me/50852
+#EXTINF:-1 tvg-logo="http://p6.vc/eLz" group-title="Canais | Filmes e Séries",Cine Sky 16 HD
+http://pfsv.io:80/51162306/imagination.me/50853
+#EXTINF:-1 tvg-logo="http://p6.vc/eLz" group-title="Canais | Filmes e Séries",Cine Sky 17 HD
+http://pfsv.io:80/51162306/imagination.me/50854
+#EXTINF:-1 tvg-logo="http://p6.vc/eLz" group-title="Canais | Filmes e Séries",Cine Sky 18 HD
+http://pfsv.io:80/51162306/imagination.me/50855
+#EXTINF:-1 tvg-logo="http://p6.vc/eLz" group-title="Canais | Filmes e Séries",Cine Sky 19 HD
+http://pfsv.io:80/51162306/imagination.me/50856
+#EXTINF:-1 tvg-logo="http://p6.vc/eLz" group-title="Canais | Filmes e Séries",CINE SKY 20 FHD
+http://pfsv.io:80/51162306/imagination.me/50859
+#EXTINF:-1 tvg-logo="http://p6.vc/eLz" group-title="Canais | Filmes e Séries",Cine Sky 20 HD
+http://pfsv.io:80/51162306/imagination.me/50857
+#EXTINF:-1 tvg-logo="http://p6.vc/eLz" group-title="Canais | Filmes e Séries",CINE SKY 21 FHD
+http://pfsv.io:80/51162306/imagination.me/50860
+#EXTINF:-1 tvg-logo="http://p6.vc/eLu" group-title="Canais | Filmes e Séries",Cine Top HD
+http://pfsv.io:80/51162306/imagination.me/43799
+#EXTINF:-1 tvg-logo="http://p6.vc/eLb" group-title="Canais | Filmes e Séries",CineMax FHD
+http://pfsv.io:80/51162306/imagination.me/275
+#EXTINF:-1 tvg-logo="http://p6.vc/eLb" group-title="Canais | Filmes e Séries",CineMax FHD[H265]
+http://pfsv.io:80/51162306/imagination.me/30215
+#EXTINF:-1 tvg-logo="http://p6.vc/eLb" group-title="Canais | Filmes e Séries",CineMax HD
+http://pfsv.io:80/51162306/imagination.me/303
+#EXTINF:-1 tvg-logo="http://p6.vc/eLb" group-title="Canais | Filmes e Séries",CineMax SD
+http://pfsv.io:80/51162306/imagination.me/328
+#EXTINF:-1 tvg-logo="http://p6.vc/eLt" group-title="Canais | Filmes e Séries",Film&Arts HD
+http://pfsv.io:80/51162306/imagination.me/92668
+#EXTINF:-1 tvg-logo="http://p6.vc/eLt" group-title="Canais | Filmes e Séries",Film&Arts SD
+http://pfsv.io:80/51162306/imagination.me/348
+#EXTINF:-1 tvg-logo="http://p6.vc/eLf" group-title="Canais | Filmes e Séries",FX FHD
+http://pfsv.io:80/51162306/imagination.me/279
+#EXTINF:-1 tvg-logo="http://p6.vc/eLf" group-title="Canais | Filmes e Séries",FX FHD [H265]
+http://pfsv.io:80/51162306/imagination.me/30211
+#EXTINF:-1 tvg-logo="http://p6.vc/eLf" group-title="Canais | Filmes e Séries",FX HD
+http://pfsv.io:80/51162306/imagination.me/308
+#EXTINF:-1 tvg-logo="http://p6.vc/eLf" group-title="Canais | Filmes e Séries",FX SD
+http://pfsv.io:80/51162306/imagination.me/333
+#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",Gospel Movie TV HD
+http://pfsv.io:80/51162306/imagination.me/69085
+#EXTINF:-1 tvg-logo="http://p6.vc/eLg" group-title="Canais | Filmes e Séries",Life Time FHD
+http://pfsv.io:80/51162306/imagination.me/280
+#EXTINF:-1 tvg-logo="http://p6.vc/eLg" group-title="Canais | Filmes e Séries",Life Time FHD [H265]
+http://pfsv.io:80/51162306/imagination.me/30217
+#EXTINF:-1 tvg-logo="http://p6.vc/eLg" group-title="Canais | Filmes e Séries",Life Time HD
+http://pfsv.io:80/51162306/imagination.me/309
+#EXTINF:-1 tvg-logo="http://p6.vc/eLg" group-title="Canais | Filmes e Séries",Life Time SD
+http://pfsv.io:80/51162306/imagination.me/334
+#EXTINF:-1 tvg-logo="http://p6.vc/bd" group-title="Canais | Filmes e Séries",MegaPix FHD
+http://pfsv.io:80/51162306/imagination.me/281
+#EXTINF:-1 tvg-logo="http://p6.vc/bd" group-title="Canais | Filmes e Séries",MegaPix FHD[H265]
+http://pfsv.io:80/51162306/imagination.me/30218
+#EXTINF:-1 tvg-logo="http://p6.vc/bd" group-title="Canais | Filmes e Séries",Megapix HD
+http://pfsv.io:80/51162306/imagination.me/310
+#EXTINF:-1 tvg-logo="http://p6.vc/bd" group-title="Canais | Filmes e Séries",MegaPix SD
+http://pfsv.io:80/51162306/imagination.me/335
+#EXTINF:-1 tvg-logo="http://p6.vc/eLp" group-title="Canais | Filmes e Séries",Paramount Channel FHD
+http://pfsv.io:80/51162306/imagination.me/296
+#EXTINF:-1 tvg-logo="http://p6.vc/eLp" group-title="Canais | Filmes e Séries",Paramount Channel FHD[H265]
+http://pfsv.io:80/51162306/imagination.me/30213
+#EXTINF:-1 tvg-logo="http://p6.vc/eLp" group-title="Canais | Filmes e Séries",Paramount Channel HD
+http://pfsv.io:80/51162306/imagination.me/311
+#EXTINF:-1 tvg-logo="http://p6.vc/eLp" group-title="Canais | Filmes e Séries",Paramount Channel SD
+http://pfsv.io:80/51162306/imagination.me/336
+#EXTINF:-1 tvg-logo="http://p6.vc/eLa" group-title="Canais | Filmes e Séries",Sony Channel FHD
+http://pfsv.io:80/51162306/imagination.me/274
+#EXTINF:-1 tvg-logo="http://p6.vc/eLa" group-title="Canais | Filmes e Séries",Sony Channel  FHD[H265]
+http://pfsv.io:80/51162306/imagination.me/30216
+#EXTINF:-1 tvg-logo="http://p6.vc/eLa" group-title="Canais | Filmes e Séries",Sony Channel HD
+http://pfsv.io:80/51162306/imagination.me/302
+#EXTINF:-1 tvg-logo="http://p6.vc/eLa" group-title="Canais | Filmes e Séries",Sony Channel SD
+http://pfsv.io:80/51162306/imagination.me/327
+#EXTINF:-1 tvg-logo="http://p6.vc/bg" group-title="Canais | Filmes e Séries",Space FHD
+http://pfsv.io:80/51162306/imagination.me/282
+#EXTINF:-1 tvg-logo="http://p6.vc/bg" group-title="Canais | Filmes e Séries",Space FHD[H265]
+http://pfsv.io:80/51162306/imagination.me/30214
+#EXTINF:-1 tvg-logo="http://p6.vc/bg" group-title="Canais | Filmes e Séries",Space HD
+http://pfsv.io:80/51162306/imagination.me/313
+#EXTINF:-1 tvg-logo="http://p6.vc/bg" group-title="Canais | Filmes e Séries",Space SD
+http://pfsv.io:80/51162306/imagination.me/338
+#EXTINF:-1 tvg-logo="http://p6.vc/eLn" group-title="Canais | Filmes e Séries",Star Channel FHD
+http://pfsv.io:80/51162306/imagination.me/292
+#EXTINF:-1 tvg-logo="http://p6.vc/eLn" group-title="Canais | Filmes e Séries",Star Channel FHD[H265]
+http://pfsv.io:80/51162306/imagination.me/30207
+#EXTINF:-1 tvg-logo="http://p6.vc/eLn" group-title="Canais | Filmes e Séries",Star Channel HD
+http://pfsv.io:80/51162306/imagination.me/304
+#EXTINF:-1 tvg-logo="http://p6.vc/eLn" group-title="Canais | Filmes e Séries",Star Channel SD
+http://pfsv.io:80/51162306/imagination.me/329
+#EXTINF:-1 tvg-logo="http://p6.vc/eLd" group-title="Canais | Filmes e Séries",Star Hits 1 FHD
+http://pfsv.io:80/51162306/imagination.me/277
+#EXTINF:-1 tvg-logo="http://p6.vc/eLd" group-title="Canais | Filmes e Séries",Star Hits 1 FHD[H265]
+http://pfsv.io:80/51162306/imagination.me/30209
+#EXTINF:-1 tvg-logo="http://p6.vc/eLd" group-title="Canais | Filmes e Séries",Star Hits 1 HD
+http://pfsv.io:80/51162306/imagination.me/306
+#EXTINF:-1 tvg-logo="http://p6.vc/eLd" group-title="Canais | Filmes e Séries",Star Hits 1 SD
+http://pfsv.io:80/51162306/imagination.me/331
+#EXTINF:-1 tvg-logo="http://p6.vc/eLe" group-title="Canais | Filmes e Séries",Star Hits 2 FHD
+http://pfsv.io:80/51162306/imagination.me/278
+#EXTINF:-1 tvg-logo="http://p6.vc/eLe" group-title="Canais | Filmes e Séries",Star Hits 2 FHD[H265]
+http://pfsv.io:80/51162306/imagination.me/30210
+#EXTINF:-1 tvg-logo="http://p6.vc/eLe" group-title="Canais | Filmes e Séries",Star Hits 2 HD
+http://pfsv.io:80/51162306/imagination.me/307
+#EXTINF:-1 tvg-logo="http://p6.vc/eLe" group-title="Canais | Filmes e Séries",Star Hits 2 SD
+http://pfsv.io:80/51162306/imagination.me/332
+#EXTINF:-1 tvg-logo="http://p6.vc/eLc" group-title="Canais | Filmes e Séries",Star Life FHD
+http://pfsv.io:80/51162306/imagination.me/276
+#EXTINF:-1 tvg-logo="http://p6.vc/eLc" group-title="Canais | Filmes e Séries",Star Life FHD[H265]
+http://pfsv.io:80/51162306/imagination.me/30208
+#EXTINF:-1 tvg-logo="http://p6.vc/eLc" group-title="Canais | Filmes e Séries",Star Life HD
+http://pfsv.io:80/51162306/imagination.me/305
+#EXTINF:-1 tvg-logo="http://p6.vc/eLc" group-title="Canais | Filmes e Séries",Star Life SD
+http://pfsv.io:80/51162306/imagination.me/330
+#EXTINF:-1 tvg-logo="http://p6.vc/eLh" group-title="Canais | Filmes e Séries",Studio Universal FHD
+http://pfsv.io:80/51162306/imagination.me/283
+#EXTINF:-1 tvg-logo="http://p6.vc/eLh" group-title="Canais | Filmes e Séries",Studio Universal FHD[H265]
+http://pfsv.io:80/51162306/imagination.me/30221
+#EXTINF:-1 tvg-logo="http://p6.vc/eLh" group-title="Canais | Filmes e Séries",Studio Universal HD
+http://pfsv.io:80/51162306/imagination.me/320
+#EXTINF:-1 tvg-logo="http://p6.vc/eLh" group-title="Canais | Filmes e Séries",Studio Universal SD
+http://pfsv.io:80/51162306/imagination.me/346
+#EXTINF:-1 tvg-logo="http://p6.vc/eLi" group-title="Canais | Filmes e Séries",SYFY FHD
+http://pfsv.io:80/51162306/imagination.me/284
+#EXTINF:-1 tvg-logo="http://p6.vc/eLi" group-title="Canais | Filmes e Séries",SYFY FHD[H265]
+http://pfsv.io:80/51162306/imagination.me/30222
+#EXTINF:-1 tvg-logo="http://p6.vc/eLi" group-title="Canais | Filmes e Séries",SYFY HD
+http://pfsv.io:80/51162306/imagination.me/312
+#EXTINF:-1 tvg-logo="http://p6.vc/eLi" group-title="Canais | Filmes e Séries",SYFY SD
+http://pfsv.io:80/51162306/imagination.me/337
+#EXTINF:-1 tvg-logo="http://p6.vc/eLj" group-title="Canais | Filmes e Séries",TBS FHD
+http://pfsv.io:80/51162306/imagination.me/285
+#EXTINF:-1 tvg-logo="http://p6.vc/eLj" group-title="Canais | Filmes e Séries",TBS FHD[H265]
+http://pfsv.io:80/51162306/imagination.me/30223
+#EXTINF:-1 tvg-logo="http://p6.vc/eLj" group-title="Canais | Filmes e Séries",TBS HD
+http://pfsv.io:80/51162306/imagination.me/321
+#EXTINF:-1 tvg-logo="http://p6.vc/eLj" group-title="Canais | Filmes e Séries",TBS SD
+http://pfsv.io:80/51162306/imagination.me/347
+#EXTINF:-1 tvg-logo="http://p6.vc/eLs" group-title="Canais | Filmes e Séries",TCM FHD
+http://pfsv.io:80/51162306/imagination.me/59978
+#EXTINF:-1 tvg-logo="http://p6.vc/eLs" group-title="Canais | Filmes e Séries",TCM HD
+http://pfsv.io:80/51162306/imagination.me/50884
+#EXTINF:-1 tvg-logo="http://p6.vc/eLs" group-title="Canais | Filmes e Séries",TCM SD
+http://pfsv.io:80/51162306/imagination.me/339
+#EXTINF:-1 tvg-logo="http://p6.vc/eLk" group-title="Canais | Filmes e Séries",TLC FHD
+http://pfsv.io:80/51162306/imagination.me/286
+#EXTINF:-1 tvg-logo="http://p6.vc/eLk" group-title="Canais | Filmes e Séries",TLC FHD[H265]
+http://pfsv.io:80/51162306/imagination.me/30229
+#EXTINF:-1 tvg-logo="http://p6.vc/eLk" group-title="Canais | Filmes e Séries",TLC HD
+http://pfsv.io:80/51162306/imagination.me/314
+#EXTINF:-1 tvg-logo="http://p6.vc/eLk" group-title="Canais | Filmes e Séries",TLC SD
+http://pfsv.io:80/51162306/imagination.me/340
+#EXTINF:-1 tvg-logo="http://p6.vc/bi" group-title="Canais | Filmes e Séries",TNT FHD
+http://pfsv.io:80/51162306/imagination.me/287
+#EXTINF:-1 tvg-logo="http://p6.vc/bi" group-title="Canais | Filmes e Séries",TNT FHD[H265]
+http://pfsv.io:80/51162306/imagination.me/30224
+#EXTINF:-1 tvg-logo="http://p6.vc/bi" group-title="Canais | Filmes e Séries",TNT HD
+http://pfsv.io:80/51162306/imagination.me/315
+#EXTINF:-1 tvg-logo="http://p6.vc/bi" group-title="Canais | Filmes e Séries",TNT SD
+http://pfsv.io:80/51162306/imagination.me/341
+#EXTINF:-1 tvg-logo="http://p6.vc/bj" group-title="Canais | Filmes e Séries",TNT Serie HD
+http://pfsv.io:80/51162306/imagination.me/316
+#EXTINF:-1 tvg-logo="http://p6.vc/bj" group-title="Canais | Filmes e Séries",TNT Serie SD
+http://pfsv.io:80/51162306/imagination.me/342
+#EXTINF:-1 tvg-logo="http://p6.vc/bj" group-title="Canais | Filmes e Séries",TNT Series FHD
+http://pfsv.io:80/51162306/imagination.me/288
+#EXTINF:-1 tvg-logo="http://p6.vc/bj" group-title="Canais | Filmes e Séries",TNT Series FHD[H265]
+http://pfsv.io:80/51162306/imagination.me/30225
+#EXTINF:-1 tvg-logo="http://p6.vc/eLl" group-title="Canais | Filmes e Séries",TruTV FHD
+http://pfsv.io:80/51162306/imagination.me/289
+#EXTINF:-1 tvg-logo="http://p6.vc/eLl" group-title="Canais | Filmes e Séries",TruTV FHD[H265]
+http://pfsv.io:80/51162306/imagination.me/30232
+#EXTINF:-1 tvg-logo="http://p6.vc/eLl" group-title="Canais | Filmes e Séries",TruTV HD
+http://pfsv.io:80/51162306/imagination.me/323
+#EXTINF:-1 tvg-logo="http://p6.vc/eLl" group-title="Canais | Filmes e Séries",TruTV SD
+http://pfsv.io:80/51162306/imagination.me/350
+#EXTINF:-1 tvg-logo="http://p6.vc/eLm" group-title="Canais | Filmes e Séries",Universal Channel FHD
+http://pfsv.io:80/51162306/imagination.me/290
+#EXTINF:-1 tvg-logo="http://p6.vc/eLm" group-title="Canais | Filmes e Séries",Universal Channel FHD[H265]
+http://pfsv.io:80/51162306/imagination.me/30230
+#EXTINF:-1 tvg-logo="http://p6.vc/eLm" group-title="Canais | Filmes e Séries",Universal Channel HD
+http://pfsv.io:80/51162306/imagination.me/317
+#EXTINF:-1 tvg-logo="http://p6.vc/eLm" group-title="Canais | Filmes e Séries",Universal Channel SD
+http://pfsv.io:80/51162306/imagination.me/343
+#EXTINF:-1 tvg-logo="http://p6.vc/eLq" group-title="Canais | Filmes e Séries",Warner Channel FHD
+http://pfsv.io:80/51162306/imagination.me/297
+#EXTINF:-1 tvg-logo="http://p6.vc/eLq" group-title="Canais | Filmes e Séries",Warner Channel FHD[H265]
+http://pfsv.io:80/51162306/imagination.me/30226
+#EXTINF:-1 tvg-logo="http://p6.vc/eLq" group-title="Canais | Filmes e Séries",Warner Channel HD
+http://pfsv.io:80/51162306/imagination.me/319
+#EXTINF:-1 tvg-logo="http://p6.vc/eLq" group-title="Canais | Filmes e Séries",Warner Channel SD
+http://pfsv.io:80/51162306/imagination.me/345
+#EXTINF:-1 tvg-logo="http://p6.vc/Z" group-title="Canais | HBO",HBO 2 FHD
+http://pfsv.io:80/51162306/imagination.me/470
+#EXTINF:-1 tvg-logo="http://p6.vc/Z" group-title="Canais | HBO",HBO 2 FHD [H265]
+http://pfsv.io:80/51162306/imagination.me/30234
+#EXTINF:-1 tvg-logo="http://p6.vc/Z" group-title="Canais | HBO",HBO 2 HD
+http://pfsv.io:80/51162306/imagination.me/472
+#EXTINF:-1 tvg-logo="http://p6.vc/Z" group-title="Canais | HBO",HBO 2 SD
+http://pfsv.io:80/51162306/imagination.me/481
+#EXTINF:-1 tvg-logo="http://p6.vc/V" group-title="Canais | HBO",HBO Family FHD
+http://pfsv.io:80/51162306/imagination.me/464
+#EXTINF:-1 tvg-logo="http://p6.vc/V" group-title="Canais | HBO",HBO Family FHD [H265]
+http://pfsv.io:80/51162306/imagination.me/30235
+#EXTINF:-1 tvg-logo="http://p6.vc/V" group-title="Canais | HBO",HBO Family HD
+http://pfsv.io:80/51162306/imagination.me/473
+#EXTINF:-1 tvg-logo="http://p6.vc/V" group-title="Canais | HBO",HBO Family SD
+http://pfsv.io:80/51162306/imagination.me/483
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/hbo.png" group-title="Canais | HBO",HBO FHD
+http://pfsv.io:80/51162306/imagination.me/471
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/hbo.png" group-title="Canais | HBO",HBO FHD [H265]
+http://pfsv.io:80/51162306/imagination.me/30236
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/hbo.png" group-title="Canais | HBO",HBO HD
+http://pfsv.io:80/51162306/imagination.me/474
+#EXTINF:-1 tvg-logo="http://p6.vc/X" group-title="Canais | HBO",HBO Mundi FHD
+http://pfsv.io:80/51162306/imagination.me/467
+#EXTINF:-1 tvg-logo="http://p6.vc/X" group-title="Canais | HBO",HBO Mundi FHD [H265]
+http://pfsv.io:80/51162306/imagination.me/30239
+#EXTINF:-1 tvg-logo="http://p6.vc/X" group-title="Canais | HBO",HBO Mundi HD
+http://pfsv.io:80/51162306/imagination.me/477
+#EXTINF:-1 tvg-logo="http://p6.vc/X" group-title="Canais | HBO",HBO Mundi SD
+http://pfsv.io:80/51162306/imagination.me/485
+#EXTINF:-1 tvg-logo="http://p6.vc/I" group-title="Canais | HBO",HBO Plus FHD
+http://pfsv.io:80/51162306/imagination.me/465
+#EXTINF:-1 tvg-logo="http://p6.vc/I" group-title="Canais | HBO",HBO Plus FHD [H265]
+http://pfsv.io:80/51162306/imagination.me/30237
+#EXTINF:-1 tvg-logo="http://p6.vc/I" group-title="Canais | HBO",HBO Plus HD
+http://pfsv.io:80/51162306/imagination.me/475
+#EXTINF:-1 tvg-logo="http://p6.vc/I" group-title="Canais | HBO",HBO Plus SD
+http://pfsv.io:80/51162306/imagination.me/482
+#EXTINF:-1 tvg-logo="http://p6.vc/O" group-title="Canais | HBO",HBO POP FHD
+http://pfsv.io:80/51162306/imagination.me/469
+#EXTINF:-1 tvg-logo="http://p6.vc/O" group-title="Canais | HBO",HBO Pop FHD [H265]
+http://pfsv.io:80/51162306/imagination.me/30241
+#EXTINF:-1 tvg-logo="http://p6.vc/O" group-title="Canais | HBO",HBO Pop HD
+http://pfsv.io:80/51162306/imagination.me/479
+#EXTINF:-1 tvg-logo="http://p6.vc/O" group-title="Canais | HBO",HBO Pop SD
+http://pfsv.io:80/51162306/imagination.me/487
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/hbo.png" group-title="Canais | HBO",HBO SD
+http://pfsv.io:80/51162306/imagination.me/480
+#EXTINF:-1 tvg-logo="http://p6.vc/W" group-title="Canais | HBO",HBO Signature FHD
+http://pfsv.io:80/51162306/imagination.me/466
+#EXTINF:-1 tvg-logo="http://p6.vc/W" group-title="Canais | HBO",HBO Signature FHD [H265]
+http://pfsv.io:80/51162306/imagination.me/30238
+#EXTINF:-1 tvg-logo="http://p6.vc/W" group-title="Canais | HBO",HBO Signature HD
+http://pfsv.io:80/51162306/imagination.me/476
+#EXTINF:-1 tvg-logo="http://p6.vc/W" group-title="Canais | HBO",HBO Signature SD
+http://pfsv.io:80/51162306/imagination.me/484
+#EXTINF:-1 tvg-logo="http://p6.vc/Y" group-title="Canais | HBO",HBO Xtreme FHD
+http://pfsv.io:80/51162306/imagination.me/468
+#EXTINF:-1 tvg-logo="http://p6.vc/Y" group-title="Canais | HBO",HBO Xtreme FHD [H265]
+http://pfsv.io:80/51162306/imagination.me/30240
+#EXTINF:-1 tvg-logo="http://p6.vc/Y" group-title="Canais | HBO",HBO Xtreme HD
+http://pfsv.io:80/51162306/imagination.me/478
+#EXTINF:-1 tvg-logo="http://p6.vc/Y" group-title="Canais | HBO",HBO Xtreme SD
+http://pfsv.io:80/51162306/imagination.me/486
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/hbomax.png" group-title="Canais | HBO Max [Champions League]",HBO Max 1
+http://pfsv.io:80/51162306/imagination.me/92846
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/hbomax.png" group-title="Canais | HBO Max [Champions League]",HBO Max 2
+http://pfsv.io:80/51162306/imagination.me/92845
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/hbomax.png" group-title="Canais | HBO Max [Champions League]",HBO Max 3
+http://pfsv.io:80/51162306/imagination.me/92844
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/hbomax.png" group-title="Canais | HBO Max [Champions League]",HBO Max 4
+http://pfsv.io:80/51162306/imagination.me/92843
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/hbomax.png" group-title="Canais | HBO Max [Champions League]",HBO Max 5
+http://pfsv.io:80/51162306/imagination.me/92842
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/hbomax.png" group-title="Canais | HBO Max [Champions League]",HBO Max 6
+http://pfsv.io:80/51162306/imagination.me/92841
+#EXTINF:-1 tvg-logo="http://p6.vc/eKX" group-title="Canais | Infantis",Baby TV HD
+http://pfsv.io:80/51162306/imagination.me/53220
+#EXTINF:-1 tvg-logo="http://p6.vc/eKX" group-title="Canais | Infantis",Baby TV SD
+http://pfsv.io:80/51162306/imagination.me/149
+#EXTINF:-1 tvg-logo="" group-title="Canais | Infantis",BooMerang FHD
+http://pfsv.io:80/51162306/imagination.me/125
+#EXTINF:-1 tvg-logo="http://z4.vc/DAg" group-title="Canais | Infantis",Boomerang FHD [H265]
+http://pfsv.io:80/51162306/imagination.me/30267
+#EXTINF:-1 tvg-logo="" group-title="Canais | Infantis",Boomerang HD
+http://pfsv.io:80/51162306/imagination.me/138
+#EXTINF:-1 tvg-logo="" group-title="Canais | Infantis",Boomerang SD
+http://pfsv.io:80/51162306/imagination.me/150
+#EXTINF:-1 tvg-logo="" group-title="Canais | Infantis",Cartoon Network FHD
+http://pfsv.io:80/51162306/imagination.me/126
+#EXTINF:-1 tvg-logo="http://z4.vc/6WN" group-title="Canais | Infantis",Cartoon Network FHD [H265]
+http://pfsv.io:80/51162306/imagination.me/30268
+#EXTINF:-1 tvg-logo="" group-title="Canais | Infantis",Cartoon Network HD
+http://pfsv.io:80/51162306/imagination.me/139
+#EXTINF:-1 tvg-logo="" group-title="Canais | Infantis",Cartoon Network SD
+http://pfsv.io:80/51162306/imagination.me/151
+#EXTINF:-1 tvg-logo="" group-title="Canais | Infantis",Discovery Kids FHD
+http://pfsv.io:80/51162306/imagination.me/127
+#EXTINF:-1 tvg-logo="" group-title="Canais | Infantis",Discovery Kids HD
+http://pfsv.io:80/51162306/imagination.me/140
+#EXTINF:-1 tvg-logo="" group-title="Canais | Infantis",Discovery Kids SD
+http://pfsv.io:80/51162306/imagination.me/152
+#EXTINF:-1 tvg-logo="http://z4.vc/N8Y" group-title="Canais | Infantis",Discovery Kids[H265]
+http://pfsv.io:80/51162306/imagination.me/30269
+#EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Infantis",Disney Channel FHD
+http://pfsv.io:80/51162306/imagination.me/135
+#EXTINF:-1 tvg-logo="" group-title="Canais | Infantis",Disney Channel FHD [H265]
+http://pfsv.io:80/51162306/imagination.me/30270
+#EXTINF:-1 tvg-logo="" group-title="Canais | Infantis",Disney Channel HD
+http://pfsv.io:80/51162306/imagination.me/141
+#EXTINF:-1 tvg-logo="" group-title="Canais | Infantis",Disney Channel SD
+http://pfsv.io:80/51162306/imagination.me/153
+#EXTINF:-1 tvg-logo="" group-title="Canais | Infantis",Disney Jr FHD
+http://pfsv.io:80/51162306/imagination.me/134
+#EXTINF:-1 tvg-logo="http://z4.vc/pw6" group-title="Canais | Infantis",Disney Jr FHD [H265]
+http://pfsv.io:80/51162306/imagination.me/30271
+#EXTINF:-1 tvg-logo="" group-title="Canais | Infantis",Disney Jr HD
+http://pfsv.io:80/51162306/imagination.me/146
+#EXTINF:-1 tvg-logo="" group-title="Canais | Infantis",Disney Jr SD
+http://pfsv.io:80/51162306/imagination.me/154
+#EXTINF:-1 tvg-logo="" group-title="Canais | Infantis",Disney XD FHD
+http://pfsv.io:80/51162306/imagination.me/49126
+#EXTINF:-1 tvg-logo="http://z4.vc/n2T" group-title="Canais | Infantis",Disney XD FHD[H265]
+http://pfsv.io:80/51162306/imagination.me/30273
+#EXTINF:-1 tvg-logo="" group-title="Canais | Infantis",Disney XD HD
+http://pfsv.io:80/51162306/imagination.me/49125
+#EXTINF:-1 tvg-logo="" group-title="Canais | Infantis",Disney XD SD
+http://pfsv.io:80/51162306/imagination.me/155
+#EXTINF:-1 tvg-logo="" group-title="Canais | Infantis",Gloob FHD
+http://pfsv.io:80/51162306/imagination.me/136
+#EXTINF:-1 tvg-logo="http://z4.vc/EuT" group-title="Canais | Infantis",Gloob FHD [H265]
+http://pfsv.io:80/51162306/imagination.me/30266
+#EXTINF:-1 tvg-logo="" group-title="Canais | Infantis",Gloob HD
+http://pfsv.io:80/51162306/imagination.me/142
+#EXTINF:-1 tvg-logo="" group-title="Canais | Infantis",Gloob SD
+http://pfsv.io:80/51162306/imagination.me/156
+#EXTINF:-1 tvg-logo="http://p6.vc/G" group-title="Canais | Infantis",Gloobinho FHD
+http://pfsv.io:80/51162306/imagination.me/128
+#EXTINF:-1 tvg-logo="http://p6.vc/G" group-title="Canais | Infantis",Gloobinho FHD [H265]
+http://pfsv.io:80/51162306/imagination.me/30274
+#EXTINF:-1 tvg-logo="http://p6.vc/G" group-title="Canais | Infantis",Gloobinho HD
+http://pfsv.io:80/51162306/imagination.me/1068
+#EXTINF:-1 tvg-logo="http://p6.vc/G" group-title="Canais | Infantis",Gloobinho SD
+http://pfsv.io:80/51162306/imagination.me/1069
+#EXTINF:-1 tvg-logo="" group-title="Canais | Infantis",NatGeo Kids FHD
+http://pfsv.io:80/51162306/imagination.me/129
+#EXTINF:-1 tvg-logo="http://z4.vc/yTi" group-title="Canais | Infantis",NatGeo KIDS FHD [H265]
+http://pfsv.io:80/51162306/imagination.me/30272
+#EXTINF:-1 tvg-logo="" group-title="Canais | Infantis",NatGeo Kids HD
+http://pfsv.io:80/51162306/imagination.me/143
+#EXTINF:-1 tvg-logo="http://z4.vc/yTi" group-title="Canais | Infantis",NatGeo Kids SD
+http://pfsv.io:80/51162306/imagination.me/157
+#EXTINF:-1 tvg-logo="" group-title="Canais | Infantis",Nick JR FHD
+http://pfsv.io:80/51162306/imagination.me/130
+#EXTINF:-1 tvg-logo="" group-title="Canais | Infantis",Nick JR FHD[H265]
+http://pfsv.io:80/51162306/imagination.me/30263
+#EXTINF:-1 tvg-logo="" group-title="Canais | Infantis",Nick JR HD
+http://pfsv.io:80/51162306/imagination.me/144
+#EXTINF:-1 tvg-logo="http://z4.vc/HZk" group-title="Canais | Infantis",Nick Jr SD
+http://pfsv.io:80/51162306/imagination.me/158
+#EXTINF:-1 tvg-logo="" group-title="Canais | Infantis",Nickelodeon FHD
+http://pfsv.io:80/51162306/imagination.me/131
+#EXTINF:-1 tvg-logo="" group-title="Canais | Infantis",Nickelodeon FHD [H265]
+http://pfsv.io:80/51162306/imagination.me/30264
+#EXTINF:-1 tvg-logo="" group-title="Canais | Infantis",Nickelodeon HD
+http://pfsv.io:80/51162306/imagination.me/145
+#EXTINF:-1 tvg-logo="" group-title="Canais | Infantis",Nickelodeon SD
+http://pfsv.io:80/51162306/imagination.me/159
+#EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Infantis",PlayKids FHD
+http://pfsv.io:80/51162306/imagination.me/137
+#EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Infantis",PlayKids HD
+http://pfsv.io:80/51162306/imagination.me/147
+#EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Infantis",PlayKids SD
+http://pfsv.io:80/51162306/imagination.me/162
+#EXTINF:-1 tvg-logo="" group-title="Canais | Infantis",Tooncast FHD
+http://pfsv.io:80/51162306/imagination.me/48756
+#EXTINF:-1 tvg-logo="" group-title="Canais | Infantis",Tooncast HD
+http://pfsv.io:80/51162306/imagination.me/48755
+#EXTINF:-1 tvg-logo="http://z4.vc/7YA" group-title="Canais | Infantis",Tooncast SD
+http://pfsv.io:80/51162306/imagination.me/160
+#EXTINF:-1 tvg-logo="" group-title="Canais | Infantis",TV Gospel Cartoon HD
+http://pfsv.io:80/51162306/imagination.me/69084
+#EXTINF:-1 tvg-logo="http://z4.vc/I7O" group-title="Canais | Infantis",TV RA TIM BUM [H265]
+http://pfsv.io:80/51162306/imagination.me/30265
+#EXTINF:-1 tvg-logo="" group-title="Canais | Infantis",TV RA-TIM-BUM FHD
+http://pfsv.io:80/51162306/imagination.me/132
+#EXTINF:-1 tvg-logo="" group-title="Canais | Infantis",TV RA-TIM-BUM HD
+http://pfsv.io:80/51162306/imagination.me/148
+#EXTINF:-1 tvg-logo="" group-title="Canais | Infantis",TV RA-TIM-BUM SD
+http://pfsv.io:80/51162306/imagination.me/161
+#EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Infantis",Zoomoo SD
+http://pfsv.io:80/51162306/imagination.me/163
+#EXTINF:-1 tvg-logo="http://p6.vc/eLz" group-title="Canais | Jogos & Eventos",#EVENTOS 01
+http://pfsv.io:80/51162306/imagination.me/33377
+#EXTINF:-1 tvg-logo="http://p6.vc/eLz" group-title="Canais | Jogos & Eventos",#EVENTOS 02
+http://pfsv.io:80/51162306/imagination.me/33399
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",#EVENTOS 03
+http://pfsv.io:80/51162306/imagination.me/33400
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",#EVENTOS 04
+http://pfsv.io:80/51162306/imagination.me/33401
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",#EVENTOS 05
+http://pfsv.io:80/51162306/imagination.me/33402
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",#EVENTOS 06
+http://pfsv.io:80/51162306/imagination.me/55346
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",Campeonato Carioca 2021 (Extra) FHD  
+http://pfsv.io:80/51162306/imagination.me/62795
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",Campeonato Carioca 2021 HD
+http://pfsv.io:80/51162306/imagination.me/55190
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",CAMPEONATO CATARINENSE 02
+http://pfsv.io:80/51162306/imagination.me/35086
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",CAMPEONATO CATARINENSE 02
+http://pfsv.io:80/51162306/imagination.me/35087
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",CAMPEONATO CATARINENSE 03
+http://pfsv.io:80/51162306/imagination.me/35088
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",CAMPEONATO CATARINENSE 04
+http://pfsv.io:80/51162306/imagination.me/35089
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",CARIOCA 01 2021
+http://pfsv.io:80/51162306/imagination.me/62798
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",CARIOCA 02 2021
+http://pfsv.io:80/51162306/imagination.me/62799
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",CARIOCA 03 2021
+http://pfsv.io:80/51162306/imagination.me/62796
+#EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Jogos & Eventos",Catarinense 01
+http://pfsv.io:80/51162306/imagination.me/502
+#EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Jogos & Eventos",Catarinense 02
+http://pfsv.io:80/51162306/imagination.me/503
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",COPA DO NORDESTE 01
+http://pfsv.io:80/51162306/imagination.me/35085
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",Copa do Nordeste 01[ALTER]
+http://pfsv.io:80/51162306/imagination.me/35070
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",COPA DO NORDESTE 02 [ALTER2]
+http://pfsv.io:80/51162306/imagination.me/35090
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",Copa do Nordeste 02[ALTER]
+http://pfsv.io:80/51162306/imagination.me/35071
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",COPA DO NORDESTE 03 [ALTER2]
+http://pfsv.io:80/51162306/imagination.me/35091
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",Copa do Nordeste 03[ALTER]
+http://pfsv.io:80/51162306/imagination.me/35072
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",COPA DO NORDESTE 04 [ALTER2]
+http://pfsv.io:80/51162306/imagination.me/35092
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",Copa do Nordeste 04[ALTER]
+http://pfsv.io:80/51162306/imagination.me/35073
+#EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Jogos & Eventos",Copa Libertadores HD
+http://pfsv.io:80/51162306/imagination.me/490
+#EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Jogos & Eventos",Copa Nordeste 1
+http://pfsv.io:80/51162306/imagination.me/492
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",Copa Nordeste 1 [ALTER]
+http://pfsv.io:80/51162306/imagination.me/63403
+#EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Jogos & Eventos",Copa Nordeste 2
+http://pfsv.io:80/51162306/imagination.me/493
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",Copa Nordeste 2 [ALTER]
+http://pfsv.io:80/51162306/imagination.me/63404
+#EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Jogos & Eventos",Copa Nordeste 3
+http://pfsv.io:80/51162306/imagination.me/494
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",Copa Nordeste 4
+http://pfsv.io:80/51162306/imagination.me/63405
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",DAZN 01
+http://pfsv.io:80/51162306/imagination.me/504
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",DAZN 02
+http://pfsv.io:80/51162306/imagination.me/505
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",DAZN 03
+http://pfsv.io:80/51162306/imagination.me/506
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",DAZN 04
+http://pfsv.io:80/51162306/imagination.me/507
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",DAZN 05
+http://pfsv.io:80/51162306/imagination.me/508
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",DAZN 06
+http://pfsv.io:80/51162306/imagination.me/509
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",DAZN 07
+http://pfsv.io:80/51162306/imagination.me/35074
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",DAZN 08
+http://pfsv.io:80/51162306/imagination.me/35075
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",DAZN 09
+http://pfsv.io:80/51162306/imagination.me/35076
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",DAZN 10
+http://pfsv.io:80/51162306/imagination.me/35077
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",DAZN 11
+http://pfsv.io:80/51162306/imagination.me/35078
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",DAZN 12
+http://pfsv.io:80/51162306/imagination.me/35079
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",DAZN 13
+http://pfsv.io:80/51162306/imagination.me/35080
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/tntesta.png" group-title="Canais | Jogos & Eventos",Estadio TNT Sports 01
+http://pfsv.io:80/51162306/imagination.me/495
+#EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Jogos & Eventos",EI Plus HD
+http://pfsv.io:80/51162306/imagination.me/488
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/tntesta.png" group-title="Canais | Jogos & Eventos",Estadio TNT Sports 01[ALTER]
+http://pfsv.io:80/51162306/imagination.me/35081
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/tntesta.png" group-title="Canais | Jogos & Eventos",Estadio TNT Sports 02[ALTER]
+http://pfsv.io:80/51162306/imagination.me/35082
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/tntesta.png" group-title="Canais | Jogos & Eventos",Estadio TNT Sports 03[ALTER]
+http://pfsv.io:80/51162306/imagination.me/35083
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",EiMax Jogos04
+http://pfsv.io:80/51162306/imagination.me/35084
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/tntesta.png" group-title="Canais | Jogos & Eventos",Estadio TNT Sports 01 HD
+http://pfsv.io:80/51162306/imagination.me/63125
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",FaceBook Watch 1 HD
+http://pfsv.io:80/51162306/imagination.me/55188
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",FaceBook Watch 2 HD
+http://pfsv.io:80/51162306/imagination.me/55189
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",FLA TV
+http://pfsv.io:80/51162306/imagination.me/33404
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",FOX APP
+http://pfsv.io:80/51162306/imagination.me/33375
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",Furacao Play TV
+http://pfsv.io:80/51162306/imagination.me/49109
+#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title="Canais | Jogos & Eventos",Globo Esporte
+http://pfsv.io:80/51162306/imagination.me/491
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",Liga Futsal
+http://pfsv.io:80/51162306/imagination.me/49108
+#EXTINF:-1 tvg-logo="http://p6.vc/iTX" group-title="Canais | Jogos & Eventos",MLB Network Live HD
+http://pfsv.io:80/51162306/imagination.me/53287
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",MyCujoo TV
+http://pfsv.io:80/51162306/imagination.me/56135
+#EXTINF:-1 tvg-logo="http://p6.vc/1" group-title="Canais | Jogos & Eventos",Premiere Internacional
+http://pfsv.io:80/51162306/imagination.me/501
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",Rai Italia FHD
+http://pfsv.io:80/51162306/imagination.me/50873
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",Rai Italia HD
+http://pfsv.io:80/51162306/imagination.me/33403
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",Star+ 1
+http://pfsv.io:80/51162306/imagination.me/92364
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",Star+ 1 [Alter2]  
+http://pfsv.io:80/51162306/imagination.me/92366
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",Star+ 1 [Alter]
+http://pfsv.io:80/51162306/imagination.me/92365
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",TV Coxa HD (Coritiba FC)
+http://pfsv.io:80/51162306/imagination.me/66718
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",TV FLA
+http://pfsv.io:80/51162306/imagination.me/33378
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",TV NSport 1 HD
+http://pfsv.io:80/51162306/imagination.me/69076
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",TV NSport 2 HD
+http://pfsv.io:80/51162306/imagination.me/69077
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",TV NSport 3 HD
+http://pfsv.io:80/51162306/imagination.me/69078
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",WATCH ESPN
+http://pfsv.io:80/51162306/imagination.me/33376
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",Sport Italia HD
+http://pfsv.io:80/51162306/imagination.me/93624
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/tntesta.png" group-title="Canais | Jogos & Eventos",Estadio TNT Sports 04[ALTER]
+http://pfsv.io:80/51162306/imagination.me/93946
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/tntesta.png" group-title="Canais | Jogos & Eventos",Estadio TNT Sports 01 [ALTER2]
+http://pfsv.io:80/51162306/imagination.me/93947
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/tntesta.png" group-title="Canais | Jogos & Eventos",Estadio TNT Sports 02 [ALTER2]
+http://pfsv.io:80/51162306/imagination.me/93948
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/tntesta.png" group-title="Canais | Jogos & Eventos",Estadio TNT Sports 03 [ALTER2]  
+http://pfsv.io:80/51162306/imagination.me/93949
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/tntesta.png" group-title="Canais | Jogos & Eventos",Estadio TNT Sports 04 [ALTER2]
+http://pfsv.io:80/51162306/imagination.me/93950
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/tntesta.png" group-title="Canais | Jogos & Eventos",Estadio TNT Sports 05 [ALTER2] 
+http://pfsv.io:80/51162306/imagination.me/93951
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/tntesta.png" group-title="Canais | Jogos & Eventos",Estadio TNT Sports 06 [ALTER2]
+http://pfsv.io:80/51162306/imagination.me/93952
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/tntesta.png" group-title="Canais | Jogos & Eventos",Estadio TNT Sports ARG HD
+http://pfsv.io:80/51162306/imagination.me/93953
+#EXTINF:-1 tvg-logo="http://p6.vc/H" group-title="Canais | Legendados",AXN FHD[LEG]
+http://pfsv.io:80/51162306/imagination.me/49101
+#EXTINF:-1 tvg-logo="http://p6.vc/H" group-title="Canais | Legendados",AXN HD [LEG]
+http://pfsv.io:80/51162306/imagination.me/209
+#EXTINF:-1 tvg-logo="http://p6.vc/H" group-title="Canais | Legendados",AXN SD [LEG]
+http://pfsv.io:80/51162306/imagination.me/210
+#EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Legendados",FX HD [LEG]
+http://pfsv.io:80/51162306/imagination.me/231
+#EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Legendados",FX SD [LEG]
+http://pfsv.io:80/51162306/imagination.me/232
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/hbo.png" group-title="Canais | Legendados",HBO FHD [LEG]
+http://pfsv.io:80/51162306/imagination.me/67385
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/hbo.png" group-title="Canais | Legendados",HBO HD [LEG]
+http://pfsv.io:80/51162306/imagination.me/213
+#EXTINF:-1 tvg-logo="" group-title="Canais | Legendados",HBO Mundi FHD [LEG]
+http://pfsv.io:80/51162306/imagination.me/67389
+#EXTINF:-1 tvg-logo="" group-title="Canais | Legendados",HBO Mundi HD [LEG]
+http://pfsv.io:80/51162306/imagination.me/67390
+#EXTINF:-1 tvg-logo="" group-title="Canais | Legendados",HBO PLUS FHD [LEG]
+http://pfsv.io:80/51162306/imagination.me/67386
+#EXTINF:-1 tvg-logo="" group-title="Canais | Legendados",HBO PLUS HD [LEG]
+http://pfsv.io:80/51162306/imagination.me/215
+#EXTINF:-1 tvg-logo="http://p6.vc/I" group-title="Canais | Legendados",HBO PLUS SD [LEG]
+http://pfsv.io:80/51162306/imagination.me/216
+#EXTINF:-1 tvg-logo="" group-title="Canais | Legendados",HBO POP FHD [LEG]
+http://pfsv.io:80/51162306/imagination.me/67391
+#EXTINF:-1 tvg-logo="http://p6.vc/O" group-title="Canais | Legendados",HBO POP HD [LEG]
+http://pfsv.io:80/51162306/imagination.me/233
+#EXTINF:-1 tvg-logo="http://p6.vc/O" group-title="Canais | Legendados",HBO POP SD [LEG]
+http://pfsv.io:80/51162306/imagination.me/234
+#EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Legendados",HBO SD [LEG]
+http://pfsv.io:80/51162306/imagination.me/214
+#EXTINF:-1 tvg-logo="" group-title="Canais | Legendados",HBO Signature FHD [LEG]
+http://pfsv.io:80/51162306/imagination.me/67387
+#EXTINF:-1 tvg-logo="" group-title="Canais | Legendados",HBO Signature HD [LEG]
+http://pfsv.io:80/51162306/imagination.me/67388
+#EXTINF:-1 tvg-logo="" group-title="Canais | Legendados",HBO Xtreme FHD [LEG]
+http://pfsv.io:80/51162306/imagination.me/67393
+#EXTINF:-1 tvg-logo="" group-title="Canais | Legendados",HBO Xtreme HD [LEG]
+http://pfsv.io:80/51162306/imagination.me/67392
+#EXTINF:-1 tvg-logo="" group-title="Canais | Legendados",HBO Xtreme SD [LEG]
+http://pfsv.io:80/51162306/imagination.me/217
+#EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Legendados",MAX SD [LEG]
+http://pfsv.io:80/51162306/imagination.me/218
+#EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Legendados",Megapix HD[LEG]
+http://pfsv.io:80/51162306/imagination.me/235
+#EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Legendados",Megapix SD [LEG]
+http://pfsv.io:80/51162306/imagination.me/236
+#EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Legendados",Sony HD [LEG]
+http://pfsv.io:80/51162306/imagination.me/243
+#EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Legendados",Sony SD [LEG]
+http://pfsv.io:80/51162306/imagination.me/244
+#EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Legendados",Space HD[LEG]
+http://pfsv.io:80/51162306/imagination.me/237
+#EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Legendados",Space SD [LEG]
+http://pfsv.io:80/51162306/imagination.me/238
+#EXTINF:-1 tvg-logo="" group-title="Canais | Legendados",Star Channel FHD [LEG]
+http://pfsv.io:80/51162306/imagination.me/67394
+#EXTINF:-1 tvg-logo="" group-title="Canais | Legendados",Star Channel HD [LEG]
+http://pfsv.io:80/51162306/imagination.me/211
+#EXTINF:-1 tvg-logo="" group-title="Canais | Legendados",Star Channel SD [LEG]
+http://pfsv.io:80/51162306/imagination.me/212
+#EXTINF:-1 tvg-logo="" group-title="Canais | Legendados",Star Hits 2 FHD [LEG]
+http://pfsv.io:80/51162306/imagination.me/67396
+#EXTINF:-1 tvg-logo="" group-title="Canais | Legendados",Star Hits 2 HD [LEG]
+http://pfsv.io:80/51162306/imagination.me/67378
+#EXTINF:-1 tvg-logo="" group-title="Canais | Legendados",Star Hits FHD [LEG]
+http://pfsv.io:80/51162306/imagination.me/67395
+#EXTINF:-1 tvg-logo="" group-title="Canais | Legendados",Star Hits HD [LEG]
+http://pfsv.io:80/51162306/imagination.me/67377
+#EXTINF:-1 tvg-logo="http://p6.vc/J" group-title="Canais | Legendados",Telecine Action FHD [LEG]
+http://pfsv.io:80/51162306/imagination.me/67381
+#EXTINF:-1 tvg-logo="http://p6.vc/J" group-title="Canais | Legendados",Telecine Action HD [LEG]
+http://pfsv.io:80/51162306/imagination.me/219
+#EXTINF:-1 tvg-logo="http://p6.vc/J" group-title="Canais | Legendados",Telecine Action SD [LEG]
+http://pfsv.io:80/51162306/imagination.me/220
+#EXTINF:-1 tvg-logo="http://p6.vc/P" group-title="Canais | Legendados",Telecine Cult FHD [LEG]
+http://pfsv.io:80/51162306/imagination.me/67384
+#EXTINF:-1 tvg-logo="http://p6.vc/P" group-title="Canais | Legendados",Telecine Cult HD [LEG]
+http://pfsv.io:80/51162306/imagination.me/246
+#EXTINF:-1 tvg-logo="http://p6.vc/P" group-title="Canais | Legendados",Telecine Cult SD [LEG]
+http://pfsv.io:80/51162306/imagination.me/245
+#EXTINF:-1 tvg-logo="http://p6.vc/K" group-title="Canais | Legendados",Telecine Fun FHD [LEG]
+http://pfsv.io:80/51162306/imagination.me/67383
+#EXTINF:-1 tvg-logo="http://p6.vc/K" group-title="Canais | Legendados",Telecine Fun HD [LEG]
+http://pfsv.io:80/51162306/imagination.me/221
+#EXTINF:-1 tvg-logo="http://p6.vc/K" group-title="Canais | Legendados",Telecine Fun SD [LEG]
+http://pfsv.io:80/51162306/imagination.me/222
+#EXTINF:-1 tvg-logo="http://p6.vc/L" group-title="Canais | Legendados",Telecine Pipoca FHD [LEG]
+http://pfsv.io:80/51162306/imagination.me/67379
+#EXTINF:-1 tvg-logo="http://p6.vc/L" group-title="Canais | Legendados",Telecine Pipoca HD [LEG]
+http://pfsv.io:80/51162306/imagination.me/223
+#EXTINF:-1 tvg-logo="http://p6.vc/L" group-title="Canais | Legendados",Telecine Pipoca SD [LEG]
+http://pfsv.io:80/51162306/imagination.me/224
+#EXTINF:-1 tvg-logo="http://p6.vc/M" group-title="Canais | Legendados",Telecine Premium FHD [LEG]
+http://pfsv.io:80/51162306/imagination.me/67380
+#EXTINF:-1 tvg-logo="http://p6.vc/M" group-title="Canais | Legendados",Telecine Premium HD [LEG]
+http://pfsv.io:80/51162306/imagination.me/225
+#EXTINF:-1 tvg-logo="http://p6.vc/M" group-title="Canais | Legendados",Telecine Premium SD [LEG]
+http://pfsv.io:80/51162306/imagination.me/226
+#EXTINF:-1 tvg-logo="" group-title="Canais | Legendados",Telecine Touch FHD [LEG]
+http://pfsv.io:80/51162306/imagination.me/67382
+#EXTINF:-1 tvg-logo="http://p6.vc/N" group-title="Canais | Legendados",Telecine Touch HD [LEG]
+http://pfsv.io:80/51162306/imagination.me/227
+#EXTINF:-1 tvg-logo="http://p6.vc/N" group-title="Canais | Legendados",Telecine Touch SD [LEG]
+http://pfsv.io:80/51162306/imagination.me/228
+#EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Legendados",TNT HD [LEG]
+http://pfsv.io:80/51162306/imagination.me/229
+#EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Legendados",TNT SD [LEG]
+http://pfsv.io:80/51162306/imagination.me/230
+#EXTINF:-1 tvg-logo="http://p6.vc/bj" group-title="Canais | Legendados",TNT Series HD [LEG]
+http://pfsv.io:80/51162306/imagination.me/239
+#EXTINF:-1 tvg-logo="http://p6.vc/bj" group-title="Canais | Legendados",TNT Series SD [LEG]
+http://pfsv.io:80/51162306/imagination.me/240
+#EXTINF:-1 tvg-logo="" group-title="Canais | Legendados",Warner Channel FHD [LEG]
+http://pfsv.io:80/51162306/imagination.me/67376
+#EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Legendados",Warner Channel HD[LEG]
+http://pfsv.io:80/51162306/imagination.me/241
+#EXTINF:-1 tvg-logo="" group-title="Canais | Legendados",Warner Channel SD [LEG]
+http://pfsv.io:80/51162306/imagination.me/242
+#EXTINF:-1 tvg-logo="http://p6.vc/h" group-title="Canais | Notícias",Band Internacional
+http://pfsv.io:80/51162306/imagination.me/518
+#EXTINF:-1 tvg-logo="http://p6.vc/h" group-title="Canais | Notícias",Band News FHD
+http://pfsv.io:80/51162306/imagination.me/510
+#EXTINF:-1 tvg-logo="http://p6.vc/h" group-title="Canais | Notícias",Band News FHD [H265]
+http://pfsv.io:80/51162306/imagination.me/30195
+#EXTINF:-1 tvg-logo="http://p6.vc/h" group-title="Canais | Notícias",Band News HD
+http://pfsv.io:80/51162306/imagination.me/514
+#EXTINF:-1 tvg-logo="http://p6.vc/h" group-title="Canais | Notícias",Band News SD
+http://pfsv.io:80/51162306/imagination.me/520
+#EXTINF:-1 tvg-logo="http://p6.vc/4" group-title="Canais | Notícias",CNN Brasil FHD
+http://pfsv.io:80/51162306/imagination.me/513
+#EXTINF:-1 tvg-logo="http://p6.vc/4" group-title="Canais | Notícias",CNN Brasil FHD[H265]
+http://pfsv.io:80/51162306/imagination.me/30198
+#EXTINF:-1 tvg-logo="http://p6.vc/4" group-title="Canais | Notícias",CNN Brasil HD
+http://pfsv.io:80/51162306/imagination.me/517
+#EXTINF:-1 tvg-logo="http://p6.vc/4" group-title="Canais | Notícias",CNN Brasil SD
+http://pfsv.io:80/51162306/imagination.me/523
+#EXTINF:-1 tvg-logo="http://p6.vc/4" group-title="Canais | Notícias",CNN Internacional HD
+http://pfsv.io:80/51162306/imagination.me/69087
+#EXTINF:-1 tvg-logo="http://p6.vc/3" group-title="Canais | Notícias",Globo Internacional
+http://pfsv.io:80/51162306/imagination.me/519
+#EXTINF:-1 tvg-logo="http://p6.vc/3" group-title="Canais | Notícias",Globo News FHD
+http://pfsv.io:80/51162306/imagination.me/512
+#EXTINF:-1 tvg-logo="http://p6.vc/3" group-title="Canais | Notícias",Globo News FHD[H265]
+http://pfsv.io:80/51162306/imagination.me/30196
+#EXTINF:-1 tvg-logo="http://p6.vc/3" group-title="Canais | Notícias",Globo News HD
+http://pfsv.io:80/51162306/imagination.me/516
+#EXTINF:-1 tvg-logo="http://p6.vc/3" group-title="Canais | Notícias",Globo News SD
+http://pfsv.io:80/51162306/imagination.me/522
+#EXTINF:-1 tvg-logo="http://p6.vc/2" group-title="Canais | Notícias",Record News FHD
+http://pfsv.io:80/51162306/imagination.me/511
+#EXTINF:-1 tvg-logo="http://p6.vc/2" group-title="Canais | Notícias",Record News FHD [H265]
+http://pfsv.io:80/51162306/imagination.me/30197
+#EXTINF:-1 tvg-logo="http://p6.vc/2" group-title="Canais | Notícias",Record News HD
+http://pfsv.io:80/51162306/imagination.me/515
+#EXTINF:-1 tvg-logo="http://p6.vc/2" group-title="Canais | Notícias",Record News SD
+http://pfsv.io:80/51162306/imagination.me/521
+#EXTINF:-1 tvg-logo="http://p6.vc/ch" group-title="Canais | Notícias",[CA] CNBC HD
+http://pfsv.io:80/51162306/imagination.me/58204
+#EXTINF:-1 tvg-logo="http://p6.vc/cg" group-title="Canais | Notícias",[CA] FOX News HD
+http://pfsv.io:80/51162306/imagination.me/58208
+#EXTINF:-1 tvg-logo="http://p6.vc/4" group-title="Canais | Notícias",[ES] CNN Espanol
+http://pfsv.io:80/51162306/imagination.me/58206
+#EXTINF:-1 tvg-logo="http://p6.vc/4" group-title="Canais | Notícias",[PT] CNN
+http://pfsv.io:80/51162306/imagination.me/58203
+#EXTINF:-1 tvg-logo="http://p6.vc/cf" group-title="Canais | Notícias",[PT] euronews HD
+http://pfsv.io:80/51162306/imagination.me/58201
+#EXTINF:-1 tvg-logo="http://p6.vc/cg" group-title="Canais | Notícias",[PT] Fox News
+http://pfsv.io:80/51162306/imagination.me/58202
+#EXTINF:-1 tvg-logo="http://p6.vc/ci" group-title="Canais | Notícias",[US] BBC WORLD FHD
+http://pfsv.io:80/51162306/imagination.me/59977
+#EXTINF:-1 tvg-logo="http://p6.vc/ci" group-title="Canais | Notícias",[US] BBC World News HD
+http://pfsv.io:80/51162306/imagination.me/58213
+#EXTINF:-1 tvg-logo="http://p6.vc/4" group-title="Canais | Notícias",[US] CNN FHD
+http://pfsv.io:80/51162306/imagination.me/58205
+#EXTINF:-1 tvg-logo="http://p6.vc/1" group-title="Canais | Premiere",Premiere 2 FHD
+http://pfsv.io:80/51162306/imagination.me/525
+#EXTINF:-1 tvg-logo="http://p6.vc/1" group-title="Canais | Premiere",Premiere 2 FHD [H265]
+http://pfsv.io:80/51162306/imagination.me/30284
+#EXTINF:-1 tvg-logo="http://p6.vc/1" group-title="Canais | Premiere",Premiere 2 HD
 #EXTINF:-1 tvg-logo="http://p6.vc/g" group-title="Canais | Abertos",Futura SD
 http://pfsv.io:80/51162306/imagination.me/66
 #EXTINF:-1 tvg-logo="LINK_LOGO" group-title="Canais | Abertos",NBR SD
