@@ -11,8 +11,6 @@ https://stmv5.samcast.com.br/everton7487/everton7487/chunklist_w1907953649.m3u8
 https://stmv1.vhcast.com/tvcine/tvcine/chunklist_w1852439177.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/M/mix-tv-logo-E393CFB0C4-seeklogo.com.gif" group-title="BRAZIL",TV MIX
 https://srv1.painelvideo.com/tvmix/tvmix/chunklist_w2012370176.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WIDNIqB.png" group-title="BRAZIL",NOVO CANAL
-http://api.new.livestream.com/accounts/5381476/events/8947634/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WIDNIqB.png" group-title="BRAZIL",GLOBO
 https://stmv3.samcast.com.br/jose5122/jose5122/chunklist_w541114289.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WIDNIqB.png" group-title="BRAZIL",SBT
