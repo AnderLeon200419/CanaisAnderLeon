@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WIDNIqB.png" group-title="BRAZIL",TV NOVA PLAY
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f3/PlayTV_%282008%29.png/revision/latest?cb=20140422192643" group-title="BRAZIL",TV NOVA PLAY
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://boxbrazil.tv.br/wp-content/uploads/2019/07/logo-telaviva.png" group-title="BRAZIL",TELAVIVA TV
 https://srv3.zcast.com.br/telavivatv/telavivatv/chunklist_w27166670.m3u8
