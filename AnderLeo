@@ -127,5 +127,7 @@ http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fX9C15m.png" group-title="BRAZIL",TVídeoNews
 https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYOBTT_dfBI8a80Ik08RdNqktFMsxlcFUNWlBH5zOX-Z2_2j--y44lIAcx9VFEsf0HRNw&usqp=CAU" group-title="BRAZIL",WOOHOO
+http://177.20.208.58:8000/play/a022/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jca1GLL.png" group-title="BRAZIL",YEEAAH TV
 http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
