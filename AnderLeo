@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/redetv-logo-1.png" group-title="BRAZIL",REDE TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c7/Logotipo_da_Record_News_%282016%29.png" group-title="BRAZIL",REDE TV
 https://5cf4a2c2512a2.streamlock.net/8016/8016/chunklist_w2138485209.m3u8
 #EXTINF:-1 tvg-logo="http://wisconsinbr.com/assets/images/band.png" group-title="BRAZIL",BAND
 https://hls.brasilstream.com.br/live/redetv/redetv/tracks-v1a1/mono.m3u8?token=5874329047397081000
