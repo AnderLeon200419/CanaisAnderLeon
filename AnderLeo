@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c7/Logotipo_da_Record_News_%282016%29.png" group-title="BRAZIL",RECORD NEWS
 https://5cf4a2c2512a2.streamlock.net/8016/8016/chunklist_w2138485209.m3u8
-#EXTINF:-1 tvg-logo="http://wisconsinbr.com/assets/images/band.png" group-title="BRAZIL",BAND
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/redetv-logo-1.png" group-title="BRAZIL",REDE TV
 https://hls.brasilstream.com.br/live/redetv/redetv/tracks-v1a1/mono.m3u8?token=5874329047397081000
 #EXTINF:-1 tvg-logo="https://exame.com/wp-content/uploads/2016/09/size_960_16_9_logo_rede_record4.jpg" group-title="BRAZIL",RECORD
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_480_av-p.m3u8?sd=10&rebase=on
