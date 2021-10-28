@@ -45,7 +45,7 @@ https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ybdp3qq.png" group-title="BRAZIL",Mundo TV
 https://59f1cbe63db89.streamlock.net:1443/mundotv/_definst_/mundotv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tekmods.com/wp-content/uploads/2021/08/AnimeTV.png" group-title="BRAZIL",ANIME TV
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/320350553/ANimeTV_logo_copy22.jpg" group-title="BRAZIL",ANIME TV
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sJoBFNp.png" group-title="BRAZIL",Novo Tempo
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
