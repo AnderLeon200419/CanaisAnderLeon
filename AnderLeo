@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIDNIqB.png" group-title="BRAZIL",SBT
+https://5a1c76baf08c0.streamlock.net/sbtinterior/SLmOiqg505FQZnhkfn01x94qWLHzQzfQ/chunklist_w763122445.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c7/Logotipo_da_Record_News_%282016%29.png" group-title="BRAZIL",RECORD NEWS
 https://5cf4a2c2512a2.streamlock.net/8016/8016/chunklist_w2138485209.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/redetv-logo-1.png" group-title="BRAZIL",REDE TV
