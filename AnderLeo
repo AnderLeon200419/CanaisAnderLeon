@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WIDNIqB.png" group-title="BRAZIL",BET Pluto TV (720p
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff768b6a4c8b80008498610/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff768b6a4c8b80008498610/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/SPORTVlogo.png/revision/latest?cb=20120720191356" group-title="ESPORTES",BANDSPORTS
 http://104.149.132.98:2082/hlsr/TRNcUBZZEwoRAgFeBQRVX1VTAVRcUlsBVwVUWFMFUgcFCVUAUQhUVgAUSRpAQEVcBVptXl0RWQ8DAAMOSkNCQVNDa1gBEwsSAQZWCwMGBxtIFUZeVFZBAwIcE0kPBRUIFAMHCVUJBAARGkddS0BSSwpWXmhdVhVQUVUTAwgUW14aE1tfOlVUXVJYARoJFgcbSBVbREkRWVdHXF0VRANeRkRQQFRHCxMCAA5VGh8WVFYRWUZFQBFZG3BiExVEBE9GU19HWApfEwoRW1ZNCxYbGw1EbUVcQBdLV1FcXBRDDRAGExgTCFBJb1BZC1ZWV0NQC1lBFQMRUhseElxWCAhDXURuRFgBEwsSAQdSCAQMAxsZ/anderson11/11anderson/61027/3acc403c6a2d4738ea544b3d24fd072c/61027_146.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/SPORTVlogo.png/revision/latest?cb=20120720191356" group-title="ESPORTES",SporTV
