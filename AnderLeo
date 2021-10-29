@@ -27,8 +27,6 @@ https://stmv1.vhcast.com/tvcine/tvcine/chunklist_w1852439177.m3u8
 https://srv1.painelvideo.com/tvmix/tvmix/chunklist_w2012370176.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WIDNIqB.png" group-title="BRAZIL",GLOBO
 https://stmv3.samcast.com.br/jose5122/jose5122/chunklist_w541114289.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WIDNIqB.png" group-title="BRAZIL",NOVO CANAL
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae66b359b270007869ff1/master.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/HnL2uBA.png" group-title="BRAZIL",Band (720p)
 https://evpp.mm.uol.com.br/geob_band/app/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WIDNIqB.png" group-title="BRAZIL",SBT
