@@ -26,6 +26,9 @@ https://stmv1.vhcast.com/tvcine/tvcine/chunklist_w1852439177.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/M/mix-tv-logo-E393CFB0C4-seeklogo.com.gif" group-title="BRAZIL",TV MIX
 https://srv1.painelvideo.com/tvmix/tvmix/chunklist_w2012370176.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WIDNIqB.png" group-title="BRAZIL",GLOBO
+#EXTINF:-1 tvg-id="Band.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://imgur.com/HnL2uBA.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0" group-title="General",Band (720p) [Geo-blocked]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+https://evpp.mm.uol.com.br/geob_band/app/playlist.m3u8
 https://stmv3.samcast.com.br/jose5122/jose5122/chunklist_w541114289.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WIDNIqB.png" group-title="BRAZIL",SBT
 https://5a1c76baf08c0.streamlock.net/sbtinterior/SLmOiqg505FQZnhkfn01x94qWLHzQzfQ/chunklist_w763122445.m3u8
