@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/SPORTVlogo.png/revision/latest?cb=20120720191356" group-title="ESPORTES",SporTV PT
-encurtador.com.br/tyGP2
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/SPORTVlogo.png/revision/latest?cb=20120720191356" group-title="ESPORTES",SporTV
+http://serv-22.plusprime4.xyz:2095/NEW_LIVE3870760065/2271604026/178?token=ShZcWRELFQxDAQYEBgQPCg0CUQoAUlAGUAYGVAMFBgBXAlZdBwAADldHThRCQktdVFhoWlwRDwQDCElDQkBRRW5dUBpYQQAOVVxSFB0UTVFYUBUJCQUGAAAIXFcOABgVQV1QGlhBBAFRU1UUHRRcQEFQRV1ZX2pRUUYMAlIRDllEWFgUQAxZaQUAD1dfUhsCFwUVHxpaRkUWCgsUW18YFVNdQEoDF1IUW0dQAgYOGxQXVlhGVkdHTBYKRyNlERgVVExAXQwQXlkPR1gURUUbFBdcRGxKVkZBRlUEDFJBFg0TBBYUQA5WTj4GDVhfU1pMXFpZQBoJFwQWHEcMWF1dQ15Ga0gLBxUMQ1xWBgAURA==
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f3/PlayTV_%282008%29.png/revision/latest?cb=20140422192643" group-title="BRAZIL",TV NOVA PLAY
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://boxbrazil.tv.br/wp-content/uploads/2019/07/logo-telaviva.png" group-title="BRAZIL",TELAVIVA TV
