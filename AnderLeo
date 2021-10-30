@@ -17,6 +17,8 @@ http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="ESPORTES",TNT SPORTES 2
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="ESPORTES",TNT SPORTES 3
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="ESPORTES",TNT SPORTES 5
 https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="ESPORTES",TNT SPORTES 7
