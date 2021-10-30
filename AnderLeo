@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WIDNIqB.png" group-title="BRAZIL",BET Pluto TV (720p
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff768b6a4c8b80008498610/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/SPORTVlogo.png/revision/latest?cb=20120720191356" group-title="ESPORTES",BANDSPORTS
 http://104.149.132.98:2082/hlsr/TRNcUBZZEwoRAgFeBQRVX1VTAVRcUlsBVwVUWFMFUgcFCVUAUQhUVgAUSRpAQEVcBVptXl0RWQ8DAAMOSkNCQVNDa1gBEwsSAQZWCwMGBxtIFUZeVFZBAwIcE0kPBRUIFAMHCVUJBAARGkddS0BSSwpWXmhdVhVQUVUTAwgUW14aE1tfOlVUXVJYARoJFgcbSBVbREkRWVdHXF0VRANeRkRQQFRHCxMCAA5VGh8WVFYRWUZFQBFZG3BiExVEBE9GU19HWApfEwoRW1ZNCxYbGw1EbUVcQBdLV1FcXBRDDRAGExgTCFBJb1BZC1ZWV0NQC1lBFQMRUhseElxWCAhDXURuRFgBEwsSAQdSCAQMAxsZ/anderson11/11anderson/61027/3acc403c6a2d4738ea544b3d24fd072c/61027_146.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/SPORTVlogo.png/revision/latest?cb=20120720191356" group-title="ESPORTES",SporTV
@@ -48,7 +46,7 @@ https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_480_av-p.m3u8?sd=10&reb
 #EXTINF:-1 tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2021/04/Marca-da-RBTV.jpg" group-title="BRAZIL",RBTV
 https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/12/TV-Cultura-ao-Vivo-Online.png" group-title="BRAZIL",CULTURA
-https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1719249518.m3u8
+http://wowza4.catve.com.br:1935/live/livestream/media.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dRZ9CTG.png" group-title="ESPORTES",All Sports
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aUU5Hhh.png" group-title="BRAZIL",Band - RBA TV (PA)
