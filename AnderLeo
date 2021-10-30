@@ -3,8 +3,6 @@
 http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/SPORTVlogo.png/revision/latest?cb=20120720191356" group-title="ESPORTES",BANDSPORTS
 http://104.149.132.98:2082/hlsr/TRNcUBZZEwoRAgFeBQRVX1VTAVRcUlsBVwVUWFMFUgcFCVUAUQhUVgAUSRpAQEVcBVptXl0RWQ8DAAMOSkNCQVNDa1gBEwsSAQZWCwMGBxtIFUZeVFZBAwIcE0kPBRUIFAMHCVUJBAARGkddS0BSSwpWXmhdVhVQUVUTAwgUW14aE1tfOlVUXVJYARoJFgcbSBVbREkRWVdHXF0VRANeRkRQQFRHCxMCAA5VGh8WVFYRWUZFQBFZG3BiExVEBE9GU19HWApfEwoRW1ZNCxYbGw1EbUVcQBdLV1FcXBRDDRAGExgTCFBJb1BZC1ZWV0NQC1lBFQMRUhseElxWCAhDXURuRFgBEwsSAQdSCAQMAxsZ/anderson11/11anderson/61027/3acc403c6a2d4738ea544b3d24fd072c/61027_146.ts
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/SPORTVlogo.png/revision/latest?cb=20120720191356" group-title="ESPORTES",SporTV
-https://bit.ly/3pQ8ddC
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f3/PlayTV_%282008%29.png/revision/latest?cb=20140422192643" group-title="BRAZIL",TV NOVA PLAY
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://boxbrazil.tv.br/wp-content/uploads/2019/07/logo-telaviva.png" group-title="BRAZIL",TELAVIVA TV
@@ -75,73 +73,73 @@ http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13108
 http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13112
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlmaTRKeieuQLnZOh5spELZLX4dS6MLN0frg&usqp=CAU" group-title="BRAZIL",Universal TV FHD
 http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13113
-EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCS2m4a2O2wX6DrxILc6XuMOHmIJdMphR9F4oCr3pO-V7ToB9HBrS00tKQ&s=10" group-title="BRAZIL",Warner Channel
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCS2m4a2O2wX6DrxILc6XuMOHmIJdMphR9F4oCr3pO-V7ToB9HBrS00tKQ&s=10" group-title="BRAZIL",Warner Channel
 http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13114
-EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCS2m4a2O2wX6DrxILc6XuMOHmIJdMphR9F4oCr3pO-V7ToB9HBrS00tKQ&s=10" group-title="BRAZIL",Warner Channel HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCS2m4a2O2wX6DrxILc6XuMOHmIJdMphR9F4oCr3pO-V7ToB9HBrS00tKQ&s=10" group-title="BRAZIL",Warner Channel HD
 http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13115
-EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCS2m4a2O2wX6DrxILc6XuMOHmIJdMphR9F4oCr3pO-V7ToB9HBrS00tKQ&s=10" group-title="BRAZIL",Warner Channel FHD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCS2m4a2O2wX6DrxILc6XuMOHmIJdMphR9F4oCr3pO-V7ToB9HBrS00tKQ&s=10" group-title="BRAZIL",Warner Channel FHD
 http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13116
-EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR__V6__N3JirO6vjNtNwM6DzX4Ky7Am4jxJva5HiU4WkKTgq4xwjiZCmMj&s=10" group-title="BRAZIL",Canal Sony HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR__V6__N3JirO6vjNtNwM6DzX4Ky7Am4jxJva5HiU4WkKTgq4xwjiZCmMj&s=10" group-title="BRAZIL",Canal Sony HD
 http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13118
-EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuGOd9LJzYTeJoKYZhT5ErN_N3g1lrD0tsi-rlgGFlKfwc2Kih2O_rDvs&s=10" group-title="BRAZIL",FOX HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuGOd9LJzYTeJoKYZhT5ErN_N3g1lrD0tsi-rlgGFlKfwc2Kih2O_rDvs&s=10" group-title="BRAZIL",FOX HD
 http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13121
-EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuGOd9LJzYTeJoKYZhT5ErN_N3g1lrD0tsi-rlgGFlKfwc2Kih2O_rDvs&s=10" group-title="BRAZIL",FOX HD - LEG
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuGOd9LJzYTeJoKYZhT5ErN_N3g1lrD0tsi-rlgGFlKfwc2Kih2O_rDvs&s=10" group-title="BRAZIL",FOX HD - LEG
 http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13122
-EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRciNpaKNmJ2khKiRIHMkX0oGfKTL8-sr8M5xGFxw5kS-C3IJdFbIvEjoM&s=10" group-title="BRAZIL",Fox Premium 1 HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRciNpaKNmJ2khKiRIHMkX0oGfKTL8-sr8M5xGFxw5kS-C3IJdFbIvEjoM&s=10" group-title="BRAZIL",Fox Premium 1 HD
 http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13125
-EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRciNpaKNmJ2khKiRIHMkX0oGfKTL8-sr8M5xGFxw5kS-C3IJdFbIvEjoM&s=10" group-title="BRAZIL",Fox Premium 1 FHD - LEG
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRciNpaKNmJ2khKiRIHMkX0oGfKTL8-sr8M5xGFxw5kS-C3IJdFbIvEjoM&s=10" group-title="BRAZIL",Fox Premium 1 FHD - LEG
 http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13128
-EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRciNpaKNmJ2khKiRIHMkX0oGfKTL8-sr8M5xGFxw5kS-C3IJdFbIvEjoM&s=10" group-title="BRAZIL",Fox Premium 2 HD - LEG
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRciNpaKNmJ2khKiRIHMkX0oGfKTL8-sr8M5xGFxw5kS-C3IJdFbIvEjoM&s=10" group-title="BRAZIL",Fox Premium 2 HD - LEG
 http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13130
-EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpfYpwo1NJuHGBufasOMScIWyD2QfQnARJB7QCGIRPjnPtdiTZnidIatM&s=10" group-title="BRAZIL",TNT Series FHD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpfYpwo1NJuHGBufasOMScIWyD2QfQnARJB7QCGIRPjnPtdiTZnidIatM&s=10" group-title="BRAZIL",TNT Series FHD
 http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13138
-EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0S21eYjzH2pWvAlkiYlSTaST6EfavDNNQ1oO8zR_MnTL2m0rvwRr6jzA&s=10" group-title="BRAZIL",AXN HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0S21eYjzH2pWvAlkiYlSTaST6EfavDNNQ1oO8zR_MnTL2m0rvwRr6jzA&s=10" group-title="BRAZIL",AXN HD
 http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13140
-EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0S21eYjzH2pWvAlkiYlSTaST6EfavDNNQ1oO8zR_MnTL2m0rvwRr6jzA&s=10" group-title="BRAZIL",AXN FHD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0S21eYjzH2pWvAlkiYlSTaST6EfavDNNQ1oO8zR_MnTL2m0rvwRr6jzA&s=10" group-title="BRAZIL",AXN FHD
 http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13143
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Megapix_logo_2011.png" group-title="BRAZIL",Megapix HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Megapix_logo_2011.png" group-title="BRAZIL",Megapix HD
 http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13145
-EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKfz41nqjEz0ar7e89ndVTjJsCmb6fyOxufKGQvCYehnTBUwY4j4Fs74o&s=10" group-title="BRAZIL",CineMax FHD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKfz41nqjEz0ar7e89ndVTjJsCmb6fyOxufKGQvCYehnTBUwY4j4Fs74o&s=10" group-title="BRAZIL",CineMax FHD
 http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13149
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Telecine_Action_2.png" group-title="BRAZIL",Telecine Action HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Telecine_Action_2.png" group-title="BRAZIL",Telecine Action HD
 http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13151
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Telecine_Action_2.png" group-title="BRAZIL",Telecine Action HD - LEG
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Telecine_Action_2.png" group-title="BRAZIL",Telecine Action HD - LEG
 http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13152
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Telecine_Action_2.png" group-title="BRAZIL",Telecine Action FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Telecine_Action_2.png" group-title="BRAZIL",Telecine Action FHD
 http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13153
-EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrJyB1nuz8-YJTGLKxJmPDKudpCTH7vqOS1qlrjGy7RYIuYEhrMS3rPSVb&s=10" group-title="BRAZIL",Telecine Cult FHD - LEG
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrJyB1nuz8-YJTGLKxJmPDKudpCTH7vqOS1qlrjGy7RYIuYEhrMS3rPSVb&s=10" group-title="BRAZIL",Telecine Cult FHD - LEG
 http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13158
-EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQfNRU87v-LvjAHyM1-RrUPYJiJPR3g84Smn2o93laaL58o1llifxf_nkP&s=10" group-title="BRAZIL",Telecine Fun HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQfNRU87v-LvjAHyM1-RrUPYJiJPR3g84Smn2o93laaL58o1llifxf_nkP&s=10" group-title="BRAZIL",Telecine Fun HD
 http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13161
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Telecine_Pipoca.png/1024px-Telecine_Pipoca.png" group-title="BRAZIL",Telecine Pipoca HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Telecine_Pipoca.png/1024px-Telecine_Pipoca.png" group-title="BRAZIL",Telecine Pipoca HD
 http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13166
-EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLGN3srTow5uAF3CaoYO0_k274ufLtGOyUhdtNCOPVJZEFhpw9fI2Th1E&s=10" group-title="BRAZIL",Telecine Premium HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLGN3srTow5uAF3CaoYO0_k274ufLtGOyUhdtNCOPVJZEFhpw9fI2Th1E&s=10" group-title="BRAZIL",Telecine Premium HD
 http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13171
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Telecine_Touch_3.png" group-title="BRAZIL",Telecine Touch HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Telecine_Touch_3.png" group-title="BRAZIL",Telecine Touch HD
 http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13176
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Telecine_Touch_3.png" group-title="BRAZIL",Telecine Touch HD - LEG
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Telecine_Touch_3.png" group-title="BRAZIL",Telecine Touch HD - LEG
 http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13177
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Telecine_Touch_3.png" group-title="BRAZIL",Telecine Touch FHD - LEG
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Telecine_Touch_3.png" group-title="BRAZIL",Telecine Touch FHD - LEG
 http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13179
-EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/hbo-logo.png" group-title="BRAZIL",HBO HD
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/hbo-logo.png" group-title="BRAZIL",HBO HD
 http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13183
-EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/hbo-logo.png" group-title="BRAZIL",HBO HD
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/hbo-logo.png" group-title="BRAZIL",HBO HD
 http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13184
-EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/hbo-logo.png" group-title="BRAZIL",HBO HD - LEG
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/hbo-logo.png" group-title="BRAZIL",HBO HD - LEG
 http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13184
-EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/hbo-logo.png" group-title="BRAZIL",HBO FHD
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/hbo-logo.png" group-title="BRAZIL",HBO FHD
 http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13185
-EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/hbo-logo.png" group-title="BRAZIL",HBO FHD - LEG
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/hbo-logo.png" group-title="BRAZIL",HBO FHD - LEG
 http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13186
-EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvqhHAbf7RzM2NvFCMhqDEeGEzhVo5bCyPjVln7F8VgppSLp7GxUIzaxxO&s=10" group-title="BRAZIL",HBO 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvqhHAbf7RzM2NvFCMhqDEeGEzhVo5bCyPjVln7F8VgppSLp7GxUIzaxxO&s=10" group-title="BRAZIL",HBO 2
 http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13187
-EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvqhHAbf7RzM2NvFCMhqDEeGEzhVo5bCyPjVln7F8VgppSLp7GxUIzaxxO&s=10" group-title="BRAZIL",HBO 2 HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvqhHAbf7RzM2NvFCMhqDEeGEzhVo5bCyPjVln7F8VgppSLp7GxUIzaxxO&s=10" group-title="BRAZIL",HBO 2 HD
 http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13188
-EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt_xMwzTGMgmiBUOS4JJ-ZYuOio14FieLqXle733uxwx7Zjn-x_YSDh3M&s=10" group-title="BRAZIL",HBO Mundi HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt_xMwzTGMgmiBUOS4JJ-ZYuOio14FieLqXle733uxwx7Zjn-x_YSDh3M&s=10" group-title="BRAZIL",HBO Mundi HD
 http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13194
-EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt_xMwzTGMgmiBUOS4JJ-ZYuOio14FieLqXle733uxwx7Zjn-x_YSDh3M&s=10" group-title="BRAZIL",HBO Mundi HD - LEG
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt_xMwzTGMgmiBUOS4JJ-ZYuOio14FieLqXle733uxwx7Zjn-x_YSDh3M&s=10" group-title="BRAZIL",HBO Mundi HD - LEG
 http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13195
-EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt_xMwzTGMgmiBUOS4JJ-ZYuOio14FieLqXle733uxwx7Zjn-x_YSDh3M&s=10" group-title="BRAZIL",HBO Mundi FHD - LEG
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt_xMwzTGMgmiBUOS4JJ-ZYuOio14FieLqXle733uxwx7Zjn-x_YSDh3M&s=10" group-title="BRAZIL",HBO Mundi FHD - LEG
 http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13197
 #EXTINF:-1 tvg-logo="https://imgur.com/HnL2uBA.png" group-title="BRAZIL",Band (720p)
 https://evpp.mm.uol.com.br/geob_band/app/playlist.m3u8
